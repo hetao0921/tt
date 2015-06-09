@@ -1,0 +1,52 @@
+8
+
+dir
+2066
+https://192.168.1.200/svn/PPServer/2P_V2.5/dbsync/FxSync/conf
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-02-02T10:01:50.751000Z
+2045
+lizehua
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+c3p0.properties
+file
+
+
+
+
+2015-02-02T10:08:09.126000Z
+af4677f2daff0f8ab408432fdf4b3884
+2015-02-02T10:01:50.751000Z
+2045
+lizehua
+
+log4j.properties
+file
+2146
+
+
+
+2015-02-06T07:00:54.676000Z
+e49d12d11040754c07d35c4f9b7ad418
+2015-02-09T07:32:49.4931000Z
+2146
+hetao
+

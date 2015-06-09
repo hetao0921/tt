@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/2157/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/syncserver/app
+END
+HandlerChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/2157/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/syncserver/app/HandlerChain.java
+END
+IAppServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/2157/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/syncserver/app/IAppServer.java
+END
+ImessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/2157/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/syncserver/app/ImessageHandler.java
+END
+IDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/2157/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/syncserver/app/IDispatcher.java
+END
+MessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/syncserver/app/MessageDispatcher.java
+END

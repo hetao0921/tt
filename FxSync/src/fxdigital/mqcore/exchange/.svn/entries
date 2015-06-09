@@ -1,0 +1,70 @@
+8
+
+dir
+2066
+https://192.168.1.200/svn/PPServer/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-02-03T09:46:50.143000Z
+2065
+lizehua
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+IExchangeMessage.java
+file
+2085
+
+
+
+2015-02-04T09:05:29.610000Z
+2956064234c6b8e81f12ab297e398aac
+2015-02-04T09:08:09.4201000Z
+2085
+hetao
+
+IExchangeService.java
+file
+2067
+
+
+
+2015-02-03T09:07:46.820000Z
+fb943ffb45d056bb4a2e079f7cdf2efa
+2015-02-03T10:08:33.2151000Z
+2067
+hetao
+
+IServiceListener.java
+file
+2110
+
+
+
+2015-02-05T02:29:38.424000Z
+9fee15c626278f4d4ed326d80e072a70
+2015-02-05T06:35:10.9631000Z
+2110
+hetao
+
+impl
+dir
+
+rpc
+dir
+

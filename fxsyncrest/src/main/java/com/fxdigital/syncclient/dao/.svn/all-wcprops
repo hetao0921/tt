@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/2163/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao
+END
+DataNativeRecordSourceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao/DataNativeRecordSourceDao.java
+END
+BaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/2320/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao/BaseDao.java
+END
+DataIncrementVersionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao/DataIncrementVersionDao.java
+END
+IncrementdataInfotabDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/PPServer/!svn/ver/2320/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao/IncrementdataInfotabDao.java
+END
+DataNativeSourceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao/DataNativeSourceDao.java
+END
+LocalCenterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/2230/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao/LocalCenterDao.java
+END
+BackupInfotabDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/2230/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao/BackupInfotabDao.java
+END
+DataOperateDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao/DataOperateDao.java
+END
+DataOperateRecordDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/2171/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao/DataOperateRecordDao.java
+END
+VersionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/2157/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao/VersionDao.java
+END
+NvmpCenterinfosynctabDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/2254/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao/NvmpCenterinfosynctabDao.java
+END
+DataSelfSourceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/2168/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/dao/DataSelfSourceDao.java
+END

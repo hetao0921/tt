@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/2059/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean
+END
+DataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/DataSource.java
+END
+CenterMqserverinfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/CenterMqserverinfo.hbm.xml
+END
+SyncDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/SyncDataSet.java
+END
+NvmpDatasyncnewtab.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/2059/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/NvmpDatasyncnewtab.java
+END
+SyncUpnetworkinfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/SyncUpnetworkinfo.hbm.xml
+END
+NvmpCenterinfotab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/NvmpCenterinfotab.hbm.xml
+END
+NvmpDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/NvmpDevice.java
+END
+SyncUpnetworkinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/SyncUpnetworkinfo.java
+END
+DataOperateRecord.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/DataOperateRecord.hbm.xml
+END
+DataVersion.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/DataVersion.hbm.xml
+END
+SyncDataVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/SyncDataVersion.java
+END
+DataOperateRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/DataOperateRecord.java
+END
+DataSource.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/DataSource.hbm.xml
+END
+NvmpDatasynctab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/2059/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/NvmpDatasynctab.hbm.xml
+END
+NvmpDatasynctab.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/2059/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/NvmpDatasynctab.java
+END
+NvmpCenterinfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/NvmpCenterinfotab.java
+END
+NvmpDevice.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/NvmpDevice.hbm.xml
+END
+IArrayPoJo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/IArrayPoJo.java
+END
+SyncDataSet.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/SyncDataSet.hbm.xml
+END
+NvmpDatasyncnewtab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/PPServer/!svn/ver/2059/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/NvmpDatasyncnewtab.hbm.xml
+END
+DataIncrementVersion.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/DataIncrementVersion.hbm.xml
+END
+DataIncrementVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/DataIncrementVersion.java
+END
+SyncDataVersion.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/SyncDataVersion.hbm.xml
+END
+CenterMqserverinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/CenterMqserverinfo.java
+END
+DataVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/bean/DataVersion.java
+END

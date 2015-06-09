@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/bean
+END
+ResGpMemAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/bean/ResGpMemAttribute.java
+END
+CenterRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/bean/CenterRelation.java
+END
+Notice.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/bean/Notice.java
+END
+Equality.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/bean/Equality.java
+END
+ResourceGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/bean/ResourceGroup.java
+END
+ResourceGroupMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/bean/ResourceGroupMember.java
+END
+RelatedCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/bean/RelatedCenter.java
+END

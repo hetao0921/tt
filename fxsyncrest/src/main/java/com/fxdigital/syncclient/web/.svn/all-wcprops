@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/2159/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/web
+END
+UploadController.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/2256/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/web/UploadController.java
+END
+RestloadController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/2281/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/web/RestloadController.java
+END
+DownloadController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/2185/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/web/DownloadController.java
+END

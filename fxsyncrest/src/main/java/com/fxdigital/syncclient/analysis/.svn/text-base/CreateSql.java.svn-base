@@ -1,0 +1,125 @@
+package com.fxdigital.syncclient.analysis;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.fxdigital.syncclient.analysis.bean.Equality;
+import com.fxdigital.syncclient.analysis.bean.ResGpMemAttribute;
+import com.fxdigital.syncclient.analysis.bean.ResourceGroup;
+import com.fxdigital.syncclient.analysis.bean.ResourceGroupMember;
+
+
+
+public class CreateSql {
+	/**
+	 * 生成三位一体和设置平级中心的删除语句
+	 * @param setId
+	 * @return
+	 */
+	public static String createdeleteEqualitySql(String setId){
+		String sql="DELETE equality_infotab , equalitymaping_infotab from equality_infotab LEFT JOIN equalitymaping_infotab ON equality_infotab.setId=equalitymaping_infotab.setId and equality_infotab.setId='"+setId+"'";
+		return sql;
+	}
+	/**
+	 * 
+	 * 生成三位一体和设置平级中心的添加语句
+	 * @param equality
+	 * @return
+	 */
+	public static String[] createInsertEqualitySql(Equality equality){
+		String operate=equality.getOperate();
+		if("1".equals(operate)||("2").equals(operate)){
+			String[] sql=new String[equality.getMainCenters().size()+2];
+			sql[0]=createdeleteEqualitySql(equality.getSetId());
+			sql[1]="insert into equality_infotab(setId,setCenterId,type)values('"+equality.getSetId()+"','"+equality.getEqualityCenterId()+"','"+equality.getOperate()+"')";
+			List<String> list=equality.getMainCenters();
+			for (int i = 0; i < list.size(); i++) {
+				sql[i+2]="insert into equalitymaping_infotab (setId,mapCenterId)values('"+equality.getSetId()+"','"+list.get(i)+"')";
+			}
+			
+			return sql;
+		}else{
+			String[] sql=new String[0];
+			sql[0]=createdeleteEqualitySql(equality.getSetId());
+			return sql;
+		}
+    
+	}
+	/**
+	 * 
+	 * 生成三位一体和设置平级中心的跟新语句
+	 * @param equality
+	 * @return
+	 */
+	
+	public static String[] createUpdateEqualitySql(Equality equality){
+		String[] sql=new String[equality.getMainCenters().size()+2];
+		sql[0]=createdeleteEqualitySql(equality.getSetId());
+		sql[1]="insert into equality_infotab(setId,setCenterId,type)values('"+equality.getSetId()+"','"+equality.getEqualityCenterId()+"','"+equality.getOperate()+"')";
+		List<String> list=equality.getMainCenters();
+		for (int i = 0; i < list.size(); i++) {
+			sql[i+2]="insert into equalitymaping_infotab (setId,mapCenterId)values('"+equality.getSetId()+"','"+list.get(i)+"')";
+		}
+		
+		return sql;
+	}
+	
+	public static String[] createInsertDynamicGroupSql(ResourceGroup group){
+		String[] sql=null;
+		if(group.getGroupName()==null){//添加和删除操作统一
+			sql=createDeleteDynamicGroupSql(group.getGroupId());
+		}else{
+			List<String> list=new ArrayList<String>();
+			String groupId=group.getGroupId();
+			String sql1="insert into nvmp_resourcegrouptab (GroupID,GroupName,GroupType,UserID,CenterID)values('"+group.getGroupId()+"','"+group.getGroupName()+"','"+group.getGroupType()+"','"+group.getUserId()+"','"+group.getCenterId()+"')";
+			list.add(sql1);
+			List<ResourceGroupMember> members=group.getMembers();
+			for (int i = 0; i < members.size(); i++) {
+				ResourceGroupMember resource=members.get(i);
+				String resourceId=resource.getResourceId();
+				String sql2="insert into nvmp_resourcegroupmembertab(GroupID,ResourceID,ResourceName,ResourceType,ParentID,SortIndex)"
+						+ "values('"+groupId+"','"+resourceId+"','"+resource.getResourceName()+"','"+resource.getResourceType()+"','"+resource.getParentId()+"','"+resource.getSortIndex()+"')";
+				list.add(sql2);
+				List<ResGpMemAttribute>  attributes=resource.getAttributes();
+				for (int j = 0; j < attributes.size(); j++) {
+					ResGpMemAttribute attribute=attributes.get(j);
+					String sql3="insert into nvmp_resourcegroupattrtab(GroupID,ResourceID,AttributeType,AttributeValue)"
+							+ "values('"+groupId+"','"+resourceId+"','"+attribute.getAttributeType()+"','"+attribute.getAttributeValue()+"')";
+					list.add(sql3);
+				}
+			}
+			String[] delete=createDeleteDynamicGroupSql(groupId);
+			int len=delete.length;
+			sql=new String[list.size()+len];
+			
+			for (int i = 0; i < delete.length; i++) {
+				sql[i]=delete[i];
+			}
+			for (int i = 0; i <list.size(); i++) {
+				sql[i+len]=list.get(i);
+			}
+		}
+
+		return sql;
+	}
+	
+	public static String[] createDeleteDynamicGroupSql(String groupId){
+//		String sql="delete from nvmp_resourcegrouptab nr,nvmp_resourcegroupmembertab nrr ,nvmp_resourcegroupattrtab nrt where nr.GroupID=nrr.GroupID and nr.GroupID=nrt.GroupID and nr.GroupID='"+groupId+"'";
+		String[] sql=new String[3];
+		sql[0]="delete from nvmp_resourcegrouptab where GroupID='"+groupId+"'";
+		sql[1]="delete from nvmp_resourcegroupmembertab where GroupID='"+groupId+"'";
+		sql[2]="delete from nvmp_resourcegroupattrtab where GroupID='"+groupId+"'";
+		return sql;
+	}
+	
+	public static String insertIncrementData(String xml){
+		String sql="insert into incrementdata_infotab(incrementsql,businesstype)values('"+xml+"','DynamicGroup')";
+		return sql;
+	}
+	
+	public static String queryLocalCenterID(){
+		String sql="select CenterID from nvmp_centerinfotab";
+		return sql;
+	}
+	
+}

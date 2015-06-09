@@ -1,0 +1,55 @@
+8
+
+dir
+2066
+https://192.168.1.200/svn/PPServer/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/app
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-02-03T05:58:04.381000Z
+2052
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+IAppServer.java
+file
+2071
+
+
+
+2015-02-04T02:08:13.841000Z
+da0ea09d28f184be833b1ea3818eb888
+2015-02-04T03:27:48.8371000Z
+2071
+hetao
+
+IBusiness.java
+file
+2071
+
+
+
+2015-02-04T03:11:38.022000Z
+6464dfb9ba6fc19e047c182d0e94b0f6
+2015-02-04T03:27:48.8371000Z
+2071
+hetao
+
+impl
+dir
+

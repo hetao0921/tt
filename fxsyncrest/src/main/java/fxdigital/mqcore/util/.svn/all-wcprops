@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/mqcore/util
+END
+Protocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/mqcore/util/Protocol.java
+END
+Encoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/mqcore/util/Encoding.java
+END
+RequestType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/mqcore/util/RequestType.java
+END
+ByteArrayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/mqcore/util/ByteArrayUtil.java
+END
+MessageChannelName.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/mqcore/util/MessageChannelName.java
+END
+MsgType.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/mqcore/util/MsgType.java
+END
+Msg.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/mqcore/util/Msg.java
+END
+BaseHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/mqcore/util/BaseHeader.java
+END
+BaseProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/java/fxdigital/mqcore/util/BaseProtocol.java
+END

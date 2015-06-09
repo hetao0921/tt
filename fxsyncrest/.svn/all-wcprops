@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/PPServer/!svn/ver/2165/2P_V2.5/dbsync/fxsyncrest
+END
+hibernate.reveng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/hibernate.reveng.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/PPServer/!svn/ver/2185/2P_V2.5/dbsync/fxsyncrest/pom.xml
+END
+.myhibernatedata
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/.myhibernatedata
+END

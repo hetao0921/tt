@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/PPServer/!svn/ver/2164/2P_V2.5/dbsync/fxsyncrest/src/main/resources
+END
+applicationContext-quartz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/2198/2P_V2.5/dbsync/fxsyncrest/src/main/resources/applicationContext-quartz.xml
+END
+fxdigital-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/2164/2P_V2.5/dbsync/fxsyncrest/src/main/resources/fxdigital-dao.xml
+END
+fxdigital-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/resources/fxdigital-service.xml
+END
+c3p0.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/resources/c3p0.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PPServer/!svn/ver/2198/2P_V2.5/dbsync/fxsyncrest/src/main/resources/log4j.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/resources/applicationContext.xml
+END

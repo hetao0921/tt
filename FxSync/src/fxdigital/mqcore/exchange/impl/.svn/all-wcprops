@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/PPServer/!svn/ver/2065/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/impl
+END
+ExchangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/2085/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/impl/ExchangeMessage.java
+END
+PostConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/2102/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/impl/PostConfig.java
+END
+XMLConvert.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/2146/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/impl/XMLConvert.java
+END
+ExchangeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/2211/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/impl/ExchangeService.java
+END
+ClientMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/2110/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/impl/ClientMessageHandler.java
+END
+Mail4Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/2072/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/impl/Mail4Message.java
+END
+OldMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/2122/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/impl/OldMessageHandler.java
+END
+IConvert.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/2044/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/impl/IConvert.java
+END
+OldMessage4Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/2070/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/impl/OldMessage4Message.java
+END

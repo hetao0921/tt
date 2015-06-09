@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis
+END
+AnalysisNewXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/AnalysisNewXml.java
+END
+Analysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/Analysis.java
+END
+AnalysisCenterRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/AnalysisCenterRelation.java
+END
+JdbcToXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/JdbcToXml.java
+END
+AnalysisOldXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/AnalysisOldXml.java
+END
+CreateSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/CreateSql.java
+END
+AnalysisGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/2199/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/AnalysisGroup.java
+END
+AnalysisEqualtiy.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/PPServer/!svn/ver/2167/2P_V2.5/dbsync/fxsyncrest/src/main/java/com/fxdigital/syncclient/analysis/AnalysisEqualtiy.java
+END

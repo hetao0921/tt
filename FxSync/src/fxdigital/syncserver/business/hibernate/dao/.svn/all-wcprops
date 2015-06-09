@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/2066/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao
+END
+SyncDataVersionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/SyncDataVersionDao.java
+END
+DataVersionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/2222/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/DataVersionDao.java
+END
+HibernateNVMPSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/PPServer/!svn/ver/2059/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/HibernateNVMPSessionFactory.java
+END
+DataIncrementVersionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/DataIncrementVersionDao.java
+END
+SyncUpnetworkinfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/PPServer/!svn/ver/2146/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/SyncUpnetworkinfoDao.java
+END
+FxHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/2059/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/FxHashMap.java
+END
+ReadDBConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/2059/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/ReadDBConfig.java
+END
+NVMPHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/2155/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/NVMPHibernate.java
+END
+LocalCenterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/2110/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/LocalCenterDao.java
+END
+DualDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/2071/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/DualDao.java
+END
+DataSourceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/2071/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/DataSourceDao.java
+END
+DataOperateRecordDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/DataOperateRecordDao.java
+END
+ConvertMapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/2059/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/ConvertMapUtil.java
+END
+FxObjectHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/2059/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/FxObjectHashMap.java
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/2155/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/hibernate.cfg.xml
+END
+SyncDataInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/SyncDataInfoDao.java
+END
+SyncDataSetDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/2155/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/hibernate/dao/SyncDataSetDao.java
+END

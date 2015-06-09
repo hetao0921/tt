@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/commons-logging.jar
+END
+oscarJDBC.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/oscarJDBC.jar
+END
+activemq-core-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/PPServer/!svn/ver/2042/2P_V2.5/dbsync/FxSync/lib/activemq-core-5.5.1.jar
+END
+slf4j-api-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/PPServer/!svn/ver/2048/2P_V2.5/dbsync/FxSync/lib/slf4j-api-1.7.5.jar
+END
+jms.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/PPServer/!svn/ver/2042/2P_V2.5/dbsync/FxSync/lib/jms.jar
+END
+hibernate-jpa-2.0-api-1.0.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar
+END
+oscarHibernate4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/oscarHibernate4.jar
+END
+c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/c3p0-0.9.1.2.jar
+END
+jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+END
+javassist-3.15.0-GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/javassist-3.15.0-GA.jar
+END
+hibernate-entitymanager-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/hibernate-entitymanager-4.1.0.Final.jar
+END
+fastjson-1.1.33.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/PPServer/!svn/ver/2046/2P_V2.5/dbsync/FxSync/lib/fastjson-1.1.33.jar
+END
+jboss-logging-3.1.0.CR2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/jboss-logging-3.1.0.CR2.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/commons-collections-3.2.1.jar
+END
+hibernate-commons-annotations-4.0.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/hibernate-commons-annotations-4.0.1.Final.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/antlr-2.7.7.jar
+END
+commons-lang-2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/commons-lang-2.3.jar
+END
+mysql-connector-java-5.1.24-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/mysql-connector-java-5.1.24-bin.jar
+END
+hibernate-c3p0-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/hibernate-c3p0-4.1.0.Final.jar
+END
+commons-pool.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/commons-pool.jar
+END
+jdom-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/jdom-1.0.jar
+END
+Dm7JdbcDriver16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/Dm7JdbcDriver16.jar
+END
+slf4j-log4j12-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/PPServer/!svn/ver/2048/2P_V2.5/dbsync/FxSync/lib/slf4j-log4j12-1.7.5.jar
+END
+hibernate-envers-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/hibernate-envers-4.1.0.Final.jar
+END
+hibernate-core-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/hibernate-core-4.1.0.Final.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/PPServer/!svn/ver/2046/2P_V2.5/dbsync/FxSync/lib/dom4j-1.6.1.jar
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/PPServer/!svn/ver/2046/2P_V2.5/dbsync/FxSync/lib/log4j-1.2.14.jar
+END
+geronimo-j2ee-management_1.1_spec-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/2048/2P_V2.5/dbsync/FxSync/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar
+END
+DmDialect-for-hibernate4.0-jdk1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/2060/2P_V2.5/dbsync/FxSync/lib/DmDialect-for-hibernate4.0-jdk1.6.jar
+END

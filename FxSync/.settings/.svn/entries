@@ -1,0 +1,52 @@
+8
+
+dir
+2066
+https://192.168.1.200/svn/PPServer/2P_V2.5/dbsync/FxSync/.settings
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-02-03T07:30:29.010000Z
+2060
+lizehua
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+org.eclipse.jdt.core.prefs
+file
+
+
+
+
+2015-02-02T10:08:10.419000Z
+ef561c8a6f314527ba85565c7b496f01
+2015-02-02T09:05:24.540000Z
+2042
+lizehua
+
+org.eclipse.wst.common.project.facet.core.xml
+file
+
+
+
+
+2015-02-03T07:30:46.861000Z
+3d20041df8977cbbaf5754b8b0630c7a
+2015-02-03T07:30:29.010000Z
+2060
+lizehua
+

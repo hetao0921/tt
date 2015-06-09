@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context-4.0.xsd">
+
+
+
+
+
+
+	<!-- 通过封装服务类方法实现 -->
+	<bean id="job1"
+		class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean"
+		p:targetObject-ref="autoIncrementUploadTask" p:targetMethod="run"
+		p:concurrent="false" />
+		
+
+
+
+
+
+
+	<!-- 定时任务时间  每3分钟运行一次 -->
+	<bean id="Trigger1" class="org.springframework.scheduling.quartz.CronTriggerBean"
+		p:jobDetail-ref="job1" p:startDelay="1000"
+		p:cronExpression="0 0/1 * * * ?" />
+		
+		
+
+<bean id="autoGlobalUploadTask" class="com.fxdigital.syncclient.service.AutoGlobalUploadTask"></bean>
+
+	<bean id="job2"
+		class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean"
+		p:targetObject-ref="autoGlobalUploadTask" p:targetMethod="run"
+		p:concurrent="false" />
+		
+
+
+
+
+
+
+	<!-- 定时任务时间  每3分钟运行一次 -->
+	<bean id="Trigger2" class="org.springframework.scheduling.quartz.CronTriggerBean"
+		p:jobDetail-ref="job2" p:startDelay="1000"
+		p:cronExpression="0 0/1 * * * ?" />
+
+
+
+
+
+
+
+
+	<bean id="scheduler"
+		class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+		<property name="triggers">
+			<list>
+				<!--  <ref bean="Trigger1" />  -->
+				 <ref bean="Trigger2" /> 
+			</list>
+		</property>
+	</bean>
+</beans>

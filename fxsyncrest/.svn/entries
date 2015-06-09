@@ -1,0 +1,100 @@
+8
+
+dir
+2165
+https://192.168.1.200/svn/PPServer/2P_V2.5/dbsync/fxsyncrest
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-02-11T09:42:48.504000Z
+2165
+lizehua
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+.classpath
+file
+
+
+
+
+2015-02-11T09:43:32.160000Z
+bb3dd1b21a8f8d36285e0a8a7089d000
+2015-02-06T05:42:31.339000Z
+2121
+lizehua
+
+.myhibernatedata
+file
+2167
+
+
+
+2015-02-12T01:22:00.315000Z
+74d8f7a5d1423703b78be3ae98be189e
+2015-02-12T07:23:11.3451000Z
+2167
+hetao
+
+.project
+file
+
+
+
+
+2015-02-11T09:43:32.177000Z
+99f4b63207815734f9e6f99af4b8b97b
+2015-02-06T05:42:31.339000Z
+2121
+lizehua
+
+.settings
+dir
+
+hibernate.reveng.xml
+file
+
+
+
+
+2015-02-11T09:43:32.179000Z
+08478437f3115d97f66401469c8d939c
+2015-02-06T05:42:31.339000Z
+2121
+lizehua
+
+log
+dir
+
+pom.xml
+file
+2185
+
+
+
+2015-02-28T06:16:39.877000Z
+04848dadd0e25997625ae117fb111aae
+2015-02-28T09:05:51.260648Z
+2185
+hetao
+
+src
+dir
+
+target
+dir
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/PPServer/!svn/ver/2045/2P_V2.5/dbsync/FxSync/conf
+END
+c3p0.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/PPServer/!svn/ver/2045/2P_V2.5/dbsync/FxSync/conf/c3p0.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/PPServer/!svn/ver/2146/2P_V2.5/dbsync/FxSync/conf/log4j.properties
+END

@@ -1,0 +1,31 @@
+package fxdigital.mqcore.exchange.impl;
+
+import javax.jms.Message;
+
+import fxdigital.mqcore.base.BaseReciver;
+import fxdigital.mqcore.base.IReciveHandler;
+import fxdigital.util.Log4jUtil;
+import fxdigital.util.MessageChannelName;
+import fxdigital.util.RequestType;
+
+public class OldMessageHandler implements IReciveHandler{
+	
+	private ExchangeService exchangeServerice;
+	public OldMessageHandler(ExchangeService exchangeService) {
+		exchangeServerice = exchangeService;
+	}
+	public void start(){
+		BaseReciver receiver = new BaseReciver(true,
+				"192.168.1.55", 61616,
+				true,MessageChannelName.LOCAL_CLIENT_CHANNEL);
+		receiver.start(this);
+	}
+	
+
+	public boolean handler(Message message) {
+		// TODO Auto-generated method stub
+		Log4jUtil.info(OldMessageHandler.class, "收到老同步服务器发过来的消息");
+		return exchangeServerice.oldHandler(RequestType.OLDSERVER_REQUEST,message);
+	}	
+
+}

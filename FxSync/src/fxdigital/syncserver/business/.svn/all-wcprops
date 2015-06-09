@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PPServer/!svn/ver/2066/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business
+END
+UpLoadBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/2154/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/UpLoadBusiness.java
+END
+ResetLoadUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/2172/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/ResetLoadUtil.java
+END
+DownLoadUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/2075/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/DownLoadUtil.java
+END
+DownLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/2146/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/DownLoad.java
+END
+OldSyncServerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/2222/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/OldSyncServerUtil.java
+END
+NewSyncServerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/2222/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/NewSyncServerUtil.java
+END
+NewSyncServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/2211/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/NewSyncServer.java
+END
+ResetLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/2172/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/ResetLoad.java
+END
+SyncServerBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/2221/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/SyncServerBusiness.java
+END
+UpLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/2172/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/UpLoad.java
+END
+MessageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/2114/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/MessageInfo.java
+END
+OldSyncServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/2222/2P_V2.5/dbsync/FxSync/src/fxdigital/syncserver/business/OldSyncServer.java
+END

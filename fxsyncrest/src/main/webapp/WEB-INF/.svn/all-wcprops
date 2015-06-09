@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/webapp/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PPServer/!svn/ver/2210/2P_V2.5/dbsync/fxsyncrest/src/main/webapp/WEB-INF/web.xml
+END
+fxdigital-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/2121/2P_V2.5/dbsync/fxsyncrest/src/main/webapp/WEB-INF/fxdigital-servlet.xml
+END

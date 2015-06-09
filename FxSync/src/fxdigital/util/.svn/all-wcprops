@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/PPServer/!svn/ver/2056/2P_V2.5/dbsync/FxSync/src/fxdigital/util
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/PPServer/!svn/ver/2222/2P_V2.5/dbsync/FxSync/src/fxdigital/util/FileUtil.java
+END
+RequestType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PPServer/!svn/ver/2056/2P_V2.5/dbsync/FxSync/src/fxdigital/util/RequestType.java
+END
+MessageChannelName.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/2110/2P_V2.5/dbsync/FxSync/src/fxdigital/util/MessageChannelName.java
+END
+MsgType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/util/MsgType.java
+END
+Log4jUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PPServer/!svn/ver/2122/2P_V2.5/dbsync/FxSync/src/fxdigital/util/Log4jUtil.java
+END

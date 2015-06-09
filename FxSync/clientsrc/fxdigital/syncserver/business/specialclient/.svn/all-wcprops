@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/2105/2P_V2.5/dbsync/FxSync/clientsrc/fxdigital/syncserver/business/specialclient
+END
+OldSyncClientUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/2123/2P_V2.5/dbsync/FxSync/clientsrc/fxdigital/syncserver/business/specialclient/OldSyncClientUtil.java
+END
+SpecialClientThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/PPServer/!svn/ver/2156/2P_V2.5/dbsync/FxSync/clientsrc/fxdigital/syncserver/business/specialclient/SpecialClientThread.java
+END
+NewSyncClientUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/2222/2P_V2.5/dbsync/FxSync/clientsrc/fxdigital/syncserver/business/specialclient/NewSyncClientUtil.java
+END
+OldSyncClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/2123/2P_V2.5/dbsync/FxSync/clientsrc/fxdigital/syncserver/business/specialclient/OldSyncClient.java
+END
+SpecialClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/2156/2P_V2.5/dbsync/FxSync/clientsrc/fxdigital/syncserver/business/specialclient/SpecialClient.java
+END
+NewSyncClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/2222/2P_V2.5/dbsync/FxSync/clientsrc/fxdigital/syncserver/business/specialclient/NewSyncClient.java
+END

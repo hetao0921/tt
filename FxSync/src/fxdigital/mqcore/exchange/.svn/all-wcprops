@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/PPServer/!svn/ver/2065/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange
+END
+IServiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/2110/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/IServiceListener.java
+END
+IExchangeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/2067/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/IExchangeService.java
+END
+IExchangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/2085/2P_V2.5/dbsync/FxSync/src/fxdigital/mqcore/exchange/IExchangeMessage.java
+END

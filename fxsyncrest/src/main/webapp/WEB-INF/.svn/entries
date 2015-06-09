@@ -1,0 +1,55 @@
+8
+
+dir
+2165
+https://192.168.1.200/svn/PPServer/2P_V2.5/dbsync/fxsyncrest/src/main/webapp/WEB-INF
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-02-06T05:42:31.339000Z
+2121
+lizehua
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+classes
+dir
+
+fxdigital-servlet.xml
+file
+
+
+
+
+2015-02-11T09:43:33.510000Z
+d93a317e1411cdf6913b71b5c2df0b30
+2015-02-06T05:42:31.339000Z
+2121
+lizehua
+
+web.xml
+file
+2210
+
+
+
+2015-03-09T01:02:34.228000Z
+aff2bb525f15228be2edb4f9d30415de
+2015-03-10T03:15:00.9691000Z
+2210
+hetao
+

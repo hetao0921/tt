@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/PPServer/!svn/ver/2012/2P_V2.5/mavenweb/src/main/resources
+END
+fxdigital-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/PPServer/!svn/ver/2006/2P_V2.5/mavenweb/src/main/resources/fxdigital-dao.xml
+END
+fxdigital-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PPServer/!svn/ver/1866/2P_V2.5/mavenweb/src/main/resources/fxdigital-service.xml
+END
+c3p0.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/PPServer/!svn/ver/1896/2P_V2.5/mavenweb/src/main/resources/c3p0.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/PPServer/!svn/ver/2012/2P_V2.5/mavenweb/src/main/resources/log4j.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PPServer/!svn/ver/1819/2P_V2.5/mavenweb/src/main/resources/applicationContext.xml
+END
