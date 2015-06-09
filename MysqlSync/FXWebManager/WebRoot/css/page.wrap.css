@@ -1,0 +1,31 @@
+@charset "utf-8";
+form {
+	border: 1px solid black;
+	margin: 10px 0;
+	padding: 10px;
+	position: relative;
+}
+
+.page-wrap {
+	background: none repeat scroll 0 0 white;
+	margin: 20px auto;
+	padding: 20px;
+	width: 300px;
+	margin: 20px auto;
+}
+
+div.single-field {
+	padding: 10px;
+	position: relative;
+}
+
+label.beforeInput {
+	display: block;
+	float: left;
+	font-size: 16px;
+	width: 100px;
+}
+
+div.curFocus {
+	background: none repeat scroll 0 0 #79c9ec;
+}

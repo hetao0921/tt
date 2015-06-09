@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/pojo
+END
+DBSyncContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/pojo/DBSyncContent.java
+END
+DataSelfSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/pojo/DataSelfSource.java
+END
+DataNativeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/pojo/DataNativeSource.java
+END
+MsgType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/pojo/MsgType.java
+END
+DBSyncType.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/pojo/DBSyncType.java
+END
+DataOperate.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/pojo/DataOperate.java
+END
+DataNativeRecordSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/pojo/DataNativeRecordSource.java
+END
+MessageBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/pojo/MessageBean.java
+END
+DataOperateRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/pojo/DataOperateRecord.java
+END

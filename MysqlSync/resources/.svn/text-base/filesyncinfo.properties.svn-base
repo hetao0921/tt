@@ -1,0 +1,6 @@
+mainserver.path=/etc/fxconf
+backupserver.path=/etc/fxconf
+#the timer delay(ms)
+filesync.delay=1000
+#the timer interval(ms)
+filesync.interval=600000

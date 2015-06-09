@@ -1,0 +1,234 @@
+2014-10-27 13:00:12,253 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-27 13:00:12,253 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-27 13:00:12,253 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-27 13:00:12,253 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-27 13:00:13,462 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-27 13:00:13,475 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-27 13:27:46,347 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-27 13:27:46,347 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-27 13:27:46,347 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-27 13:27:46,347 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-27 13:27:50,880 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-27 13:27:51,015 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-27 15:15:32,485 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-27 15:15:32,490 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-27 15:15:32,490 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-27 15:15:32,490 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-27 15:15:34,277 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-27 15:15:34,312 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-27 15:19:28,957 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-27 15:19:28,957 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-27 15:19:28,958 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-27 15:19:28,958 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-27 15:19:30,471 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-27 15:19:30,484 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-27 15:19:59,535 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-27 15:19:59,536 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-27 15:19:59,536 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-27 15:19:59,536 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-27 15:20:00,724 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-27 15:20:00,737 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 18:24:52,355 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:24:52,355 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:24:52,355 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 18:24:52,355 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 18:24:55,648 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 18:24:55,804 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 18:27:10,351 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:27:10,351 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:27:10,351 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 18:27:10,866 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 18:27:12,146 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 18:27:12,146 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 18:36:34,136 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:36:34,136 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:36:34,136 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 18:36:34,136 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 18:36:35,368 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 18:36:35,368 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 18:37:21,879 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:37:21,879 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:37:21,879 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 18:37:21,879 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 18:37:23,096 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 18:37:23,096 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 18:37:46,124 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:37:46,124 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:37:46,124 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 18:37:46,124 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 18:37:47,357 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 18:37:47,357 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 18:39:37,053 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:39:37,053 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:39:37,053 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 18:39:37,053 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 18:39:38,316 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 18:39:38,316 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 18:40:21,055 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:40:21,071 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:40:21,071 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 18:40:21,071 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 18:40:22,304 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 18:40:22,304 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 18:45:18,965 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:45:18,965 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:45:18,965 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 18:45:18,965 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 18:45:20,182 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 18:45:20,182 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 18:51:19,839 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:51:19,839 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 18:51:19,839 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 18:51:19,839 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 18:51:21,056 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 18:51:21,056 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:00:52,316 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:00:52,316 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:00:52,316 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 19:00:52,316 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 19:00:53,564 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:00:53,564 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:03:37,886 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:03:37,886 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:03:37,886 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 19:03:37,886 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 19:03:39,118 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:03:39,118 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:04:45,285 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:04:45,285 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:04:45,285 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 19:04:45,285 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 19:04:46,517 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:04:46,517 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:14:46,519 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:14:46,519 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:16:26,486 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:16:26,486 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:16:26,486 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 19:16:26,486 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 19:16:27,750 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:16:27,750 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:16:48,126 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:16:48,126 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:16:48,126 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 19:16:48,126 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 19:16:49,358 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:16:49,358 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:25:22,113 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:25:22,113 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:25:22,113 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 19:25:22,113 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 19:25:23,329 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:25:23,329 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:29:18,474 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:29:18,474 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:29:18,474 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 19:29:18,474 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 19:29:19,706 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:29:19,706 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:31:57,134 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:31:57,134 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:31:57,134 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 19:31:57,134 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 19:31:58,335 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:31:58,335 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:32:48,355 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:32:48,355 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:32:48,355 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 19:32:48,355 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 19:32:49,603 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:32:49,603 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:33:22,476 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:33:22,476 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 19:33:22,476 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 19:33:22,476 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 19:33:23,693 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:33:23,693 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:43:23,696 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:43:23,696 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 19:53:23,722 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 19:53:23,741 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 20:12:15,342 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 20:12:15,342 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 20:12:15,342 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 20:12:15,342 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 20:12:18,229 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 20:12:18,229 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 20:15:03,608 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 20:15:03,608 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 20:15:03,608 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 20:15:03,608 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 20:15:04,872 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 20:15:04,872 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 20:16:43,771 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 20:16:43,771 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 20:16:43,771 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 20:16:43,771 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 20:16:45,050 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 20:16:45,050 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 20:18:12,198 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 20:18:12,198 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 20:18:12,198 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 20:18:12,198 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 20:18:13,446 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 20:18:13,446 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-28 20:19:36,358 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 20:19:36,358 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-28 20:19:36,358 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-28 20:19:36,358 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-28 20:19:37,590 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-28 20:19:37,590 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-29 08:54:57,009 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 08:54:57,009 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 08:54:57,009 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-29 08:54:57,009 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-29 08:54:59,730 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-29 08:54:59,870 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-29 08:55:46,643 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 08:55:46,643 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 08:55:46,643 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-29 08:55:46,643 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-29 08:55:47,833 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-29 08:55:47,843 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-29 08:56:07,499 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 08:56:07,499 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 08:56:07,499 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-29 08:56:07,499 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-29 08:56:08,689 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-29 08:56:08,699 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-29 09:00:36,820 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 09:00:36,820 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 09:00:36,820 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-29 09:00:36,820 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-29 09:00:38,054 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-29 09:00:38,064 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-29 09:03:03,981 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 09:03:03,981 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 09:03:03,981 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-29 09:03:03,981 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-29 09:03:05,171 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-29 09:03:05,181 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-29 09:03:28,637 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 09:03:28,647 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 09:03:28,647 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-29 09:03:28,647 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-29 09:03:29,839 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-29 09:03:29,849 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-29 09:04:47,924 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 09:04:47,924 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 09:04:47,924 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-29 09:04:47,924 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-29 09:04:49,114 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-29 09:04:49,124 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-29 09:05:01,700 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 09:05:01,700 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 09:05:01,700 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-29 09:05:01,700 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-29 09:05:02,902 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-29 09:05:02,912 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>
+2014-10-29 09:07:59,818 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 09:07:59,818 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - </etc/fxconf>
+2014-10-29 09:07:59,818 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <1000>
+2014-10-29 09:07:59,818 INFO [com.fxdigital.filesync.bundle.ResourceBundle] - <600000>
+2014-10-29 09:08:01,018 INFO [com.fxdigital.filesync.service.FilesyncService] - <start task...>
+2014-10-29 09:08:01,028 INFO [com.fxdigital.filesync.service.FilesyncService] - <the path is not exist...>

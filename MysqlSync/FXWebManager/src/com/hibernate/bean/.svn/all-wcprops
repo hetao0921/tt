@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean
+END
+DataNativeSource.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/DataNativeSource.hbm.xml
+END
+DataNativeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/DataNativeSource.java
+END
+DataSelfSource.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/DataSelfSource.hbm.xml
+END
+NvmpCenterinfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1542/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/NvmpCenterinfotab.java
+END
+CenterMqserverinfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/PPServer/!svn/ver/1542/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/CenterMqserverinfo.hbm.xml
+END
+DataNativerecordSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/DataNativerecordSource.java
+END
+DataOperate.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/DataOperate.hbm.xml
+END
+DataSelfSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/DataSelfSource.java
+END
+NvmpCenterinfotab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PPServer/!svn/ver/1542/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/NvmpCenterinfotab.hbm.xml
+END
+DataOperateRecord.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/DataOperateRecord.hbm.xml
+END
+CenterMqserverinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/PPServer/!svn/ver/1542/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/CenterMqserverinfo.java
+END
+DataOperate.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/DataOperate.java
+END
+DataNativerecordSource.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/DataNativerecordSource.hbm.xml
+END
+DataOperateRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/hibernate/bean/DataOperateRecord.java
+END

@@ -1,0 +1,173 @@
+package com.fxdigital.mysqlsync.bundle;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Properties;
+
+import org.apache.log4j.Logger;
+
+import com.fxdigital.mysqlsync.util.FileUtil;
+import com.fxdigital.mysqlsync.util.LogUtil;
+
+/**
+ * @author Administrator 配置文件读取类
+ * 
+ */
+public class ResourceBundle {
+	private static final Logger LOG = Logger.getLogger(ResourceBundle.class);
+	
+	public static final Logger logger = Logger.getLogger(ResourceBundle.class);
+
+	public static MycnfBean getResource() {
+		MycnfBean mb = new MycnfBean();
+		Properties props = new Properties();
+		InputStream inStream = null;
+		try {
+			// inStream
+			// =this.getClass().getClassLoader().getResourceAsStream("mycnf.properties");
+			// inStream =Object.class.getResourceAsStream("/mycnf.properties");
+
+			// inStream =
+			// ResourceBundle.class.getResourceAsStream("/mycnf.properties");
+			inStream = new FileInputStream("resources/mycnf.properties");
+
+			// inStream =new BufferedInputStream(new
+			// FileInputStream("/mycnf.properties"));
+		} catch (Exception e) {
+			e.printStackTrace();
+			LOG.info("加载配置文件失败");
+		}
+		try {
+			props.load(inStream);
+			inStream.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+			LOG.info(e);
+		}
+		String filepath = props.getProperty("file.path");
+		String rootpassword = props.getProperty("root.password");
+		LOG.info("rootpassword  " + rootpassword);
+		String grantusername = props.getProperty("grant.username");
+		String grantpassword = props.getProperty("grant.password");
+		String binlogformat=props.getProperty("binlog_format");
+		String logbin = props.getProperty("log_bin");
+		String binlogdodb = props.getProperty("binlog-do-db");
+		String binlogignoredb = props.getProperty("binlog-ignore-db");
+		String replicateignoretable = props
+				.getProperty("replicate-ignore-table");
+		String basedir = props.getProperty("basedir");
+		String datadir = props.getProperty("datadir");
+		int port = Integer.valueOf(props.getProperty("port"));
+
+		int masterserverid = Integer.valueOf(props
+				.getProperty("master.server_id"));
+		int slaveserverid = Integer.valueOf(props
+				.getProperty("slave.server_id"));
+		int autoincrementincrement = Integer.valueOf(props
+				.getProperty("auto-increment-increment"));
+		int masterautoincrementoffset = Integer.valueOf(props
+				.getProperty("master.auto-increment-offset"));
+		int slaveautoincrementoffset = Integer.valueOf(props
+				.getProperty("slave.auto-increment-offset"));
+		String slaveskiperrors=props.getProperty("slave_skip_errors");
+		mb.setFilepath(filepath);
+		mb.setRootpassword(rootpassword);
+		mb.setGrantusername(grantusername);
+		mb.setGrantpassword(grantpassword);
+		mb.setLogbin(logbin);
+		mb.setBinlogformat(binlogformat);
+		mb.setBinlogdodb(binlogdodb);
+		mb.setBinlogignoredb(binlogignoredb);
+		mb.setReplicateignoretable(replicateignoretable);
+		mb.setBasedir(basedir);
+		mb.setDatadir(datadir);
+		mb.setPort(port);
+
+		mb.setMasterserverid(masterserverid);
+		mb.setSlaveserverid(slaveserverid);
+		mb.setAutoincrementincrement(autoincrementincrement);
+		mb.setMasterautoincrementoffset(masterautoincrementoffset);
+		mb.setSlaveautoincrementoffset(slaveautoincrementoffset);
+		// LOG.info("rootpassword:" + rootpassword);
+		mb.setSlaveskiperrors(slaveskiperrors);
+
+		return mb;
+	}
+
+	public static MySqlDumpBean getDumpResource() {
+		MySqlDumpBean mdb = new MySqlDumpBean();
+		Properties props = new Properties();
+		InputStream inStream = null;
+		try {
+			// LOG.info("当前目录： "+ResourceBundle.class.getResourceAsStream("/mysqldumpsync.properties"));
+			// LOG.info("当前目录： "+System.getProperty("user.dir")+"\\resources\\mysqldumpsync.properties");
+			// inStream
+			// =this.getClass().getClassLoader().getResourceAsStream("mycnf.properties");
+			// inStream =Object.class.getResourceAsStream("/mycnf.properties");
+
+			// inStream =
+			// ResourceBundle.class.getResourceAsStream("/mysqldumpsync.properties");
+			inStream = new FileInputStream("resources/mysqldumpsync.properties");
+
+			// inStream =new BufferedInputStream(new
+			// FileInputStream("/mycnf.properties"));
+		} catch (Exception e) {
+			e.printStackTrace();
+			LogUtil.BusinessInfo("加载配置文件失败");
+		}
+		try {
+			props.load(inStream);
+			inStream.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+			LOG.info(e);
+		}
+		String sendpath = props.getProperty("sendpath");
+		String receivepath = props.getProperty("receivepath");
+		mdb.setSendpath(sendpath);
+		mdb.setReceivepath(receivepath);
+		if(!FileUtil.isExist(mdb.getSendpath())){
+			LogUtil.BusinessInfo("备份配置文件路径不存在。。。");
+			LogUtil.BusinessInfo("创建相应路径。。。");
+			File sendFile=new File(mdb.getSendpath());
+			sendFile.mkdirs();
+		}
+		if(!FileUtil.isExist(mdb.getReceivepath())){
+			LogUtil.BusinessInfo("备份配置文件路径不存在。。。");
+			LogUtil.BusinessInfo("创建相应路径。。。");
+			File sendFile=new File(mdb.getReceivepath());
+			sendFile.mkdirs();
+		}
+		LogUtil.BusinessInfo("文件备份导出文件位置：" + sendpath + ":" + "文件备份导入文件位置： "
+				+ receivepath);
+		return mdb;
+
+	}
+
+	public static void test() {
+		Properties prop = new Properties();
+
+		try {
+			prop.load(new FileInputStream("resources/mysqldumpsync.properties"));
+
+			System.out.println(prop.getProperty("sendpath"));
+			System.out.println(prop.getProperty("dbuser"));
+			System.out.println(prop.getProperty("dbpassword"));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+	}
+
+	public static void main(String[] args) {
+		LogUtil logUtil=new LogUtil();
+		
+		new ResourceBundle().getResource();
+
+		ResourceBundle.getDumpResource();
+		ResourceBundle.test();
+	}
+
+}

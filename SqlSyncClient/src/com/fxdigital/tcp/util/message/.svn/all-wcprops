@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/1206/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/SqlSyncClient/src/com/fxdigital/tcp/util/message
+END
+FileTransportMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/PPServer/!svn/ver/1206/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/SqlSyncClient/src/com/fxdigital/tcp/util/message/FileTransportMessage.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1206/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/SqlSyncClient/src/com/fxdigital/tcp/util/message/Message.java
+END
+BasicMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/1206/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/SqlSyncClient/src/com/fxdigital/tcp/util/message/BasicMessage.java
+END
+MysqlSyncMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1206/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/SqlSyncClient/src/com/fxdigital/tcp/util/message/MysqlSyncMessage.java
+END
+MysqlMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/1206/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/SqlSyncClient/src/com/fxdigital/tcp/util/message/MysqlMessage.java
+END
+MessageConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/1206/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/SqlSyncClient/src/com/fxdigital/tcp/util/message/MessageConst.java
+END

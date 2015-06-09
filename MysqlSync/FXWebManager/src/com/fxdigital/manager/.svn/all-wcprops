@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/fxdigital/manager
+END
+DeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/fxdigital/manager/DeviceImpl.java
+END
+NewAddImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/fxdigital/manager/NewAddImpl.java
+END
+SoftInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/fxdigital/manager/SoftInfoImpl.java
+END
+QueueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/fxdigital/manager/QueueImpl.java
+END
+DevInfoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/fxdigital/manager/DevInfoManager.java
+END
+UserLogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/fxdigital/manager/UserLogManager.java
+END
+DeviceConfigImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/fxdigital/manager/DeviceConfigImpl.java
+END
+DbManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/fxdigital/manager/DbManager.java
+END

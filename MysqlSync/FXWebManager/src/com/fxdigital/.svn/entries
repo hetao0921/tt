@@ -1,0 +1,55 @@
+8
+
+dir
+1540
+https://192.168.1.200/svn/PPServer/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/com/fxdigital
+https://192.168.1.200/svn/PPServer
+
+
+
+2014-11-17T11:43:47.3391000Z
+1540
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+SysAuth.java
+file
+
+
+
+
+2014-11-17T08:17:29.058000Z
+74a21d98e475de5c5504c24901e6fb56
+2014-11-17T11:43:47.3391000Z
+1540
+hetao
+
+bean
+dir
+
+controller
+dir
+
+db
+dir
+
+manager
+dir
+
+util
+dir
+

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/PPServer/!svn/ver/1357/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib
+END
+mina-integration-ognl-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/mina-integration-ognl-2.0.7.jar
+END
+jaxen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/jaxen.jar
+END
+jzlib-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/jzlib-1.1.1.jar
+END
+jcl-over-slf4j-1.6.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/jcl-over-slf4j-1.6.6.jar
+END
+slf4j-log4j12-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/slf4j-log4j12-1.7.5.jar
+END
+mina-filter-compression-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/mina-filter-compression-2.0.7.jar
+END
+mysql-connector-java-5.1.17-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1357/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/mysql-connector-java-5.1.17-bin.jar
+END
+javassist-3.11.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/javassist-3.11.0.GA.jar
+END
+xbean-spring-3.11.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/xbean-spring-3.11.1.jar
+END
+mina-core-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/mina-core-2.0.7.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/dom4j-1.6.1.jar
+END
+mina-example-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/mina-example-2.0.7.jar
+END
+spring-2.5.6.SEC03.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/spring-2.5.6.SEC03.jar
+END
+jdom-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/jdom-1.0.jar
+END
+mina-statemachine-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/mina-statemachine-2.0.7.jar
+END
+commons-logging-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/commons-logging-1.0.3.jar
+END
+mina-integration-beans-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/mina-integration-beans-2.0.7.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/commons-lang-2.6.jar
+END
+slf4j-api-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/slf4j-api-1.7.5.jar
+END
+tomcat-apr-5.5.23.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/tomcat-apr-5.5.23.jar
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/log4j-1.2.14.jar
+END
+mina-transport-apr-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/mina-transport-apr-2.0.7.jar
+END
+ognl-3.0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/ognl-3.0.5.jar
+END
+javassist-3.7.ga.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/javassist-3.7.ga.jar
+END
+mina-integration-xbean-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/mina-integration-xbean-2.0.7.jar
+END
+mina-integration-jmx-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1209/2P_CarV1.0/Web%E4%BB%A3%E7%A0%81/MysqlSync/lib/mina-integration-jmx-2.0.7.jar
+END

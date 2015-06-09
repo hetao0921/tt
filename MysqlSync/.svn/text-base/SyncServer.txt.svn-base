@@ -1,0 +1,7 @@
+1.����src
+2.�½�lib
+3.��������͵���������Ƶ�lib
+4.antִ��build.xml ant -buildfile build.xml
+
+
+5.���� build.xml ant -buildfile run_server.xml SqlSyncRun

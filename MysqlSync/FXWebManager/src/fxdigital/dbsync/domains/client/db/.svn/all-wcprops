@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/db
+END
+JdbcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/db/JdbcImpl.java
+END
+DBConn.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PPServer/!svn/ver/1563/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/db/DBConn.java
+END
+JdbcToXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/db/JdbcToXml.java
+END
+FxHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/PPServer/!svn/ver/1557/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/db/FxHashMap.java
+END

@@ -1,0 +1,1 @@
+cat E:\Workspaces\MysqlSync/stopslave.sql | /usr/local/mysql/bin/mysql -uroot -proot

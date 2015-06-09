@@ -1,0 +1,38 @@
+2014-10-29 09:07:59,818 INFO [com.fxdigital.mysqlsync.util.LogUtil] - <文件备份导出文件位置：/home/hxht/backupdata:文件备份导入文件位置： /home/hxht/backupdata>
+2014-10-29 09:08:00,148 INFO [com.fxdigital.tcp.util.server.MessageReceiveServer] - <mysql sync server started.>
+2014-10-29 09:08:06,142 INFO [com.fxdigital.tcp.util.server.MessageReceiveHandler] - <server received>
+2014-10-29 09:08:06,142 INFO [com.fxdigital.tcp.util.ProcessMsg] - <收到消息com.fxdigital.tcp.util.Msg@104c575>
+2014-10-29 09:08:06,142 INFO [com.fxdigital.tcp.util.ProcessMsg] - <当前服务器正在进行操作: null>
+2014-10-29 09:08:06,142 INFO [com.fxdigital.tcp.util.ProcessMsg] - <当前操作步骤： null>
+2014-10-29 09:08:06,142 INFO [com.fxdigital.tcp.util.ProcessMsg] - <启动超时：60000ms >
+2014-10-29 09:08:06,142 INFO [com.fxdigital.tcp.util.ProcessMsg] - <消息标识getseverstatus>
+2014-10-29 09:08:06,142 INFO [com.fxdigital.tcp.util.ProcessMsg] - <服务器是否可用false>
+2014-10-29 09:08:06,142 INFO [com.fxdigital.tcp.util.ProcessMsg] - <进程状态null>
+2014-10-29 09:08:06,142 INFO [com.fxdigital.tcp.util.ProcessMsg] - <收到获取服务器状态指令>
+2014-10-29 09:08:06,142 INFO [com.fxdigital.tcp.util.ProcessMsg] - <向客户端192.168.1.55发送反馈>
+2014-10-29 09:08:21,152 INFO [com.fxdigital.tcp.util.server.MessageReceiveServer] - <请求预设信息: 0x11>
+2014-10-29 09:08:21,152 INFO [com.fxdigital.tcp.util.server.MessageReceiveServer] - <请求心跳包信息: 0x11>
+2014-10-29 09:08:23,706 INFO [com.fxdigital.tcp.util.server.MessageReceiveHandler] - <server received>
+2014-10-29 09:08:23,706 INFO [com.fxdigital.tcp.util.ProcessMsg] - <收到消息com.fxdigital.tcp.util.Msg@e06940>
+2014-10-29 09:08:23,706 INFO [com.fxdigital.tcp.util.ProcessMsg] - <当前服务器正在进行操作: null>
+2014-10-29 09:08:23,706 INFO [com.fxdigital.tcp.util.ProcessMsg] - <当前操作步骤： null>
+2014-10-29 09:08:23,706 INFO [com.fxdigital.tcp.util.ProcessMsg] - <启动超时：60000ms >
+2014-10-29 09:08:23,706 INFO [com.fxdigital.tcp.util.ProcessMsg] - <消息标识getseverstatus>
+2014-10-29 09:08:23,706 INFO [com.fxdigital.tcp.util.ProcessMsg] - <服务器是否可用false>
+2014-10-29 09:08:23,706 INFO [com.fxdigital.tcp.util.ProcessMsg] - <进程状态null>
+2014-10-29 09:08:23,706 INFO [com.fxdigital.tcp.util.ProcessMsg] - <收到获取服务器状态指令>
+2014-10-29 09:08:23,716 INFO [com.fxdigital.tcp.util.ProcessMsg] - <向客户端192.168.1.55发送反馈>
+2014-10-29 09:08:38,718 INFO [com.fxdigital.tcp.util.server.MessageReceiveServer] - <请求预设信息: 0x11>
+2014-10-29 09:08:38,718 INFO [com.fxdigital.tcp.util.server.MessageReceiveServer] - <请求心跳包信息: 0x11>
+2014-10-29 09:09:06,720 INFO [com.fxdigital.tcp.util.server.MessageReceiveServer] - <心跳超时！>
+2014-10-29 09:09:06,720 INFO [com.fxdigital.tcp.util.server.MessageReceiveHandler] - <server session close>
+2014-10-29 09:09:23,715 INFO [com.fxdigital.tcp.util.ProcessMsg] - <start timer out ...and reset server>
+2014-10-29 09:09:23,725 INFO [com.fxdigital.tcp.util.server.MessageReceiveServer] - <心跳超时！>
+2014-10-29 09:09:23,725 INFO [com.fxdigital.tcp.util.server.MessageReceiveHandler] - <server session close>
+2014-10-29 09:10:50,408 INFO [com.fxdigital.mysqlsync.util.LogUtil] - <文件备份导出文件位置：/home/hxht/backupdata:文件备份导入文件位置： /home/hxht/backupdata>
+2014-10-29 09:10:50,738 INFO [com.fxdigital.tcp.util.server.MessageReceiveServer] - <mysql sync server started.>
+2014-12-22 15:09:07,403 INFO [com.fxdigital.mysqlsync.util.LogUtil] - <文件备份导出文件位置：/home/hxht/backupdata:文件备份导入文件位置： /home/hxht/backupdata>
+2014-12-22 15:09:09,322 INFO [com.fxdigital.tcp.util.server.MessageReceiveServer] - <mysql sync server started.>
+2014-12-22 15:22:51,959 INFO [com.fxdigital.mysqlsync.util.LogUtil] - <文件备份导出文件位置：/home/hxht/backupdata:文件备份导入文件位置： /home/hxht/backupdata>
+2014-12-22 15:22:52,286 INFO [com.fxdigital.tcp.util.server.MessageReceiveServer] - <mysql sync server started.>
+2015-06-08 10:17:33,639 INFO [com.fxdigital.mysqlsync.util.LogUtil] - <文件备份导出文件位置：/home/hxht/backupdata:文件备份导入文件位置： /home/hxht/backupdata>

@@ -1,0 +1,4 @@
+#Tue Aug 12 17:14:37 CST 2014
+eclipse.preferences.version=1
+validator.Checked=WebRoot/jquery-ui-1.11.0/jquery-ui.js,WebRoot/jquery-ui-1.11.0/jquery-ui.min.js
+validator.Unchecked=

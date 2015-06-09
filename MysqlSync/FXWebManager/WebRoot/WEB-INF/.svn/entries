@@ -1,0 +1,109 @@
+8
+
+dir
+1558
+https://192.168.1.200/svn/PPServer/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF
+https://192.168.1.200/svn/PPServer
+
+
+
+2014-11-17T11:43:47.339000Z
+1540
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+applicationContext.xml
+file
+
+
+
+
+2014-11-17T08:17:26.718000Z
+11cadb8c5fef91c647ecd87069bcc708
+2014-11-17T11:43:47.3391000Z
+1540
+hetao
+
+autoSet.properties
+file
+
+
+
+
+2014-11-17T08:17:21.725000Z
+3fa3aa6f7a74f57ea56a3b00e65a8de1
+2014-11-17T11:43:47.3391000Z
+1540
+hetao
+
+c3p0.properties
+file
+
+
+
+
+2014-11-17T08:19:26.576000Z
+1b0dc360acebf1cd57d5edf2c0cfb850
+2014-11-17T11:43:47.3391000Z
+1540
+hetao
+
+classes
+dir
+
+lib
+dir
+
+log4j.properties
+file
+
+
+
+
+2014-11-17T08:17:26.722000Z
+686c682aa44bd286e67383e22c221b1c
+2014-11-17T11:43:47.3391000Z
+1540
+hetao
+
+logFilePath.properties
+file
+
+
+
+
+2014-11-17T08:17:26.720000Z
+d6b3bd0b7dc000725b9c1f7dac9b6779
+2014-11-17T11:43:47.3391000Z
+1540
+hetao
+
+views
+dir
+
+web.xml
+file
+
+
+
+
+2014-11-17T08:17:26.724000Z
+c0821ffea6b4e126d4ffd587c6465776
+2014-11-17T11:43:47.3391000Z
+1540
+hetao
+

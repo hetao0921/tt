@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="MysqlSync" default="main" basedir=".">
+
+	<property name="src" value="src" />
+	<property name="dest" value="classes" />
+	<property name="bin" value="bin/appservice" />
+	<property name="resources" value="bin/appservice/resources" />
+	<property name="business" value="${bin}/business" />
+
+	<target name="init">
+		<mkdir dir="${dest}" />
+		<mkdir dir="${bin}" />
+		<mkdir dir="${business}" />
+		<copy todir="${bin}/resources">
+					<fileset dir="resources" />
+				</copy>
+		<copy todir="${bin}/lib">
+			<fileset dir="lib" />
+		</copy>
+	</target>
+
+	<target name="clean">
+		<delete includeemptydirs="true">
+			<fileset dir="${dest}" includes="**/*" />
+		</delete>
+	</target>
+
+
+	<target name="mysqlSync.classes">
+		<delete includeemptydirs="true">
+			<fileset dir="${dest}" includes="**/*" />
+		</delete>
+		<javac srcdir="${src}" destdir="${dest}" encoding="utf-8">
+			<classpath refid="project.classpath" />
+		</javac>
+	</target>
+
+	<target name="mysqlsync.jar" depends="mysqlSync.classes">
+		<jar jarfile="mysqlsync.jar" basedir="${dest}" />
+		<copy file="mysqlsync.jar" todir="${bin}" />
+		<delete file="mysqlsync.jar" />
+	</target>
+
+
+	<target name="main" depends="init,mysqlsync.jar">
+	</target>
+
+
+
+	<path id="project.classpath">
+		<fileset dir="lib">
+			<include name="**/*.jar" />
+		</fileset>
+		<fileset dir="bin">
+			<include name="**/*.jar" />
+		</fileset>
+	</path>
+
+</project>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="MysqlSync" default="SqlSyncRun" basedir=".">
+
+	<target name="SqlSyncRun">
+       <java classname="com.fxdigital.tcp.util.ProcessMsg" fork="true" failonerror="true" >
+	     <jvmarg value="-Xss8m" />
+	     <classpath refid="project.classpath"/>
+	   </java>
+	</target>
+	   
+	<path id="project.classpath">
+	    <fileset dir=".">
+        	<include name="*.jar" />
+      	</fileset>
+    	<fileset dir="lib">
+        	<include name="*.jar" />
+      	</fileset>
+	</path>
+
+</project>
+

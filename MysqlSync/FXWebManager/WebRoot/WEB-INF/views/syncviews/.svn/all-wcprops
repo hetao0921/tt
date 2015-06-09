@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews
+END
+waitdownload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/waitdownload.jsp
+END
+systemset.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/systemset.jsp
+END
+downingstate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/downingstate.jsp
+END
+onloadfail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/onloadfail.jsp
+END
+databackup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/databackup.jsp
+END
+datarest.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/datarest.jsp
+END
+downrecord.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/downrecord.jsp
+END
+waitupload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/waitupload.jsp
+END
+logrecord.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/logrecord.jsp
+END
+waitedatabackup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/waitedatabackup.jsp
+END
+upload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/PPServer/!svn/ver/1540/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/upload.jsp
+END

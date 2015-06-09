@@ -1,0 +1,2 @@
+grant replication slave,reload,super on *.* to 'admin'@'192.168.1.55' identified by '111';
+flush privileges;
