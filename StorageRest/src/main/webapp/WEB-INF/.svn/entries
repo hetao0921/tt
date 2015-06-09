@@ -1,0 +1,67 @@
+8
+
+dir
+2365
+https://192.168.1.200/svn/PPServer/2P_V2.5/storage/StorageRest/src/main/webapp/WEB-INF
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-04-16T10:09:17.313000Z
+2316
+fucz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+fxdigital-servlet.xml
+file
+2311
+
+
+
+2015-04-16T07:24:02.962000Z
+5c6d405ad2c1ddb4ef1a1be66c820db4
+2015-04-16T08:05:07.5291000Z
+2311
+hetao
+
+index.jsp
+file
+2286
+
+
+
+2015-04-07T10:38:40.772000Z
+8940caee4907113607dd03f15b35e173
+2015-04-15T09:44:52.9761000Z
+2286
+hetao
+
+lib
+dir
+
+web.xml
+file
+2286
+
+
+
+2015-04-10T14:06:38.566000Z
+8ce565053a230f2ca3be1046d1d1939a
+2015-04-15T09:44:52.9761000Z
+2286
+hetao
+

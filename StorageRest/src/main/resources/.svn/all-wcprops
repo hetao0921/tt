@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/PPServer/!svn/ver/2325/2P_V2.5/storage/StorageRest/src/main/resources
+END
+ontime.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/2492/2P_V2.5/storage/StorageRest/src/main/resources/ontime.properties
+END
+fxdigital-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/2492/2P_V2.5/storage/StorageRest/src/main/resources/fxdigital-dao.xml
+END
+fxdigital-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/2286/2P_V2.5/storage/StorageRest/src/main/resources/fxdigital-service.xml
+END
+c3p0.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/2492/2P_V2.5/storage/StorageRest/src/main/resources/c3p0.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/2286/2P_V2.5/storage/StorageRest/src/main/resources/log4j.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/2492/2P_V2.5/storage/StorageRest/src/main/resources/applicationContext.xml
+END

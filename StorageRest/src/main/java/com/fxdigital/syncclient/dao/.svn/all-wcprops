@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/2478/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/dao
+END
+SqlCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/2478/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/dao/SqlCreate.java
+END
+NvmpRecordCapacityInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/PPServer/!svn/ver/2478/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/dao/NvmpRecordCapacityInfoDao.java
+END
+NvmpRecordMarkDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2479/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/dao/NvmpRecordMarkDao.java
+END
+BaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/2478/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/dao/BaseDao.java
+END
+NvmpRecordStorageInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/PPServer/!svn/ver/2479/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/dao/NvmpRecordStorageInfoDao.java
+END
+NvmpRecordBaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2479/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/dao/NvmpRecordBaseDao.java
+END
+NvmpRecordMarkParameterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/PPServer/!svn/ver/2490/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/dao/NvmpRecordMarkParameterDao.java
+END
+NvmpRecordFileDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2490/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/dao/NvmpRecordFileDao.java
+END

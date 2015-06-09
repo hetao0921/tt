@@ -1,0 +1,34 @@
+8
+
+dir
+2365
+https://192.168.1.200/svn/PPServer/2P_V2.5/storage/StorageRest/src
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-04-20T12:53:11.247000Z
+2365
+dongr
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+main
+dir
+
+test
+dir
+

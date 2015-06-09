@@ -1,0 +1,52 @@
+8
+
+dir
+2365
+https://192.168.1.200/svn/PPServer/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/storage/service/parameters
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-04-16T08:48:47.862000Z
+2315
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+RstpPara.java
+file
+2315
+
+
+
+2015-04-16T08:45:55.134000Z
+9754876d6ca082c5816e8e6d697a69ea
+2015-04-16T08:48:47.8621000Z
+2315
+hetao
+
+RtspParameter.java
+file
+2286
+
+
+
+2015-04-14T07:08:08.026000Z
+0e20a55662c283c1a5b1d6a87f4865b5
+2015-04-15T09:44:52.9761000Z
+2286
+hetao
+

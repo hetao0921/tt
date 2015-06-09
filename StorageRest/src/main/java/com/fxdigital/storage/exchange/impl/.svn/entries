@@ -1,0 +1,40 @@
+8
+
+dir
+2365
+https://192.168.1.200/svn/PPServer/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/storage/exchange/impl
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-04-17T10:37:01.192000Z
+2328
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+ExchangeService.java
+file
+2388
+
+
+
+2015-04-22T01:29:49.715000Z
+fae6ad3967f6993be9cc14e8ed0b7567
+2015-04-22T06:24:40.3901000Z
+2388
+hetao
+

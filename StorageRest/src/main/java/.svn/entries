@@ -1,0 +1,43 @@
+8
+
+dir
+2365
+https://192.168.1.200/svn/PPServer/2P_V2.5/storage/StorageRest/src/main/java
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-04-20T12:53:11.247000Z
+2365
+dongr
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+com
+dir
+
+hibernate.cfg.xml
+file
+2492
+
+
+
+2015-05-12T02:08:10.180000Z
+547f461ce69f4e2ef7aa6e844408528a
+2015-05-28T06:37:12.2361000Z
+2492
+hetao
+

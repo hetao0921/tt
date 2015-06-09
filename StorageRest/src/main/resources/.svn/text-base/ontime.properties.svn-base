@@ -1,0 +1,8 @@
+#更换文件间隔时间，单位：分
+uptatefile.interval=15
+#录像文件最大码率，单位：Mb/s
+videofile.coderate=4
+#录像文件最长时间,单位：秒
+videofile.duraltime=1800
+#同时录像的路数,单位：路
+videofile.channelcount=10

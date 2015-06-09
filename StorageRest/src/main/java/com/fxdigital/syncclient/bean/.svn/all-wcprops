@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/2365/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/bean
+END
+NvmpRecordMarkParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/PPServer/!svn/ver/2489/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/bean/NvmpRecordMarkParameter.java
+END
+NvmpRecordBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/2489/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/bean/NvmpRecordBase.java
+END
+NvmpRecordFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/2489/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/bean/NvmpRecordFile.java
+END
+NvmpRecordCapacityInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/2489/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/bean/NvmpRecordCapacityInfo.java
+END
+NvmpRecordMark.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/2489/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/bean/NvmpRecordMark.java
+END
+NvmpRecordStorageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/2489/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/bean/NvmpRecordStorageInfo.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/2331/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/2492/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util/FileUtil.java
+END
+ConvertMapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/2286/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util/ConvertMapUtil.java
+END
+HibernateNVMPSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/PPServer/!svn/ver/2492/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util/HibernateNVMPSessionFactory.java
+END
+FxObjectHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/2286/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util/FxObjectHashMap.java
+END
+ReadDBConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/2286/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util/ReadDBConfig.java
+END
+FxHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/2286/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util/FxHashMap.java
+END
+ArgsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/2286/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util/ArgsUtil.java
+END
+ConfigUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/2286/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util/ConfigUtil.java
+END
+VideoConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/2492/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util/VideoConverter.java
+END
+MappingFastjsonHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/PPServer/!svn/ver/2379/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util/MappingFastjsonHttpMessageConverter.java
+END
+ConvertBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/2286/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util/ConvertBean.java
+END
+BundlerProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/2492/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/syncclient/util/BundlerProperties.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/2365/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/search/bean
+END
+NvmpRecordFileSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2365/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/search/bean/NvmpRecordFileSearch.java
+END
+NvmpRecordBaseSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2498/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/search/bean/NvmpRecordBaseSearch.java
+END
+NvmpStorageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/2367/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/search/bean/NvmpStorageInfo.java
+END
+NvmpRecordMarkSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2382/2P_V2.5/storage/StorageRest/src/main/java/com/fxdigital/search/bean/NvmpRecordMarkSearch.java
+END
