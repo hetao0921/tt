@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/jms/impl
+END
+MessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/jms/impl/MessageType.java
+END
+Servering.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/jms/impl/Servering.java
+END
+ServerRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/jms/impl/ServerRun.java
+END
+ServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/jms/impl/ServerImpl.java
+END
+ClientRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/jms/impl/ClientRun.java
+END
+ClientImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/jms/impl/ClientImpl.java
+END
+ProxyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/jms/impl/ProxyHandler.java
+END
+Clienting.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/jms/impl/Clienting.java
+END
+SqlSynClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/jms/impl/SqlSynClient.java
+END

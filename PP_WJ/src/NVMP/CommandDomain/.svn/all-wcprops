@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/CommandDomain
+END
+DocShareGroupBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/CommandDomain/DocShareGroupBusiness.java
+END
+ConsultationGroupBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/CommandDomain/ConsultationGroupBusiness.java
+END
+CommandGroupBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/CommandDomain/CommandGroupBusiness.java
+END
+ConferenceGroupBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/CommandDomain/ConferenceGroupBusiness.java
+END
+CommandBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/CommandDomain/CommandBusiness.java
+END
+WhiteBoardGroupBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/CommandDomain/WhiteBoardGroupBusiness.java
+END
+CommanderBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/CommandDomain/CommanderBusiness.java
+END
+CommandDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/CommandDomain/CommandDomain.java
+END
+CommandStateManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/CommandDomain/CommandStateManage.java
+END
+ICommandEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/CommandDomain/ICommandEvent.java
+END
+CommandDomainControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/CommandDomain/CommandDomainControl.java
+END

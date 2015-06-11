@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="FXWebManager"
+  id="myeclipse.1407832176180"
+  context-root="/FXWebManager"
+  j2ee-spec="6.0"
+  archive="FXWebManager.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

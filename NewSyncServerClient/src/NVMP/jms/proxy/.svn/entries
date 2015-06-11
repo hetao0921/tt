@@ -1,0 +1,53 @@
+8
+
+dir
+1834
+https://192.168.1.200/svn/PPServer/2PV2.0/%E4%B8%9A%E5%8A%A1%E5%BA%94%E7%94%A8%E4%BB%A3%E7%A0%81/src/%E5%90%8C%E6%AD%A5%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BA%92%E9%80%9A%E5%AE%A2%E6%88%B7%E7%AB%AF/NewSyncServerClient/src/NVMP/jms/proxy
+https://192.168.1.200/svn/PPServer
+
+
+
+2014-06-24T09:10:50.251000Z
+583
+zouzw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+DBSynchronization.java
+file
+
+
+
+
+2015-01-13T02:15:52.677000Z
+81e93ed4d7a0f862d3dcbc2ed24ff665
+2014-06-24T09:10:50.251000Z
+583
+zouzw
+
+vssver2.scc
+file
+
+
+
+
+2015-01-13T02:15:52.677000Z
+bf2e9723b7697be7d8add029d3243ed2
+2014-06-24T09:10:50.251000Z
+583
+zouzw
+has-props
+

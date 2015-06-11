@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1658/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business
+END
+Accredit.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/Accredit.java
+END
+SystemBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/SystemBusiness.java
+END
+VideoInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/VideoInfo.java
+END
+NetLinkType.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/NetLinkType.java
+END
+ConferenceGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/ConferenceGroup.java
+END
+NodeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/NodeType.java
+END
+ConferenceStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/ConferenceStatus.java
+END
+DBAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1658/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/DBAccess.java
+END
+CommandConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/CommandConfig.java
+END
+OrganizationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/OrganizationNode.java
+END
+CommandTeam.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/CommandTeam.java
+END
+SystemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/SystemData.java
+END
+FunType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/FunType.java
+END
+Relation.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/Relation.java
+END
+CommanderWorkStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/CommanderWorkStatus.java
+END
+CameraGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/CameraGroup.java
+END
+ConsultationGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/ConsultationGroup.java
+END
+CommandGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/CommandGroup.java
+END
+Camera.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/Camera.java
+END
+CommandCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/CommandCollection.java
+END
+CommanderWorkMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/CommanderWorkMode.java
+END
+Commander.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/Commander.java
+END
+ConferenceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/ConferenceType.java
+END
+EncodeDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/Command/Business/EncodeDevice.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/1537/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl
+END
+CanmelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/CanmelImpl.java
+END
+CenterInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/CenterInfoImpl.java
+END
+PlanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/PlanImpl.java
+END
+VideoDeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/VideoDeviceImpl.java
+END
+BaseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/BaseDaoImpl.java
+END
+CenterNetWorkImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/CenterNetWorkImpl.java
+END
+VideoServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/VideoServerImpl.java
+END
+DeviceStatusImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/DeviceStatusImpl.java
+END
+PojoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1537/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/PojoImpl.java
+END
+AlrmPointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/AlrmPointImpl.java
+END
+OutPointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/OutPointImpl.java
+END
+CommandDeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/CommandDeviceImpl.java
+END
+CenterRouteImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/CenterRouteImpl.java
+END
+CenterInfoSyncImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/sqlite/impl/CenterInfoSyncImpl.java
+END

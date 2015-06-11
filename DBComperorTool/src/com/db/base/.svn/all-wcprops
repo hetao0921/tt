@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/PPServer/!svn/ver/2247/2P_V2.5/dbsync/DBComperorTool/src/com/db/base
+END
+JDBCExec.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PPServer/!svn/ver/2247/2P_V2.5/dbsync/DBComperorTool/src/com/db/base/JDBCExec.java
+END
+CreatSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PPServer/!svn/ver/2247/2P_V2.5/dbsync/DBComperorTool/src/com/db/base/CreatSql.java
+END
+ConnectionBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/2247/2P_V2.5/dbsync/DBComperorTool/src/com/db/base/ConnectionBase.java
+END
+JDBCConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/2247/2P_V2.5/dbsync/DBComperorTool/src/com/db/base/JDBCConnection.java
+END

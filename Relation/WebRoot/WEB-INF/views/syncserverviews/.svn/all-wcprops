@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/WebRoot/WEB-INF/views/syncserverviews
+END
+showlowmqip.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PPServer/!svn/ver/1771/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/WebRoot/WEB-INF/views/syncserverviews/showlowmqip.jsp
+END
+showlocalclient.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/PPServer/!svn/ver/1771/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/WebRoot/WEB-INF/views/syncserverviews/showlocalclient.jsp
+END
+localmqipset.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/PPServer/!svn/ver/1771/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/WebRoot/WEB-INF/views/syncserverviews/localmqipset.jsp
+END
+relation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/PPServer/!svn/ver/1790/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/WebRoot/WEB-INF/views/syncserverviews/relation.jsp
+END
+applyupmqip.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PPServer/!svn/ver/1771/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/WebRoot/WEB-INF/views/syncserverviews/applyupmqip.jsp
+END
+showupmqip.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/PPServer/!svn/ver/1771/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/WebRoot/WEB-INF/views/syncserverviews/showupmqip.jsp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/testsrc
+END
+BusinessType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/testsrc/BusinessType.java
+END
+MailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/testsrc/MailSender.java
+END
+DBSyncType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/testsrc/DBSyncType.java
+END
+ActiveMQConnectionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/testsrc/ActiveMQConnectionPool.java
+END
+Receiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/testsrc/Receiver.java
+END

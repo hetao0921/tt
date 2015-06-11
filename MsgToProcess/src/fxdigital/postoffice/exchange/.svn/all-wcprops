@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/fxdigital/postoffice/exchange
+END
+ExchangeMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/fxdigital/postoffice/exchange/ExchangeMsg.java
+END
+SendManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/fxdigital/postoffice/exchange/SendManager.java
+END
+ExchangeServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/fxdigital/postoffice/exchange/ExchangeServer.java
+END
+ReReceiveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/fxdigital/postoffice/exchange/ReReceiveHandler.java
+END
+ReceiveHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/fxdigital/postoffice/exchange/ReceiveHandlers.java
+END

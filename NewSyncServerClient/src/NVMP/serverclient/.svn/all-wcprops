@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/PPServer/!svn/ver/585/2PV2.0/%E4%B8%9A%E5%8A%A1%E5%BA%94%E7%94%A8%E4%BB%A3%E7%A0%81/src/%E5%90%8C%E6%AD%A5%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BA%92%E9%80%9A%E5%AE%A2%E6%88%B7%E7%AB%AF/NewSyncServerClient/src/NVMP/serverclient
+END
+ServerClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 243
+/svn/PPServer/!svn/ver/585/2PV2.0/%E4%B8%9A%E5%8A%A1%E5%BA%94%E7%94%A8%E4%BB%A3%E7%A0%81/src/%E5%90%8C%E6%AD%A5%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BA%92%E9%80%9A%E5%AE%A2%E6%88%B7%E7%AB%AF/NewSyncServerClient/src/NVMP/serverclient/ServerClient.java
+END
+JdbcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 239
+/svn/PPServer/!svn/ver/585/2PV2.0/%E4%B8%9A%E5%8A%A1%E5%BA%94%E7%94%A8%E4%BB%A3%E7%A0%81/src/%E5%90%8C%E6%AD%A5%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BA%92%E9%80%9A%E5%AE%A2%E6%88%B7%E7%AB%AF/NewSyncServerClient/src/NVMP/serverclient/JdbcImpl.java
+END
+ServerClientHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 250
+/svn/PPServer/!svn/ver/585/2PV2.0/%E4%B8%9A%E5%8A%A1%E5%BA%94%E7%94%A8%E4%BB%A3%E7%A0%81/src/%E5%90%8C%E6%AD%A5%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BA%92%E9%80%9A%E5%AE%A2%E6%88%B7%E7%AB%AF/NewSyncServerClient/src/NVMP/serverclient/ServerClientHandler.java
+END
+DBConn.java
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/svn/PPServer/!svn/ver/585/2PV2.0/%E4%B8%9A%E5%8A%A1%E5%BA%94%E7%94%A8%E4%BB%A3%E7%A0%81/src/%E5%90%8C%E6%AD%A5%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BA%92%E9%80%9A%E5%AE%A2%E6%88%B7%E7%AB%AF/NewSyncServerClient/src/NVMP/serverclient/DBConn.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/svn/PPServer/!svn/ver/585/2PV2.0/%E4%B8%9A%E5%8A%A1%E5%BA%94%E7%94%A8%E4%BB%A3%E7%A0%81/src/%E5%90%8C%E6%AD%A5%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BA%92%E9%80%9A%E5%AE%A2%E6%88%B7%E7%AB%AF/NewSyncServerClient/src/NVMP/serverclient/Main.java
+END

@@ -1,0 +1,1208 @@
+using System.Collections.Generic;
+using NVMP.RunTime;
+using NVMP.AppService.Interface;
+using NVMP.Command.Business;
+using corenet.exchange;
+using corenet.netbase;
+namespace NVMP.Proxy 
+ { 
+ public delegate void OnEncodeDeviceOnlineEvent(string TerminalId,string TerminalIP,bool IsOnline); 
+ public delegate void OnAlarmStateEvent(string TerminalId,int ChannelId,int AlarmType,int DeviceStatus); 
+ public delegate void OnControlAlarmStateEvent(string terminalId,int index,int alarmType,bool isStart); 
+ public delegate void OnControlCameraPTZEvent(string terminalId,int cameraindex,int direction,int speed,bool isStart); 
+ public delegate void OnControlVideoQualityEvent(string terminalId,int cameraindex,int type,int value); 
+ public delegate void OnControlVideoOSDEvent(string terminalId,int cameraindex,int x,int y,string oSDName,bool isDisplyDatetime); 
+ public delegate void OnEncodeDeviceInfoEvent(string clientId,string deviceId); 
+ public delegate void OnRetrunEncodeDeviceInfoResultEvent(string clientId,string deviceId,string produce,string type,string iP); 
+ public delegate void OnReturnEncodeDeviceAlarmEvent(string terminalId,int channelId,int alarmType,int states); 
+ public delegate void OnselectPrePointEvent(string terminalId,int cameraindex,int index); 
+ public delegate void OnRetrunGetVideoCompressResultEvent(string clientId,string deviceId,int channl,int brightness,int saturation,int hue,int contrast); 
+ public delegate void OnGetVideoCompressEvent(string clientId,string deviceId,int channl); 
+ public delegate void OnFireDeviceShowEvent(string deviceId,string deviceSource,int index); 
+ public delegate void OnSetPrePointEvent(string terminalId,int cameraindex,int index); 
+ public delegate void OnDeletePrePointEvent(string terminalId,int cameraindex,int index); 
+ public delegate void OnSetDeviceTimeEvent(int year,int month,int day,int hour,int minute,int scond); 
+ public delegate void OnControlOtherSourceEvent(string centerid,bool flag); 
+ public delegate void OnGetResolutionEvent(string clientId,string deviceId,int channl); 
+ public delegate void OnSetResolutionEvent(string clientId,string deviceId,int channl,int nResolutionX,int nResolutionY); 
+ public delegate void onReturnResolutionResultEvent(string clientId,string deviceId,int channl,int nResolutionX,int nResolutionY); 
+ public delegate void onGetFrameRateEvent(string clientId,string deviceId,int channl); 
+ public delegate void onSetFrameRateEvent(string clientId,string deviceId,int channl,int nFramerate); 
+ public delegate void onReturnFrameRateResultEvent(string clientId,string deviceId,int channl,int nFramerate); 
+ public delegate void onGetBitRateEvent(string clientId,string deviceId,int channl); 
+ public delegate void onSetBitRateEvent(string clientId,string deviceId,int channl,int nBitrate); 
+ public delegate void onReturnBitRateResultEvent(string clientId,string deviceId,int channl,int nBitrate); 
+ public delegate void onGetFrameIntervalEvent(string clientId,string deviceId,int channl); 
+ public delegate void onSetFrameIntervalEvent(string clientId,string deviceId,int channl,int nGovLength); 
+ public delegate void onReturnFrameIntervalEvent(string clientId,string deviceId,int channl,int nGovLength); 
+ public class StateManageDomainProxy 
+ { 
+private IRunTime RunTime;
+private static StateManageDomainProxy Instance = null;
+private   ExchangeClient client;
+ public static StateManageDomainProxy NewInstance(ExchangeClient _client)  
+ { 
+ if (Instance == null) 
+ { 
+ Instance = new StateManageDomainProxy(_client); 
+ } 
+return Instance; 
+ } 
+ public static StateManageDomainProxy GetInstance()  
+ { 
+return Instance; 
+ } 
+ private StateManageDomainProxy( ExchangeClient _client ) 
+{ 
+ RunTime = new RunTimeImpl(); 
+ RunTime.Event += EventResult; 
+this.client = _client; 
+RunTime.setTransChannel(client); 
+} 
+ public void EventResult(string EventURL, Dictionary<string, object> retValue) 
+ { 
+ try { 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnEncodeDeviceOnline") 
+ { 
+  string TerminalId =  retValue["TerminalId"].ToString(); 
+ string TerminalIP =  retValue["TerminalIP"].ToString(); 
+ bool IsOnline;
+if(retValue["IsOnline"].ToString().Equals("")) { 
+IsOnline = false;  
+ } else { 
+IsOnline = retValue["IsOnline"].ToString().Equals("true") ? true : false; 
+ } 
+this.EncodeDeviceOnlineEvent(TerminalId,TerminalIP,IsOnline ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnAlarmState") 
+ { 
+  string TerminalId =  retValue["TerminalId"].ToString(); 
+ int ChannelId;
+if(retValue["ChannelId"].ToString().Equals("")) { 
+ChannelId = -1;  
+ } else { 
+ChannelId = int.Parse(retValue["ChannelId"].ToString()); 
+ } 
+ int AlarmType;
+if(retValue["AlarmType"].ToString().Equals("")) { 
+AlarmType = -1;  
+ } else { 
+AlarmType = int.Parse(retValue["AlarmType"].ToString()); 
+ } 
+ int DeviceStatus;
+if(retValue["DeviceStatus"].ToString().Equals("")) { 
+DeviceStatus = -1;  
+ } else { 
+DeviceStatus = int.Parse(retValue["DeviceStatus"].ToString()); 
+ } 
+this.AlarmStateEvent(TerminalId,ChannelId,AlarmType,DeviceStatus ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnControlAlarmState") 
+ { 
+  string terminalId =  retValue["terminalId"].ToString(); 
+ int index;
+if(retValue["index"].ToString().Equals("")) { 
+index = -1;  
+ } else { 
+index = int.Parse(retValue["index"].ToString()); 
+ } 
+ int alarmType;
+if(retValue["alarmType"].ToString().Equals("")) { 
+alarmType = -1;  
+ } else { 
+alarmType = int.Parse(retValue["alarmType"].ToString()); 
+ } 
+ bool isStart;
+if(retValue["isStart"].ToString().Equals("")) { 
+isStart = false;  
+ } else { 
+isStart = retValue["isStart"].ToString().Equals("true") ? true : false; 
+ } 
+this.ControlAlarmStateEvent(terminalId,index,alarmType,isStart ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnControlCameraPTZ") 
+ { 
+  string terminalId =  retValue["terminalId"].ToString(); 
+ int cameraindex;
+if(retValue["cameraindex"].ToString().Equals("")) { 
+cameraindex = -1;  
+ } else { 
+cameraindex = int.Parse(retValue["cameraindex"].ToString()); 
+ } 
+ int direction;
+if(retValue["direction"].ToString().Equals("")) { 
+direction = -1;  
+ } else { 
+direction = int.Parse(retValue["direction"].ToString()); 
+ } 
+ int speed;
+if(retValue["speed"].ToString().Equals("")) { 
+speed = -1;  
+ } else { 
+speed = int.Parse(retValue["speed"].ToString()); 
+ } 
+ bool isStart;
+if(retValue["isStart"].ToString().Equals("")) { 
+isStart = false;  
+ } else { 
+isStart = retValue["isStart"].ToString().Equals("true") ? true : false; 
+ } 
+this.ControlCameraPTZEvent(terminalId,cameraindex,direction,speed,isStart ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnControlVideoQuality") 
+ { 
+  string terminalId =  retValue["terminalId"].ToString(); 
+ int cameraindex;
+if(retValue["cameraindex"].ToString().Equals("")) { 
+cameraindex = -1;  
+ } else { 
+cameraindex = int.Parse(retValue["cameraindex"].ToString()); 
+ } 
+ int type;
+if(retValue["type"].ToString().Equals("")) { 
+type = -1;  
+ } else { 
+type = int.Parse(retValue["type"].ToString()); 
+ } 
+ int value;
+if(retValue["value"].ToString().Equals("")) { 
+value = -1;  
+ } else { 
+value = int.Parse(retValue["value"].ToString()); 
+ } 
+this.ControlVideoQualityEvent(terminalId,cameraindex,type,value ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnControlVideoOSD") 
+ { 
+  string terminalId =  retValue["terminalId"].ToString(); 
+ int cameraindex;
+if(retValue["cameraindex"].ToString().Equals("")) { 
+cameraindex = -1;  
+ } else { 
+cameraindex = int.Parse(retValue["cameraindex"].ToString()); 
+ } 
+ int x;
+if(retValue["x"].ToString().Equals("")) { 
+x = -1;  
+ } else { 
+x = int.Parse(retValue["x"].ToString()); 
+ } 
+ int y;
+if(retValue["y"].ToString().Equals("")) { 
+y = -1;  
+ } else { 
+y = int.Parse(retValue["y"].ToString()); 
+ } 
+ string oSDName =  retValue["oSDName"].ToString(); 
+ bool isDisplyDatetime;
+if(retValue["isDisplyDatetime"].ToString().Equals("")) { 
+isDisplyDatetime = false;  
+ } else { 
+isDisplyDatetime = retValue["isDisplyDatetime"].ToString().Equals("true") ? true : false; 
+ } 
+this.ControlVideoOSDEvent(terminalId,cameraindex,x,y,oSDName,isDisplyDatetime ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnEncodeDeviceInfo") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+this.EncodeDeviceInfoEvent(clientId,deviceId ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnRetrunEncodeDeviceInfoResult") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ string produce =  retValue["produce"].ToString(); 
+ string type =  retValue["type"].ToString(); 
+ string iP =  retValue["iP"].ToString(); 
+this.RetrunEncodeDeviceInfoResultEvent(clientId,deviceId,produce,type,iP ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnReturnEncodeDeviceAlarm") 
+ { 
+  string terminalId =  retValue["terminalId"].ToString(); 
+ int channelId;
+if(retValue["channelId"].ToString().Equals("")) { 
+channelId = -1;  
+ } else { 
+channelId = int.Parse(retValue["channelId"].ToString()); 
+ } 
+ int alarmType;
+if(retValue["alarmType"].ToString().Equals("")) { 
+alarmType = -1;  
+ } else { 
+alarmType = int.Parse(retValue["alarmType"].ToString()); 
+ } 
+ int states;
+if(retValue["states"].ToString().Equals("")) { 
+states = -1;  
+ } else { 
+states = int.Parse(retValue["states"].ToString()); 
+ } 
+this.ReturnEncodeDeviceAlarmEvent(terminalId,channelId,alarmType,states ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnselectPrePoint") 
+ { 
+  string terminalId =  retValue["terminalId"].ToString(); 
+ int cameraindex;
+if(retValue["cameraindex"].ToString().Equals("")) { 
+cameraindex = -1;  
+ } else { 
+cameraindex = int.Parse(retValue["cameraindex"].ToString()); 
+ } 
+ int index;
+if(retValue["index"].ToString().Equals("")) { 
+index = -1;  
+ } else { 
+index = int.Parse(retValue["index"].ToString()); 
+ } 
+this.selectPrePointEvent(terminalId,cameraindex,index ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnRetrunGetVideoCompressResult") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+ int brightness;
+if(retValue["brightness"].ToString().Equals("")) { 
+brightness = -1;  
+ } else { 
+brightness = int.Parse(retValue["brightness"].ToString()); 
+ } 
+ int saturation;
+if(retValue["saturation"].ToString().Equals("")) { 
+saturation = -1;  
+ } else { 
+saturation = int.Parse(retValue["saturation"].ToString()); 
+ } 
+ int hue;
+if(retValue["hue"].ToString().Equals("")) { 
+hue = -1;  
+ } else { 
+hue = int.Parse(retValue["hue"].ToString()); 
+ } 
+ int contrast;
+if(retValue["contrast"].ToString().Equals("")) { 
+contrast = -1;  
+ } else { 
+contrast = int.Parse(retValue["contrast"].ToString()); 
+ } 
+this.RetrunGetVideoCompressResultEvent(clientId,deviceId,channl,brightness,saturation,hue,contrast ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnGetVideoCompress") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+this.GetVideoCompressEvent(clientId,deviceId,channl ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnFireDeviceShow") 
+ { 
+  string deviceId =  retValue["deviceId"].ToString(); 
+ string deviceSource =  retValue["deviceSource"].ToString(); 
+ int index;
+if(retValue["index"].ToString().Equals("")) { 
+index = -1;  
+ } else { 
+index = int.Parse(retValue["index"].ToString()); 
+ } 
+this.FireDeviceShowEvent(deviceId,deviceSource,index ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnSetPrePoint") 
+ { 
+  string terminalId =  retValue["terminalId"].ToString(); 
+ int cameraindex;
+if(retValue["cameraindex"].ToString().Equals("")) { 
+cameraindex = -1;  
+ } else { 
+cameraindex = int.Parse(retValue["cameraindex"].ToString()); 
+ } 
+ int index;
+if(retValue["index"].ToString().Equals("")) { 
+index = -1;  
+ } else { 
+index = int.Parse(retValue["index"].ToString()); 
+ } 
+this.SetPrePointEvent(terminalId,cameraindex,index ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnDeletePrePoint") 
+ { 
+  string terminalId =  retValue["terminalId"].ToString(); 
+ int cameraindex;
+if(retValue["cameraindex"].ToString().Equals("")) { 
+cameraindex = -1;  
+ } else { 
+cameraindex = int.Parse(retValue["cameraindex"].ToString()); 
+ } 
+ int index;
+if(retValue["index"].ToString().Equals("")) { 
+index = -1;  
+ } else { 
+index = int.Parse(retValue["index"].ToString()); 
+ } 
+this.DeletePrePointEvent(terminalId,cameraindex,index ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnSetDeviceTime") 
+ { 
+  int year;
+if(retValue["year"].ToString().Equals("")) { 
+year = -1;  
+ } else { 
+year = int.Parse(retValue["year"].ToString()); 
+ } 
+ int month;
+if(retValue["month"].ToString().Equals("")) { 
+month = -1;  
+ } else { 
+month = int.Parse(retValue["month"].ToString()); 
+ } 
+ int day;
+if(retValue["day"].ToString().Equals("")) { 
+day = -1;  
+ } else { 
+day = int.Parse(retValue["day"].ToString()); 
+ } 
+ int hour;
+if(retValue["hour"].ToString().Equals("")) { 
+hour = -1;  
+ } else { 
+hour = int.Parse(retValue["hour"].ToString()); 
+ } 
+ int minute;
+if(retValue["minute"].ToString().Equals("")) { 
+minute = -1;  
+ } else { 
+minute = int.Parse(retValue["minute"].ToString()); 
+ } 
+ int scond;
+if(retValue["scond"].ToString().Equals("")) { 
+scond = -1;  
+ } else { 
+scond = int.Parse(retValue["scond"].ToString()); 
+ } 
+this.SetDeviceTimeEvent(year,month,day,hour,minute,scond ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnControlOtherSource") 
+ { 
+  string centerid =  retValue["centerid"].ToString(); 
+ bool flag;
+if(retValue["flag"].ToString().Equals("")) { 
+flag = false;  
+ } else { 
+flag = retValue["flag"].ToString().Equals("true") ? true : false; 
+ } 
+this.ControlOtherSourceEvent(centerid,flag ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnGetResolution") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+this.GetResolutionEvent(clientId,deviceId,channl ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.OnSetResolution") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+ int nResolutionX;
+if(retValue["nResolutionX"].ToString().Equals("")) { 
+nResolutionX = -1;  
+ } else { 
+nResolutionX = int.Parse(retValue["nResolutionX"].ToString()); 
+ } 
+ int nResolutionY;
+if(retValue["nResolutionY"].ToString().Equals("")) { 
+nResolutionY = -1;  
+ } else { 
+nResolutionY = int.Parse(retValue["nResolutionY"].ToString()); 
+ } 
+this.SetResolutionEvent(clientId,deviceId,channl,nResolutionX,nResolutionY ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.onReturnResolutionResult") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+ int nResolutionX;
+if(retValue["nResolutionX"].ToString().Equals("")) { 
+nResolutionX = -1;  
+ } else { 
+nResolutionX = int.Parse(retValue["nResolutionX"].ToString()); 
+ } 
+ int nResolutionY;
+if(retValue["nResolutionY"].ToString().Equals("")) { 
+nResolutionY = -1;  
+ } else { 
+nResolutionY = int.Parse(retValue["nResolutionY"].ToString()); 
+ } 
+this.onReturnResolutionResultEvent(clientId,deviceId,channl,nResolutionX,nResolutionY ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.onGetFrameRate") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+this.onGetFrameRateEvent(clientId,deviceId,channl ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.onSetFrameRate") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+ int nFramerate;
+if(retValue["nFramerate"].ToString().Equals("")) { 
+nFramerate = -1;  
+ } else { 
+nFramerate = int.Parse(retValue["nFramerate"].ToString()); 
+ } 
+this.onSetFrameRateEvent(clientId,deviceId,channl,nFramerate ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.onReturnFrameRateResult") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+ int nFramerate;
+if(retValue["nFramerate"].ToString().Equals("")) { 
+nFramerate = -1;  
+ } else { 
+nFramerate = int.Parse(retValue["nFramerate"].ToString()); 
+ } 
+this.onReturnFrameRateResultEvent(clientId,deviceId,channl,nFramerate ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.onGetBitRate") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+this.onGetBitRateEvent(clientId,deviceId,channl ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.onSetBitRate") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+ int nBitrate;
+if(retValue["nBitrate"].ToString().Equals("")) { 
+nBitrate = -1;  
+ } else { 
+nBitrate = int.Parse(retValue["nBitrate"].ToString()); 
+ } 
+this.onSetBitRateEvent(clientId,deviceId,channl,nBitrate ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.onReturnBitRateResult") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+ int nBitrate;
+if(retValue["nBitrate"].ToString().Equals("")) { 
+nBitrate = -1;  
+ } else { 
+nBitrate = int.Parse(retValue["nBitrate"].ToString()); 
+ } 
+this.onReturnBitRateResultEvent(clientId,deviceId,channl,nBitrate ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.onGetFrameInterval") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+this.onGetFrameIntervalEvent(clientId,deviceId,channl ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.onSetFrameInterval") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+ int nGovLength;
+if(retValue["nGovLength"].ToString().Equals("")) { 
+nGovLength = -1;  
+ } else { 
+nGovLength = int.Parse(retValue["nGovLength"].ToString()); 
+ } 
+this.onSetFrameIntervalEvent(clientId,deviceId,channl,nGovLength ); 
+ } 
+if (EventURL == "StateManageDomain.IEncodeDeviceManage.onReturnFrameInterval") 
+ { 
+  string clientId =  retValue["clientId"].ToString(); 
+ string deviceId =  retValue["deviceId"].ToString(); 
+ int channl;
+if(retValue["channl"].ToString().Equals("")) { 
+channl = -1;  
+ } else { 
+channl = int.Parse(retValue["channl"].ToString()); 
+ } 
+ int nGovLength;
+if(retValue["nGovLength"].ToString().Equals("")) { 
+nGovLength = -1;  
+ } else { 
+nGovLength = int.Parse(retValue["nGovLength"].ToString()); 
+ } 
+this.onReturnFrameIntervalEvent(clientId,deviceId,channl,nGovLength ); 
+ } 
+
+ } catch (System.Exception e) {
+string ErrorInfo = string.Format("中心服务反馈指令处理错误：方法名称为：a{0}",EventURL); 
+ NVMP.Util.LogUtil.error(ErrorInfo + e.ToString()); 
+ NVMP.Util.LogUtil.ErrorMsg(EventURL,retValue); 
+ 
+} 
+ } 
+public event OnEncodeDeviceOnlineEvent OnEncodeDeviceOnline; 
+ public void EncodeDeviceOnlineEvent(string TerminalId,string TerminalIP,bool IsOnline) 
+ { 
+ if (OnEncodeDeviceOnline != null) 
+ { 
+ OnEncodeDeviceOnline(TerminalId,TerminalIP,IsOnline);
+ } 
+ }public event OnAlarmStateEvent OnAlarmState; 
+ public void AlarmStateEvent(string TerminalId,int ChannelId,int AlarmType,int DeviceStatus) 
+ { 
+ if (OnAlarmState != null) 
+ { 
+ OnAlarmState(TerminalId,ChannelId,AlarmType,DeviceStatus);
+ } 
+ }public event OnControlAlarmStateEvent OnControlAlarmState; 
+ public void ControlAlarmStateEvent(string terminalId,int index,int alarmType,bool isStart) 
+ { 
+ if (OnControlAlarmState != null) 
+ { 
+ OnControlAlarmState(terminalId,index,alarmType,isStart);
+ } 
+ }public event OnControlCameraPTZEvent OnControlCameraPTZ; 
+ public void ControlCameraPTZEvent(string terminalId,int cameraindex,int direction,int speed,bool isStart) 
+ { 
+ if (OnControlCameraPTZ != null) 
+ { 
+ OnControlCameraPTZ(terminalId,cameraindex,direction,speed,isStart);
+ } 
+ }public event OnControlVideoQualityEvent OnControlVideoQuality; 
+ public void ControlVideoQualityEvent(string terminalId,int cameraindex,int type,int value) 
+ { 
+ if (OnControlVideoQuality != null) 
+ { 
+ OnControlVideoQuality(terminalId,cameraindex,type,value);
+ } 
+ }public event OnControlVideoOSDEvent OnControlVideoOSD; 
+ public void ControlVideoOSDEvent(string terminalId,int cameraindex,int x,int y,string oSDName,bool isDisplyDatetime) 
+ { 
+ if (OnControlVideoOSD != null) 
+ { 
+ OnControlVideoOSD(terminalId,cameraindex,x,y,oSDName,isDisplyDatetime);
+ } 
+ }public event OnEncodeDeviceInfoEvent OnEncodeDeviceInfo; 
+ public void EncodeDeviceInfoEvent(string clientId,string deviceId) 
+ { 
+ if (OnEncodeDeviceInfo != null) 
+ { 
+ OnEncodeDeviceInfo(clientId,deviceId);
+ } 
+ }public event OnRetrunEncodeDeviceInfoResultEvent OnRetrunEncodeDeviceInfoResult; 
+ public void RetrunEncodeDeviceInfoResultEvent(string clientId,string deviceId,string produce,string type,string iP) 
+ { 
+ if (OnRetrunEncodeDeviceInfoResult != null) 
+ { 
+ OnRetrunEncodeDeviceInfoResult(clientId,deviceId,produce,type,iP);
+ } 
+ }public event OnReturnEncodeDeviceAlarmEvent OnReturnEncodeDeviceAlarm; 
+ public void ReturnEncodeDeviceAlarmEvent(string terminalId,int channelId,int alarmType,int states) 
+ { 
+ if (OnReturnEncodeDeviceAlarm != null) 
+ { 
+ OnReturnEncodeDeviceAlarm(terminalId,channelId,alarmType,states);
+ } 
+ }public event OnselectPrePointEvent OnselectPrePoint; 
+ public void selectPrePointEvent(string terminalId,int cameraindex,int index) 
+ { 
+ if (OnselectPrePoint != null) 
+ { 
+ OnselectPrePoint(terminalId,cameraindex,index);
+ } 
+ }public event OnRetrunGetVideoCompressResultEvent OnRetrunGetVideoCompressResult; 
+ public void RetrunGetVideoCompressResultEvent(string clientId,string deviceId,int channl,int brightness,int saturation,int hue,int contrast) 
+ { 
+ if (OnRetrunGetVideoCompressResult != null) 
+ { 
+ OnRetrunGetVideoCompressResult(clientId,deviceId,channl,brightness,saturation,hue,contrast);
+ } 
+ }public event OnGetVideoCompressEvent OnGetVideoCompress; 
+ public void GetVideoCompressEvent(string clientId,string deviceId,int channl) 
+ { 
+ if (OnGetVideoCompress != null) 
+ { 
+ OnGetVideoCompress(clientId,deviceId,channl);
+ } 
+ }public event OnFireDeviceShowEvent OnFireDeviceShow; 
+ public void FireDeviceShowEvent(string deviceId,string deviceSource,int index) 
+ { 
+ if (OnFireDeviceShow != null) 
+ { 
+ OnFireDeviceShow(deviceId,deviceSource,index);
+ } 
+ }public event OnSetPrePointEvent OnSetPrePoint; 
+ public void SetPrePointEvent(string terminalId,int cameraindex,int index) 
+ { 
+ if (OnSetPrePoint != null) 
+ { 
+ OnSetPrePoint(terminalId,cameraindex,index);
+ } 
+ }public event OnDeletePrePointEvent OnDeletePrePoint; 
+ public void DeletePrePointEvent(string terminalId,int cameraindex,int index) 
+ { 
+ if (OnDeletePrePoint != null) 
+ { 
+ OnDeletePrePoint(terminalId,cameraindex,index);
+ } 
+ }public event OnSetDeviceTimeEvent OnSetDeviceTime; 
+ public void SetDeviceTimeEvent(int year,int month,int day,int hour,int minute,int scond) 
+ { 
+ if (OnSetDeviceTime != null) 
+ { 
+ OnSetDeviceTime(year,month,day,hour,minute,scond);
+ } 
+ }public event OnControlOtherSourceEvent OnControlOtherSource; 
+ public void ControlOtherSourceEvent(string centerid,bool flag) 
+ { 
+ if (OnControlOtherSource != null) 
+ { 
+ OnControlOtherSource(centerid,flag);
+ } 
+ }public event OnGetResolutionEvent OnGetResolution; 
+ public void GetResolutionEvent(string clientId,string deviceId,int channl) 
+ { 
+ if (OnGetResolution != null) 
+ { 
+ OnGetResolution(clientId,deviceId,channl);
+ } 
+ }public event OnSetResolutionEvent OnSetResolution; 
+ public void SetResolutionEvent(string clientId,string deviceId,int channl,int nResolutionX,int nResolutionY) 
+ { 
+ if (OnSetResolution != null) 
+ { 
+ OnSetResolution(clientId,deviceId,channl,nResolutionX,nResolutionY);
+ } 
+ }public event onReturnResolutionResultEvent onReturnResolutionResult; 
+ public void onReturnResolutionResultEvent(string clientId,string deviceId,int channl,int nResolutionX,int nResolutionY) 
+ { 
+ if (onReturnResolutionResult != null) 
+ { 
+ onReturnResolutionResult(clientId,deviceId,channl,nResolutionX,nResolutionY);
+ } 
+ }public event onGetFrameRateEvent onGetFrameRate; 
+ public void onGetFrameRateEvent(string clientId,string deviceId,int channl) 
+ { 
+ if (onGetFrameRate != null) 
+ { 
+ onGetFrameRate(clientId,deviceId,channl);
+ } 
+ }public event onSetFrameRateEvent onSetFrameRate; 
+ public void onSetFrameRateEvent(string clientId,string deviceId,int channl,int nFramerate) 
+ { 
+ if (onSetFrameRate != null) 
+ { 
+ onSetFrameRate(clientId,deviceId,channl,nFramerate);
+ } 
+ }public event onReturnFrameRateResultEvent onReturnFrameRateResult; 
+ public void onReturnFrameRateResultEvent(string clientId,string deviceId,int channl,int nFramerate) 
+ { 
+ if (onReturnFrameRateResult != null) 
+ { 
+ onReturnFrameRateResult(clientId,deviceId,channl,nFramerate);
+ } 
+ }public event onGetBitRateEvent onGetBitRate; 
+ public void onGetBitRateEvent(string clientId,string deviceId,int channl) 
+ { 
+ if (onGetBitRate != null) 
+ { 
+ onGetBitRate(clientId,deviceId,channl);
+ } 
+ }public event onSetBitRateEvent onSetBitRate; 
+ public void onSetBitRateEvent(string clientId,string deviceId,int channl,int nBitrate) 
+ { 
+ if (onSetBitRate != null) 
+ { 
+ onSetBitRate(clientId,deviceId,channl,nBitrate);
+ } 
+ }public event onReturnBitRateResultEvent onReturnBitRateResult; 
+ public void onReturnBitRateResultEvent(string clientId,string deviceId,int channl,int nBitrate) 
+ { 
+ if (onReturnBitRateResult != null) 
+ { 
+ onReturnBitRateResult(clientId,deviceId,channl,nBitrate);
+ } 
+ }public event onGetFrameIntervalEvent onGetFrameInterval; 
+ public void onGetFrameIntervalEvent(string clientId,string deviceId,int channl) 
+ { 
+ if (onGetFrameInterval != null) 
+ { 
+ onGetFrameInterval(clientId,deviceId,channl);
+ } 
+ }public event onSetFrameIntervalEvent onSetFrameInterval; 
+ public void onSetFrameIntervalEvent(string clientId,string deviceId,int channl,int nGovLength) 
+ { 
+ if (onSetFrameInterval != null) 
+ { 
+ onSetFrameInterval(clientId,deviceId,channl,nGovLength);
+ } 
+ }public event onReturnFrameIntervalEvent onReturnFrameInterval; 
+ public void onReturnFrameIntervalEvent(string clientId,string deviceId,int channl,int nGovLength) 
+ { 
+ if (onReturnFrameInterval != null) 
+ { 
+ onReturnFrameInterval(clientId,deviceId,channl,nGovLength);
+ } 
+ }  public virtual void setResolution(string ClientId,string DeviceId,int channl,int nResolutionX,int nResolutionY) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.setResolution"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+Params.Add("nResolutionX", nResolutionX); 
+Params.Add("nResolutionY", nResolutionY); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void returnResolutionResult(string ClientId,string DeviceId,int channl,int nResolutionX,int nResolutionY) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.returnResolutionResult"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+Params.Add("nResolutionX", nResolutionX); 
+Params.Add("nResolutionY", nResolutionY); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void returnFrameRateResult(string ClientId,string DeviceId,int channl,int nFramerate) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.returnFrameRateResult"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+Params.Add("nFramerate", nFramerate); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void returnBitRateResult(string ClientId,string DeviceId,int channl,int nBitrate) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.returnBitRateResult"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+Params.Add("nBitrate", nBitrate); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void getFrameInterval(string ClientId,string DeviceId,int channl) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.getFrameInterval"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void setFrameInterval(string ClientId,string DeviceId,int channl,int nGovLength) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.setFrameInterval"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+Params.Add("nGovLength", nGovLength); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void returnFrameInterval(string ClientId,string DeviceId,int channl,int nGovLength) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.returnFrameInterval"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+Params.Add("nGovLength", nGovLength); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void GrobalSetDeviceOutLine(string Client,string Deviceid,string center) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.GrobalSetDeviceOutLine"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("Client", Client); 
+Params.Add("Deviceid", Deviceid); 
+Params.Add("center", center); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void SetRTSPCommandEncodeDeviceOnline(string DeviceID,int TypeID,int Channel,int DefaultFlag,int BitStream,string RtspUrl) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.SetRTSPCommandEncodeDeviceOnline"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("DeviceID", DeviceID); 
+Params.Add("TypeID", TypeID); 
+Params.Add("Channel", Channel); 
+Params.Add("DefaultFlag", DefaultFlag); 
+Params.Add("BitStream", BitStream); 
+Params.Add("RtspUrl", RtspUrl); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void GrobalSetEncodeDeviceOnline_Sync(string TerminalId,string TerminalIP,bool IsOnline,int DeviceType,int DevuceSubType,string xml,string centerid) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.GrobalSetEncodeDeviceOnline_Sync"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("TerminalIP", TerminalIP); 
+Params.Add("IsOnline", IsOnline); 
+Params.Add("DeviceType", DeviceType); 
+Params.Add("DevuceSubType", DevuceSubType); 
+Params.Add("xml", xml); 
+Params.Add("centerid", centerid); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void setPrePoint(string TerminalId,int Cameraindex,int index) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.setPrePoint"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("Cameraindex", Cameraindex); 
+Params.Add("index", index); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void LoginState(string sessionid) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.LoginState"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("sessionid", sessionid); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void getFrameRate(string ClientId,string DeviceId,int channl) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.getFrameRate"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void setFrameRate(string ClientId,string DeviceId,int channl,int nFramerate) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.setFrameRate"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+Params.Add("nFramerate", nFramerate); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void getBitRate(string ClientId,string DeviceId,int channl) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.getBitRate"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void setBitRate(string ClientId,string DeviceId,int channl,int nBitrate) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.setBitRate"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+Params.Add("nBitrate", nBitrate); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void SetCommandEncodeDeviceOnline(string TerminalId,string TerminalIP,bool IsOnline,int DeviceType,int DevuceSubType,string centerid) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.SetCommandEncodeDeviceOnline"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("TerminalIP", TerminalIP); 
+Params.Add("IsOnline", IsOnline); 
+Params.Add("DeviceType", DeviceType); 
+Params.Add("DevuceSubType", DevuceSubType); 
+Params.Add("centerid", centerid); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void SetEncodeDeviceOnline(string TerminalId,string TerminalIP,bool IsOnline,int DeviceType,int DevuceSubType,string xml) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.SetEncodeDeviceOnline"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("TerminalIP", TerminalIP); 
+Params.Add("IsOnline", IsOnline); 
+Params.Add("DeviceType", DeviceType); 
+Params.Add("DevuceSubType", DevuceSubType); 
+Params.Add("xml", xml); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void SetAlarmState(string TerminalId,int ChannelId,int AlarmType,int DeviceStatus) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.SetAlarmState"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("ChannelId", ChannelId); 
+Params.Add("AlarmType", AlarmType); 
+Params.Add("DeviceStatus", DeviceStatus); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void ControlAlarmState(string TerminalId,int index,int AlarmType,bool IsStart) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.ControlAlarmState"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("index", index); 
+Params.Add("AlarmType", AlarmType); 
+Params.Add("IsStart", IsStart); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void ControlCameraPTZ(string TerminalId,int Cameraindex,int Direction,int Speed,bool IsStart) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.ControlCameraPTZ"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("Cameraindex", Cameraindex); 
+Params.Add("Direction", Direction); 
+Params.Add("Speed", Speed); 
+Params.Add("IsStart", IsStart); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void ControlVideoQuality(string TerminalId,int Cameraindex,int Type,int Value) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.ControlVideoQuality"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("Cameraindex", Cameraindex); 
+Params.Add("Type", Type); 
+Params.Add("Value", Value); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void selectPrePoint(string TerminalId,int Cameraindex,int index) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.selectPrePoint"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("Cameraindex", Cameraindex); 
+Params.Add("index", index); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void deletePrePoint(string TerminalId,int Cameraindex,int index) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.deletePrePoint"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("Cameraindex", Cameraindex); 
+Params.Add("index", index); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void ControlVideoOSD(string TerminalId,int Cameraindex,int X,int Y,string OSDName,bool IsDisplyDatetime) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.ControlVideoOSD"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("Cameraindex", Cameraindex); 
+Params.Add("X", X); 
+Params.Add("Y", Y); 
+Params.Add("OSDName", OSDName); 
+Params.Add("IsDisplyDatetime", IsDisplyDatetime); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void FireDeviceShow(string DeviceId,int index) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.FireDeviceShow"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("index", index); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void GrobalFireDeviceShow(string DeviceId,int index,string CenterID) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.GrobalFireDeviceShow"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("index", index); 
+Params.Add("CenterID", CenterID); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void GetEncodeDeviceInfo(string ClientId,string DeviceId) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.GetEncodeDeviceInfo"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void RetrunEncodeDeviceInfoResult(string ClientId,string DeviceId,string Produce,string type,string IP) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.RetrunEncodeDeviceInfoResult"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("Produce", Produce); 
+Params.Add("type", type); 
+Params.Add("IP", IP); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void GetVideoCompress(string ClientId,string DeviceId,int channl) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.GetVideoCompress"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void RetrunGetVideoCompressResult(string ClientId,string DeviceId,int channl,int Brightness,int Saturation,int Hue,int Contrast) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.RetrunGetVideoCompressResult"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+Params.Add("Brightness", Brightness); 
+Params.Add("Saturation", Saturation); 
+Params.Add("Hue", Hue); 
+Params.Add("Contrast", Contrast); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void GetEncodeDeviceAlarm(string sessionid,string TerminalId,int ChannelId,int AlarmType) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.GetEncodeDeviceAlarm"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("sessionid", sessionid); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("ChannelId", ChannelId); 
+Params.Add("AlarmType", AlarmType); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void GetSingerEncodeDeviceOnline(string sessionid,string TerminalId) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.GetSingerEncodeDeviceOnline"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("sessionid", sessionid); 
+Params.Add("TerminalId", TerminalId); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void GetEncodeDeviceOnline(string UserId) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.GetEncodeDeviceOnline"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("UserId", UserId); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void AddAlarmGroup(string UserId) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.AddAlarmGroup"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("UserId", UserId); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void GrobalSetEncodeDeviceOnline(string TerminalId,string TerminalIP,bool IsOnline,int DeviceType,int DevuceSubType,string xml,string centerid) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.GrobalSetEncodeDeviceOnline"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("TerminalId", TerminalId); 
+Params.Add("TerminalIP", TerminalIP); 
+Params.Add("IsOnline", IsOnline); 
+Params.Add("DeviceType", DeviceType); 
+Params.Add("DevuceSubType", DevuceSubType); 
+Params.Add("xml", xml); 
+Params.Add("centerid", centerid); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void SetDeviceTime(int year,int month,int day,int hour,int minute,int scond) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.SetDeviceTime"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("year", year); 
+Params.Add("month", month); 
+Params.Add("day", day); 
+Params.Add("hour", hour); 
+Params.Add("minute", minute); 
+Params.Add("scond", scond); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void SetDeviceOutLine(string Client,string Deviceid,string center) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.SetDeviceOutLine"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("Client", Client); 
+Params.Add("Deviceid", Deviceid); 
+Params.Add("center", center); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+   public virtual void getResolution(string ClientId,string DeviceId,int channl) 
+ { 
+  string url = "StateManageDomain.EncodeDeviceManage.getResolution"; 
+Dictionary<string, object> Params = new Dictionary<string, object>(); 
+Params.Add("ClientId", ClientId); 
+Params.Add("DeviceId", DeviceId); 
+Params.Add("channl", channl); 
+  if(RunTime!=null) RunTime.Invoke(url, Params, null, null); 
+ } 
+ } 
+ }

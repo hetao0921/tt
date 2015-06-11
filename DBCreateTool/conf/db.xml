@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project>
+   <table>
+    <table_shema>jms_client</table_shema>
+    <table_name>data_native_source</table_name>
+    <column_name>centername;centerip</column_name>
+    <drop_sql>use jms_client;set character set gbk;drop table if EXISTS `data_native_source`;</drop_sql>
+    <create_sql>CREATE TABLE if not exists `data_native_source` (
+  `id` int(11) NOT NULL auto_increment,
+  `centerid` varchar(45) default NULL,
+  `centername` varchar(45) default NULL,
+  `centerip` varchar(55) default NULL,
+  `version` int(11) default NULL,
+  `updatetime` varchar(45) default NULL,
+  `uuid` varchar(45) default NULL,
+  `downstartdate` varchar(45) default NULL,
+  `downenddate` varchar(45) default NULL,
+  `flag` varchar(45) default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=59 DEFAULT CHARSET=gbk;</create_sql>
+    </table>
+       <table>
+    <table_shema>jms_client</table_shema>
+    <table_name>data_operate_record</table_name>
+    <column_name>centername</column_name>
+    <drop_sql>use jms_client;set character set gbk;drop table if EXISTS `data_operate_record`;</drop_sql>
+    <create_sql>CREATE TABLE if not exists `data_operate_record` (
+  `id` int(11) NOT NULL auto_increment,
+  `uuid` varchar(45) default NULL,
+  `operatorsessionid` varchar(45) default NULL,
+  `operatorip` varchar(45) default NULL,
+  `operatetime` varchar(45) default NULL,
+  `operate` varchar(45) default NULL,
+  `centerid` varchar(45) default NULL,
+  `operateinfo` varchar(2000) default NULL,
+  `centername` varchar(45) default NULL,
+  `errorinfo` varchar(2000) default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=16173 DEFAULT CHARSET=gbk;</create_sql>
+    </table>
+       <table>
+    <table_shema>jms_client</table_shema>
+    <table_name>data_self_source</table_name>
+    <column_name>uuname;uuid</column_name>
+    <drop_sql>use jms_client;set character set gbk;drop table if EXISTS `data_self_source`;</drop_sql>
+    <create_sql>CREATE TABLE if not exists `data_self_source` (
+  `id` int(11) NOT NULL auto_increment,
+  `uuid` varchar(45) default NULL,
+  `uuname` varchar(45) default NULL,
+  `version` int(11) default NULL,
+  `startdate` varchar(45) default NULL,
+  `enddate` varchar(45) default NULL,
+  `flag` int(11) default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=107 DEFAULT CHARSET=gbk;</create_sql>
+    </table>
+       <table>
+    <table_shema>jms_server</table_shema>
+    <table_name>data_version</table_name>
+    <column_name>centername;centerip</column_name>
+    <drop_sql>use jms_server;set character set gbk;drop table if EXISTS `data_version`;</drop_sql>
+    <create_sql>CREATE TABLE if not exists `data_version` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5438 DEFAULT CHARSET=gbk;</create_sql>
+    </table>
+       <table>
+    <table_shema>jms_server</table_shema>
+    <table_name>data_source</table_name>
+    <column_name>centername;centerip</column_name>
+    <drop_sql>use jms_server;set character set gbk;drop table if EXISTS `data_source`;</drop_sql>
+    <create_sql>CREATE TABLE if not exists `data_source` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `uuid` varchar(45) DEFAULT NULL,
+  `updatetime` varchar(45) DEFAULT NULL,
+  `oldfileaddress` varchar(200) DEFAULT NULL,
+  `fileaddress` varchar(200) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5271 DEFAULT CHARSET=gbk;</create_sql>
+    </table>
+           <table>
+    <table_shema>jms_server</table_shema>
+    <table_name>data_operate_record</table_name>
+    <column_name>centername</column_name>
+    <drop_sql>use jms_server;set character set gbk;drop table if EXISTS `data_operate_record`;</drop_sql>
+    <create_sql>CREATE TABLE if not exists `data_operate_record` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `uuid` varchar(45) DEFAULT NULL,
+  `sessionid` varchar(45) DEFAULT NULL,
+  `operate` varchar(45) DEFAULT NULL,
+  `operatorip` varchar(45) DEFAULT NULL,
+  `operatetime` varchar(45) DEFAULT NULL,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `errorinfo` varchar(2000) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5582 DEFAULT CHARSET=gbk;</create_sql>
+    </table>
+           <table>
+    <table_shema>jms_server</table_shema>
+    <table_name>sync_data_version</table_name>
+    <column_name>centername;centerip</column_name>
+    <drop_sql>use jms_server;set character set gbk;drop table if EXISTS `sync_data_version`;</drop_sql>
+    <create_sql>CREATE TABLE if not exists `sync_data_version` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5469 DEFAULT CHARSET=gbk;</create_sql>
+    </table>
+</project>

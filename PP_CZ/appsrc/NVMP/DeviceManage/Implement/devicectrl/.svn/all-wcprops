@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl
+END
+OnvifDeviceCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl/OnvifDeviceCtrl.java
+END
+ResolutionMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl/ResolutionMap.java
+END
+HttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl/HttpRequest.java
+END
+URLCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl/URLCtrl.java
+END
+ICtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl/ICtrl.java
+END
+NVObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl/NVObject.java
+END
+DeviceCtrlManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl/DeviceCtrlManager.java
+END
+ResolutionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl/ResolutionData.java
+END
+OnvifObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl/OnvifObject.java
+END
+NVDeviceCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl/NVDeviceCtrl.java
+END
+RTSPClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl/RTSPClient.java
+END
+ExecutorServiceSingleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/appsrc/NVMP/DeviceManage/Implement/devicectrl/ExecutorServiceSingleton.java
+END

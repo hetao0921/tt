@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/jms/ctrl
+END
+Protocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/jms/ctrl/Protocol.java
+END
+IMessageHander.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/jms/ctrl/IMessageHander.java
+END
+TopConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/jms/ctrl/TopConsole.java
+END
+MessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/jms/ctrl/MessageListener.java
+END
+QueueConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/jms/ctrl/QueueConsole.java
+END
+BaseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/jms/ctrl/BaseMessage.java
+END
+MessageSendHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/jms/ctrl/MessageSendHandler.java
+END

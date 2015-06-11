@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/AppService/Interface
+END
+IComLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/AppService/Interface/IComLoader.java
+END
+ParameterInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/AppService/Interface/ParameterInfo.java
+END
+MemberInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/AppService/Interface/MemberInfo.java
+END
+NVMPMethodInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/AppService/Interface/NVMPMethodInfo.java
+END
+DomainLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/AppService/Interface/DomainLock.java
+END
+IBusinessDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/AppService/Interface/IBusinessDomain.java
+END
+IBusinessObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/AppService/Interface/IBusinessObject.java
+END
+NMVPAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/AppService/Interface/NMVPAttribute.java
+END
+IAppRuntime.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/AppService/Interface/IAppRuntime.java
+END
+ReturnParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/NVMP/AppService/Interface/ReturnParam.java
+END

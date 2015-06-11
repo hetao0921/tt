@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange
+END
+IConnectRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/IConnectRule.java
+END
+ExchangeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/ExchangeClient.java
+END
+Encoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/Encoding.java
+END
+ExServerClinet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/ExServerClinet.java
+END
+ExServerClinetEx.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/ExServerClinetEx.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/Test.java
+END
+ExchangeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/ExchangeProtocol.java
+END
+DuplicateCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/DuplicateCheck.java
+END
+IExchangeServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/IExchangeServer.java
+END
+PacketRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/PacketRecord.java
+END
+ExchangeServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/ExchangeServer.java
+END
+SessionIdGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/SessionIdGen.java
+END
+ExchangeChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/corenet/exchange/ExchangeChannel.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PPServer/!svn/ver/1549/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate
+END
+jboss-logging-3.1.0.CR2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/jboss-logging-3.1.0.CR2.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/commons-collections-3.2.1.jar
+END
+oscarJDBC.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1516/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/oscarJDBC.jar
+END
+hibernate-commons-annotations-4.0.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/hibernate-commons-annotations-4.0.1.Final.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/antlr-2.7.7.jar
+END
+hibernate-c3p0-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/hibernate-c3p0-4.1.0.Final.jar
+END
+hibernate-jpa-2.0-api-1.0.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/hibernate-jpa-2.0-api-1.0.1.Final.jar
+END
+oscarHibernate4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1516/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/oscarHibernate4.jar
+END
+c3p0-0.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/c3p0-0.9.1.jar
+END
+jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+END
+Dm7JdbcDriver16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1549/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/Dm7JdbcDriver16.jar
+END
+javassist-3.15.0-GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/javassist-3.15.0-GA.jar
+END
+hibernate-envers-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/hibernate-envers-4.1.0.Final.jar
+END
+hibernate-entitymanager-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/hibernate-entitymanager-4.1.0.Final.jar
+END
+hibernate-core-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/hibernate-core-4.1.0.Final.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/dom4j-1.6.1.jar
+END
+DmDialect-for-hibernate4.0-jdk1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/PPServer/!svn/ver/1549/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/lib/hibernate/DmDialect-for-hibernate4.0-jdk1.6.jar
+END

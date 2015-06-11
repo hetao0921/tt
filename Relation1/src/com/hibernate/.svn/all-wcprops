@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1598/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/com/hibernate
+END
+ConvertMapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1564/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/com/hibernate/ConvertMapUtil.java
+END
+FxOHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/1575/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/com/hibernate/FxOHashMap.java
+END
+FxHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1564/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/com/hibernate/FxHashMap.java
+END
+ReadDBConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/1598/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/com/hibernate/ReadDBConfig.java
+END
+LoadProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1598/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/com/hibernate/LoadProperties.java
+END
+Hibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1640/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/com/hibernate/Hibernate.java
+END

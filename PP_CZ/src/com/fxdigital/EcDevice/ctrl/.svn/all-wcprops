@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/EcDevice/ctrl
+END
+VideoCompress.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/EcDevice/ctrl/VideoCompress.java
+END
+VideoEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/EcDevice/ctrl/VideoEffect.java
+END
+AlarmType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/EcDevice/ctrl/AlarmType.java
+END
+DeviceCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/EcDevice/ctrl/DeviceCtrl.java
+END
+IDevNotify.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/EcDevice/ctrl/IDevNotify.java
+END
+PTZAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/EcDevice/ctrl/PTZAction.java
+END
+tt.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/EcDevice/ctrl/tt.java
+END

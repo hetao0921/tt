@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao
+END
+MqServerInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/MqServerInfoDao.java
+END
+LocalRegisterCentersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PPServer/!svn/ver/1773/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/LocalRegisterCentersDao.java
+END
+SupApplyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/1773/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/SupApplyDao.java
+END
+MenuSyncInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/PPServer/!svn/ver/1773/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/MenuSyncInfoDao.java
+END
+CenterVerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/CenterVerDao.java
+END
+CenterInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/CenterInfoDao.java
+END
+AutoTimeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/1773/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/AutoTimeDao.java
+END
+UserLogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/UserLogDao.java
+END
+LogTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/LogTypeDao.java
+END
+SyncServersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/1773/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/SyncServersDao.java
+END
+LocalCenterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/1773/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/LocalCenterDao.java
+END
+DevInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/DevInfoDao.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/UserDao.java
+END
+DeviceModelDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/DeviceModelDao.java
+END
+ApplyStatusDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/1773/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/ApplyStatusDao.java
+END
+QueueUpLinkDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/QueueUpLinkDao.java
+END
+MenuInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/MenuInfoDao.java
+END
+SubApplyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/1773/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/SubApplyDao.java
+END
+WsdlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/dao/WsdlDao.java
+END

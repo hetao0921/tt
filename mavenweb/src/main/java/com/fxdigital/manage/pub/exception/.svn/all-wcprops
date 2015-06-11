@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/1819/2P_V2.5/mavenweb/src/main/java/com/fxdigital/manage/pub/exception
+END
+MpfException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1819/2P_V2.5/mavenweb/src/main/java/com/fxdigital/manage/pub/exception/MpfException.java
+END
+MpfHandlerExceptionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/1819/2P_V2.5/mavenweb/src/main/java/com/fxdigital/manage/pub/exception/MpfHandlerExceptionResolver.java
+END
+MpfRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/1819/2P_V2.5/mavenweb/src/main/java/com/fxdigital/manage/pub/exception/MpfRuntimeException.java
+END

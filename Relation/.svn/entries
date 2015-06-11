@@ -1,0 +1,91 @@
+8
+
+dir
+1764
+https://192.168.1.200/svn/PPServer/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync
+https://192.168.1.200/svn/PPServer
+
+
+
+2014-12-15T09:49:17.991000Z
+1764
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+.classpath
+file
+1765
+
+
+
+2014-12-15T08:40:37.460000Z
+2cdf29f69b4b4569598a6c0250a0f277
+2014-12-15T09:49:43.2821000Z
+1765
+hetao
+
+.externalToolBuilders
+dir
+
+.myhibernatedata
+file
+1765
+
+
+
+2014-12-15T08:40:37.444000Z
+5f2108bcc66be4361b1a3421e1eeb595
+2014-12-15T09:49:43.2821000Z
+1765
+hetao
+
+.mymetadata
+file
+1765
+
+
+
+2014-12-15T08:40:49.455000Z
+d5f7c7e367d6a3106c5ca12063414e5e
+2014-12-15T09:49:43.2821000Z
+1765
+hetao
+
+.project
+file
+1765
+
+
+
+2014-12-15T09:37:01.799000Z
+efdb3fe2ec25a49fa387616d71d5b026
+2014-12-15T09:49:43.2821000Z
+1765
+hetao
+
+.settings
+dir
+
+WebRoot
+dir
+
+src
+dir
+
+testsrc
+dir
+

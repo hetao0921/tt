@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1575/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db
+END
+SyncServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1547/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/SyncServer.java
+END
+RegisterCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/1547/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/RegisterCenter.java
+END
+SubStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/1547/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/SubStatus.java
+END
+LocalCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/1547/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/LocalCenter.java
+END
+SyncMq.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1547/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/SyncMq.java
+END
+SupStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/1547/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/SupStatus.java
+END
+DbManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/1758/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/DbManager.java
+END

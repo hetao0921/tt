@@ -1,0 +1,52 @@
+8
+
+dir
+1534
+https://192.168.1.200/svn/PPServer/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/.settings
+https://192.168.1.200/svn/PPServer
+
+
+
+2014-11-17T07:47:45.6431000Z
+1534
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+org.eclipse.core.resources.prefs
+file
+
+
+
+
+2014-11-14T09:03:07.688000Z
+87ef5d11468ac14474a9c7f514529ad5
+2014-11-17T07:47:45.6431000Z
+1534
+hetao
+
+org.eclipse.jdt.core.prefs
+file
+
+
+
+
+2014-11-14T09:03:07.686000Z
+210ff06c3cf1c02ce3c3219849a092c1
+2014-11-17T07:47:45.6431000Z
+1534
+hetao
+

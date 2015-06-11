@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement
+END
+ServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/ServerImpl.java
+END
+VisitXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/VisitXML.java
+END
+ApplicationServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/ApplicationServer.java
+END
+IniClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/IniClass.java
+END
+SysProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/SysProperty.java
+END
+CodeGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/CodeGen.java
+END
+JavaCodeGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/JavaCodeGen.java
+END
+DirectLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/DirectLoader.java
+END
+BaseBusinessObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/BaseBusinessObject.java
+END
+ManagedLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/ManagedLoader.java
+END
+JComLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/JComLoader.java
+END
+DomainFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/DomainFactory.java
+END
+ServerSideDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/AppService/Implement/ServerSideDomain.java
+END

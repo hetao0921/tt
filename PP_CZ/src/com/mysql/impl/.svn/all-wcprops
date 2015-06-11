@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/1630/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/mysql/impl
+END
+HibernateSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1607/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/mysql/impl/HibernateSessionFactory.java
+END
+ConvertMapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1523/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/mysql/impl/ConvertMapUtil.java
+END
+StudentOperate.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1531/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/mysql/impl/StudentOperate.java
+END
+ReadDBConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/1630/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/mysql/impl/ReadDBConfig.java
+END
+FxHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1538/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/mysql/impl/FxHashMap.java
+END
+Hibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1538/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/mysql/impl/Hibernate.java
+END

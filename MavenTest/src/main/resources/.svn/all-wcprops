@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/PPServer/!svn/ver/1661/maven/MavenTest/src/main/resources
+END
+c3p0.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/PPServer/!svn/ver/1661/maven/MavenTest/src/main/resources/c3p0.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/PPServer/!svn/ver/1661/maven/MavenTest/src/main/resources/log4j.properties
+END
+webservice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/PPServer/!svn/ver/1661/maven/MavenTest/src/main/resources/webservice.xml
+END
+webservice-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/PPServer/!svn/ver/1661/maven/MavenTest/src/main/resources/webservice-dao.xml
+END
+webservice-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PPServer/!svn/ver/1661/maven/MavenTest/src/main/resources/webservice-service.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PPServer/!svn/ver/1661/maven/MavenTest/src/main/resources/applicationContext.xml
+END

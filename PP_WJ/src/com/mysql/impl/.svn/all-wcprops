@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/mysql/impl
+END
+HibernateSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/mysql/impl/HibernateSessionFactory.java
+END
+ConvertMapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/mysql/impl/ConvertMapUtil.java
+END
+StudentOperate.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/mysql/impl/StudentOperate.java
+END
+ReadDBConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/mysql/impl/ReadDBConfig.java
+END
+FxHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/mysql/impl/FxHashMap.java
+END
+Hibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/mysql/impl/Hibernate.java
+END

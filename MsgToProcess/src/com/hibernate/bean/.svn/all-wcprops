@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/bean
+END
+SyncServerinfosync.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/bean/SyncServerinfosync.java
+END
+SyncServerinfosync.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/bean/SyncServerinfosync.hbm.xml
+END
+SyncLocalmqinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/bean/SyncLocalmqinfo.java
+END
+NvmpCenterinfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/bean/NvmpCenterinfotab.java
+END
+NvmpCenterinfotab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/bean/NvmpCenterinfotab.hbm.xml
+END
+SyncLocalmqinfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/bean/SyncLocalmqinfo.hbm.xml
+END

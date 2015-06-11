@@ -1,0 +1,73 @@
+8
+
+dir
+1721
+https://192.168.1.200/svn/PPServer/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ
+https://192.168.1.200/svn/PPServer
+
+
+
+2014-12-01T03:07:00.102000Z
+1680
+zouzw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+.classpath
+file
+
+
+
+
+2014-12-04T10:00:04.749000Z
+539a236905334ce8e1777c582b01ebfa
+2014-11-13T12:00:52.554000Z
+1516
+lizehua
+
+.project
+file
+
+
+
+
+2014-12-04T10:00:04.749000Z
+83032d87cc287930f16ca20c2f7556f4
+2014-11-13T11:47:27.212000Z
+1515
+lizehua
+
+.settings
+dir
+
+appsrc
+dir
+
+business
+dir
+
+conf
+dir
+
+lib
+dir
+
+src
+dir
+
+testsrc
+dir
+

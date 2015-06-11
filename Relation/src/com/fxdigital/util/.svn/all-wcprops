@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/util
+END
+SelectXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/util/SelectXml.java
+END
+InsertXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/util/InsertXml.java
+END
+RefreshXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/util/RefreshXml.java
+END
+LinuxCmmand.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/util/LinuxCmmand.java
+END
+LinuxCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1773/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/util/LinuxCmd.java
+END
+ArgsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1773/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/util/ArgsUtil.java
+END
+Common.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/util/Common.java
+END
+DelXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/util/DelXml.java
+END
+ConfigUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/util/ConfigUtil.java
+END
+ShowXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/util/ShowXml.java
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+2268
+https://192.168.1.200/svn/PPServer/2P_V2.5/mavenweb/src/main/java/com/fxdigital/manage/pub/util
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-02-09T05:55:17.087000Z
+2137
+lizehua
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+JdbcToXml.java
+file
+
+
+
+
+2015-04-09T08:34:53.470000Z
+1f8115b40fdce46ecbc6816c87c6f256
+2015-01-20T05:47:01.663000Z
+1896
+lizehua
+
+UDPClient.java
+file
+
+
+
+
+2015-04-09T08:34:54.624000Z
+e43c3430eb5ef106aedffc134f80793d
+2015-02-09T05:55:17.087000Z
+2137
+lizehua
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1606/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/WebRoot/WEB-INF
+END
+hibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1640/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/WebRoot/WEB-INF/hibernate.xml
+END
+args.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/1547/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/WebRoot/WEB-INF/args.properties
+END
+c3p0.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/1598/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/WebRoot/WEB-INF/c3p0.properties
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1573/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/WebRoot/WEB-INF/web.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1547/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/WebRoot/WEB-INF/log4j.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1606/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/WebRoot/WEB-INF/applicationContext.xml
+END

@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean
+END
+NvmpCommandgrouprelationtab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCommandgrouprelationtab.hbm.xml
+END
+NvmpDevsnmptab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpDevsnmptab.hbm.xml
+END
+NvmpCommanddevchtab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCommanddevchtab.hbm.xml
+END
+NvmpOriginalbitrate.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpOriginalbitrate.hbm.xml
+END
+NvmpDeviceplayinginfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpDeviceplayinginfo.hbm.xml
+END
+NvmpDevsnmptab.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpDevsnmptab.java
+END
+NvmpCameragrouprelationtab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCameragrouprelationtab.hbm.xml
+END
+NvmpCenterroutectrltab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCenterroutectrltab.hbm.xml
+END
+NvmpVideodevrtsptab.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpVideodevrtsptab.java
+END
+NvmpCommanddevchtab.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCommanddevchtab.java
+END
+NvmpDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpDevice.java
+END
+NvmpOriginalbitrate.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpOriginalbitrate.java
+END
+NvmpRemoteclose.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpRemoteclose.java
+END
+NvmpServerinfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpServerinfo.hbm.xml
+END
+NvmpCommandgroupuserrelationtab.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCommandgroupuserrelationtab.java
+END
+NvmpDepartmenttab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpDepartmenttab.hbm.xml
+END
+NvmpOriginalbitrateId.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpOriginalbitrateId.java
+END
+NvmpDevice.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpDevice.hbm.xml
+END
+NvmpCommanddevtab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCommanddevtab.hbm.xml
+END
+NvmpCommandgrouprelationtab.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCommandgrouprelationtab.java
+END
+NvmpSinglepadtab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpSinglepadtab.hbm.xml
+END
+NvmpVideodevattributetab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpVideodevattributetab.hbm.xml
+END
+NvmpAreainfotab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpAreainfotab.hbm.xml
+END
+NvmpUserinfotab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpUserinfotab.hbm.xml
+END
+NvmpRemoteclose.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpRemoteclose.hbm.xml
+END
+NvmpDepartmenttab.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpDepartmenttab.java
+END
+NvmpServerinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpServerinfo.java
+END
+NvmpDeviceplayinginfoId.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpDeviceplayinginfoId.java
+END
+NvmpServerClients.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpServerClients.hbm.xml
+END
+NvmpNetmeetingtab.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpNetmeetingtab.java
+END
+NvmpUserinfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpUserinfotab.java
+END
+NvmpCommanddevtab.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCommanddevtab.java
+END
+NvmpDeviceplayinginfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpDeviceplayinginfo.java
+END
+NvmpCommandgroupuserrelationtab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCommandgroupuserrelationtab.hbm.xml
+END
+NvmpCenterinfotab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCenterinfotab.hbm.xml
+END
+NvmpVideodevtab.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpVideodevtab.java
+END
+NvmpVideodevrtsptab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpVideodevrtsptab.hbm.xml
+END
+NvmpServeripconfigtab.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpServeripconfigtab.java
+END
+NvmpCenterinfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCenterinfotab.java
+END
+NvmpNetmeetingtab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpNetmeetingtab.hbm.xml
+END
+NvmpCommandteamtab.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCommandteamtab.java
+END
+NvmpVideodevtab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpVideodevtab.hbm.xml
+END
+NvmpSinglepadtab.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpSinglepadtab.java
+END
+NvmpCenternetworkinfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCenternetworkinfotab.java
+END
+NvmpCenterroutectrltab.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCenterroutectrltab.java
+END
+NvmpCenternetworkinfotab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCenternetworkinfotab.hbm.xml
+END
+NvmpCommandteamtab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCommandteamtab.hbm.xml
+END
+NvmpCameragrouprelationtab.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpCameragrouprelationtab.java
+END
+NvmpVideodevattributetab.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpVideodevattributetab.java
+END
+NvmpAreainfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpAreainfotab.java
+END
+NvmpServeripconfigtab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpServeripconfigtab.hbm.xml
+END
+NvmpServerClients.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/fxdigital/bean/NvmpServerClients.java
+END

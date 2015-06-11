@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain
+END
+PreRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/PreRecord.java
+END
+PassRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/PassRecord.java
+END
+VideoControlDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/VideoControlDomain.java
+END
+VideoTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/VideoTool.java
+END
+PreSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/PreSource.java
+END
+UDPServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/UDPServer.java
+END
+Route.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/Route.java
+END
+VideoServerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/VideoServerInfo.java
+END
+PreResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/PreResult.java
+END
+StreamIpMaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/StreamIpMaps.java
+END
+PalyRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/PalyRecord.java
+END
+PreVideoTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/PreVideoTool.java
+END
+RouteImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/RouteImpl.java
+END
+VideoRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/VideoRoute.java
+END
+VideoRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/VideoRecord.java
+END
+IVideoControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/IVideoControl.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/Result.java
+END
+DBConnNvmp.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/DBConnNvmp.java
+END
+VideoControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/VideoControl.java
+END
+PreVideo.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/VideoControlDomain/PreVideo.java
+END

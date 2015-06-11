@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement
+END
+Monitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement/Monitor.java
+END
+MatrixResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement/MatrixResult.java
+END
+StateManageEvenetHander.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement/StateManageEvenetHander.java
+END
+MatrixObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement/MatrixObject.java
+END
+MainRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement/MainRun.java
+END
+PlayVideo.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement/PlayVideo.java
+END
+Daemon.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement/Daemon.java
+END
+IpMatrixManageRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement/IpMatrixManageRun.java
+END
+MatrixDomainEvenetHander.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement/MatrixDomainEvenetHander.java
+END
+TimeCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement/TimeCount.java
+END
+DBConnNvmp.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement/DBConnNvmp.java
+END
+VideoContrlEvenetHander.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/IpMatrixManage/Implement/VideoContrlEvenetHander.java
+END

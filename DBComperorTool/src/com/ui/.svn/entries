@@ -1,0 +1,37 @@
+8
+
+dir
+2247
+https://192.168.1.200/svn/PPServer/2P_V2.5/dbsync/DBComperorTool/src/com/ui
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-03-27T03:13:46.6131000Z
+2247
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+base
+dir
+
+dbconnection
+dir
+
+listener
+dir
+

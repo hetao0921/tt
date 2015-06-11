@@ -1,0 +1,640 @@
+2015-04-01 13:37:00,181 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 13:37:00,492 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 13:37:00,492 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 13:37:00,502 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 13:37:00,502 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 13:37:00,502 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] true>
+2015-04-01 13:37:00,512 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 13:37:00,512 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 13:40:56,307 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 13:40:56,569 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 13:40:56,569 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 13:40:56,579 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 13:40:56,579 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 13:40:56,579 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] true>
+2015-04-01 13:40:56,589 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 13:40:56,599 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 13:41:12,397 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 13:41:12,677 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 13:41:12,677 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 13:41:12,687 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 13:41:12,687 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 13:41:12,687 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] true>
+2015-04-01 13:41:12,697 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 13:41:12,707 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 13:42:10,459 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 13:42:10,701 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 13:42:10,711 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 13:42:10,711 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 13:42:10,711 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 13:42:10,721 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] true>
+2015-04-01 13:42:10,721 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 13:42:10,721 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:02:52,213 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:02:52,467 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:02:52,467 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:02:52,467 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:02:52,477 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:02:52,927 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 14:02:52,927 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 14:02:52,937 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_source`>
+2015-04-01 14:02:52,977 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_source` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `uuid` varchar(45) DEFAULT NULL,
+  `updatetime` varchar(45) DEFAULT NULL,
+  `oldfileaddress` varchar(200) DEFAULT NULL,
+  `fileaddress` varchar(200) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5271 DEFAULT CHARSET=gbk;>
+2015-04-01 14:02:52,977 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] false>
+2015-04-01 14:02:52,987 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:02:52,987 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:04:03,309 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:04:03,569 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:04:03,579 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:04:03,589 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:04:03,589 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:04:03,659 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 14:04:03,659 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 14:04:03,659 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_source`>
+2015-04-01 14:04:03,679 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_source` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `uuid` varchar(45) DEFAULT NULL,
+  `updatetime` varchar(45) DEFAULT NULL,
+  `oldfileaddress` varchar(200) DEFAULT NULL,
+  `fileaddress` varchar(200) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5271 DEFAULT CHARSET=gbk;>
+2015-04-01 14:04:03,679 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] false>
+2015-04-01 14:04:03,689 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:04:03,689 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:31:05,866 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:31:06,160 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:31:06,160 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:31:06,170 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:31:06,170 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:31:06,170 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] true>
+2015-04-01 14:31:06,180 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:31:06,180 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:38:32,829 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:38:33,143 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:38:33,143 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:38:33,143 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:38:33,153 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:38:33,153 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] true>
+2015-04-01 14:38:33,153 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:38:33,153 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:39:52,583 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:39:52,835 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:39:52,835 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:39:52,845 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:39:52,845 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:39:53,025 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 14:39:53,025 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 14:39:53,025 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_source`>
+2015-04-01 14:39:53,085 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_source` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `uuid` varchar(45) DEFAULT NULL,
+  `updatetime` varchar(45) DEFAULT NULL,
+  `oldfileaddress` varchar(200) DEFAULT NULL,
+  `fileaddress` varchar(200) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5271 DEFAULT CHARSET=gbk;>
+2015-04-01 14:39:53,085 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] false>
+2015-04-01 14:39:53,085 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:39:53,095 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:40:26,651 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:40:26,903 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:40:26,903 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:40:26,903 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:40:26,913 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:40:26,913 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] true>
+2015-04-01 14:40:26,923 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:40:26,923 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:42:16,185 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:42:16,417 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:42:16,427 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:42:16,427 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:42:16,427 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:42:16,437 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] true>
+2015-04-01 14:42:16,437 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:42:16,437 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:44:08,265 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:44:08,554 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:44:08,557 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:44:08,561 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:44:08,564 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:44:08,568 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] true>
+2015-04-01 14:44:08,572 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:44:08,578 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:44:54,654 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:44:54,900 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:44:54,900 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:44:54,900 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:44:54,910 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:44:54,980 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 14:44:54,980 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 14:44:54,980 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_source`>
+2015-04-01 14:44:55,020 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_source` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `uuid` varchar(45) DEFAULT NULL,
+  `updatetime` varchar(45) DEFAULT NULL,
+  `oldfileaddress` varchar(200) DEFAULT NULL,
+  `fileaddress` varchar(200) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5271 DEFAULT CHARSET=gbk;>
+2015-04-01 14:44:55,020 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] false>
+2015-04-01 14:44:55,020 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:44:55,020 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:46:51,601 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:46:51,875 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:46:51,885 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:46:51,885 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:46:51,885 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:46:51,895 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] true>
+2015-04-01 14:46:51,895 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:46:51,895 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:47:18,213 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:47:18,475 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:47:18,475 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:47:18,485 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:47:18,495 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:47:18,597 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 14:47:18,597 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 14:47:18,607 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_source`>
+2015-04-01 14:47:18,617 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_source` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `uuid` varchar(45) DEFAULT NULL,
+  `updatetime` varchar(45) DEFAULT NULL,
+  `oldfileaddress` varchar(200) DEFAULT NULL,
+  `fileaddress` varchar(200) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5271 DEFAULT CHARSET=gbk;>
+2015-04-01 14:47:18,617 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] false>
+2015-04-01 14:47:18,617 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:47:18,617 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:52:07,329 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:52:07,656 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:52:07,660 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:52:07,665 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:52:07,669 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:52:07,685 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] true>
+2015-04-01 14:52:07,690 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:52:07,700 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:52:26,279 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:52:26,605 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:52:26,615 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:52:26,635 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:52:26,635 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:52:26,787 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 14:52:26,797 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 14:52:26,807 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_source`>
+2015-04-01 14:52:26,846 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_source` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `uuid` varchar(45) DEFAULT NULL,
+  `updatetime` varchar(45) DEFAULT NULL,
+  `oldfileaddress` varchar(200) DEFAULT NULL,
+  `fileaddress` varchar(200) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5271 DEFAULT CHARSET=gbk;>
+2015-04-01 14:52:26,846 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] false>
+2015-04-01 14:52:26,856 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:52:26,863 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 14:53:47,581 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 14:53:47,905 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 14:53:47,925 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:53:47,925 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname'] true>
+2015-04-01 14:53:47,935 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername'] true>
+2015-04-01 14:53:47,945 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername'] true>
+2015-04-01 14:53:47,945 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 14:53:47,955 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername'] true>
+2015-04-01 15:05:35,622 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:05:35,892 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:05:36,104 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:05:36,104 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_client>
+2015-04-01 15:05:36,104 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:05:36,306 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_operate_record`>
+2015-04-01 15:05:36,346 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_operate_record` (
+  `id` int(11) NOT NULL auto_increment,
+  `uuid` varchar(45) default NULL,
+  `operatorsessionid` varchar(45) default NULL,
+  `operatorip` varchar(45) default NULL,
+  `operatetime` varchar(45) default NULL,
+  `operate` varchar(45) default NULL,
+  `centerid` varchar(45) default NULL,
+  `operateinfo` varchar(2000) default NULL,
+  `centername` varchar(45) default NULL,
+  `errorinfo` varchar(2000) default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=16173 DEFAULT CHARSET=gbk;>
+2015-04-01 15:05:36,356 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:05:36,356 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centerip'] false>
+2015-04-01 15:05:36,356 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:05:36,518 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:05:36,518 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 15:05:36,518 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:05:36,618 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_version`>
+2015-04-01 15:05:36,648 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_version` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5438 DEFAULT CHARSET=gbk;>
+2015-04-01 15:05:36,648 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:05:36,648 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] false>
+2015-04-01 15:05:36,704 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:05:36,770 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 15:05:36,770 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:05:36,790 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_source`>
+2015-04-01 15:05:36,800 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_source` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `uuid` varchar(45) DEFAULT NULL,
+  `updatetime` varchar(45) DEFAULT NULL,
+  `oldfileaddress` varchar(200) DEFAULT NULL,
+  `fileaddress` varchar(200) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5271 DEFAULT CHARSET=gbk;>
+2015-04-01 15:05:36,800 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:05:36,800 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] false>
+2015-04-01 15:05:36,942 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:05:36,942 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 15:05:36,942 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:05:36,982 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_operate_record`>
+2015-04-01 15:05:37,012 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_operate_record` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `uuid` varchar(45) DEFAULT NULL,
+  `sessionid` varchar(45) DEFAULT NULL,
+  `operate` varchar(45) DEFAULT NULL,
+  `operatorip` varchar(45) DEFAULT NULL,
+  `operatetime` varchar(45) DEFAULT NULL,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `errorinfo` varchar(2000) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5582 DEFAULT CHARSET=gbk;>
+2015-04-01 15:05:37,012 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:05:37,012 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='', select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centerip'] false>
+2015-04-01 15:05:37,022 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 15:05:44,923 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:05:45,179 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:05:45,279 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:05:45,279 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_client>
+2015-04-01 15:05:45,279 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:05:45,289 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_operate_record`>
+2015-04-01 15:05:45,299 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_operate_record` (
+  `id` int(11) NOT NULL auto_increment,
+  `uuid` varchar(45) default NULL,
+  `operatorsessionid` varchar(45) default NULL,
+  `operatorip` varchar(45) default NULL,
+  `operatetime` varchar(45) default NULL,
+  `operate` varchar(45) default NULL,
+  `centerid` varchar(45) default NULL,
+  `operateinfo` varchar(2000) default NULL,
+  `centername` varchar(45) default NULL,
+  `errorinfo` varchar(2000) default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=16173 DEFAULT CHARSET=gbk;>
+2015-04-01 15:05:45,299 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:05:45,299 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centerip'] false>
+2015-04-01 15:05:45,299 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:05:45,421 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:05:45,421 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 15:05:45,421 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:05:45,431 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_version`>
+2015-04-01 15:05:45,441 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_version` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5438 DEFAULT CHARSET=gbk;>
+2015-04-01 15:05:45,441 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:05:45,451 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] false>
+2015-04-01 15:05:45,541 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:05:45,551 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 15:05:45,551 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:05:45,561 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_source`>
+2015-04-01 15:05:45,611 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_source` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `uuid` varchar(45) DEFAULT NULL,
+  `updatetime` varchar(45) DEFAULT NULL,
+  `oldfileaddress` varchar(200) DEFAULT NULL,
+  `fileaddress` varchar(200) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5271 DEFAULT CHARSET=gbk;>
+2015-04-01 15:05:45,611 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:05:45,611 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] false>
+2015-04-01 15:05:45,683 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:05:45,683 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 15:05:45,693 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:05:45,693 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_operate_record`>
+2015-04-01 15:05:45,704 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_operate_record` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `uuid` varchar(45) DEFAULT NULL,
+  `sessionid` varchar(45) DEFAULT NULL,
+  `operate` varchar(45) DEFAULT NULL,
+  `operatorip` varchar(45) DEFAULT NULL,
+  `operatetime` varchar(45) DEFAULT NULL,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `errorinfo` varchar(2000) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5582 DEFAULT CHARSET=gbk;>
+2015-04-01 15:05:45,704 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:05:45,704 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='', select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centerip'] false>
+2015-04-01 15:05:45,704 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 15:06:48,688 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:06:48,950 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:06:49,012 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:06:49,022 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_client>
+2015-04-01 15:06:49,022 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:06:49,052 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_operate_record`>
+2015-04-01 15:06:49,052 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_operate_record` (
+  `id` int(11) NOT NULL auto_increment,
+  `uuid` varchar(45) default NULL,
+  `operatorsessionid` varchar(45) default NULL,
+  `operatorip` varchar(45) default NULL,
+  `operatetime` varchar(45) default NULL,
+  `operate` varchar(45) default NULL,
+  `centerid` varchar(45) default NULL,
+  `operateinfo` varchar(2000) default NULL,
+  `centername` varchar(45) default NULL,
+  `errorinfo` varchar(2000) default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=16173 DEFAULT CHARSET=gbk;>
+2015-04-01 15:06:49,052 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:06:49,052 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centerip'] false>
+2015-04-01 15:06:49,062 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:06:49,072 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 15:06:49,072 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 15:06:49,164 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:06:49,174 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 15:06:49,174 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:06:49,184 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_operate_record`>
+2015-04-01 15:06:49,256 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_operate_record` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `uuid` varchar(45) DEFAULT NULL,
+  `sessionid` varchar(45) DEFAULT NULL,
+  `operate` varchar(45) DEFAULT NULL,
+  `operatorip` varchar(45) DEFAULT NULL,
+  `operatetime` varchar(45) DEFAULT NULL,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `errorinfo` varchar(2000) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5582 DEFAULT CHARSET=gbk;>
+2015-04-01 15:06:49,256 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:06:49,256 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centerip'] false>
+2015-04-01 15:06:49,256 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 15:07:28,442 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:07:28,714 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:07:28,824 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:07:28,824 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_client>
+2015-04-01 15:07:28,824 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:07:28,834 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_operate_record`>
+2015-04-01 15:07:28,864 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_operate_record` (
+  `id` int(11) NOT NULL auto_increment,
+  `uuid` varchar(45) default NULL,
+  `operatorsessionid` varchar(45) default NULL,
+  `operatorip` varchar(45) default NULL,
+  `operatetime` varchar(45) default NULL,
+  `operate` varchar(45) default NULL,
+  `centerid` varchar(45) default NULL,
+  `operateinfo` varchar(2000) default NULL,
+  `centername` varchar(45) default NULL,
+  `errorinfo` varchar(2000) default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=16173 DEFAULT CHARSET=gbk;>
+2015-04-01 15:07:28,864 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:07:28,864 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centerip'] false>
+2015-04-01 15:07:28,874 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:07:28,884 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 15:07:28,884 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 15:07:28,894 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:07:28,904 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 15:07:58,422 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:07:58,676 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:07:58,696 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:07:58,696 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:07:58,706 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 15:07:58,716 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 15:07:58,716 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:07:58,732 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 15:21:43,458 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:21:43,710 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:21:43,710 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:21:43,720 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:21:43,730 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 15:21:43,730 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 15:21:43,740 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:21:43,750 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 15:22:17,582 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:22:17,846 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:22:17,856 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:22:17,866 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:22:17,876 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 15:22:17,876 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 15:22:17,886 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:22:17,896 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 15:23:10,599 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:23:10,885 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:23:10,895 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:23:10,905 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:23:10,905 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 15:23:10,915 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 15:23:10,915 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:23:10,935 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 15:23:47,755 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:23:48,017 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:23:48,017 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:23:48,027 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:23:48,109 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:23:48,109 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 15:23:48,109 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:23:48,109 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_version`>
+2015-04-01 15:23:48,129 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_version` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5438 DEFAULT CHARSET=gbk;>
+2015-04-01 15:23:48,129 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:23:48,129 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] false>
+2015-04-01 15:23:48,139 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 15:23:48,139 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:23:48,149 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 15:25:35,381 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:25:35,645 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:25:35,645 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:25:35,655 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:25:35,727 INFO [com.db.service.GetExistInfo] - <备份文件成功>
+2015-04-01 15:25:35,727 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 15:25:35,727 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:25:35,737 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_version`>
+2015-04-01 15:25:35,767 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_version` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5438 DEFAULT CHARSET=gbk;>
+2015-04-01 15:25:35,767 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:25:35,767 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] false>
+2015-04-01 15:25:35,767 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 15:25:35,777 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:25:35,777 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 15:29:04,782 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:29:05,079 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:29:05,079 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:29:05,089 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:29:05,099 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 15:29:05,099 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 15:29:05,109 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:29:05,119 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 15:29:24,361 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:29:24,603 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:29:24,603 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:29:24,613 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:29:24,685 INFO [com.db.util.Backup] - <备份文件D:\oldsql\data_version_20150401032924.sql成功>
+2015-04-01 15:29:24,695 INFO [com.db.base.JDBCExec] - <当前执行sql use jms_server>
+2015-04-01 15:29:24,695 INFO [com.db.base.JDBCExec] - <当前执行sql set character set gbk>
+2015-04-01 15:29:24,695 INFO [com.db.base.JDBCExec] - <当前执行sql drop table if EXISTS `data_version`>
+2015-04-01 15:29:24,705 INFO [com.db.base.JDBCExec] - <当前执行sql CREATE TABLE if not exists `data_version` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `centerid` varchar(45) DEFAULT NULL,
+  `centername` varchar(45) DEFAULT NULL,
+  `centerip` varchar(55) DEFAULT NULL,
+  `version` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5438 DEFAULT CHARSET=gbk;>
+2015-04-01 15:29:24,705 INFO [com.db.service.GetExistInfo] - <删除旧表，添加新表成功>
+2015-04-01 15:29:24,705 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] false>
+2015-04-01 15:29:24,715 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 15:29:24,715 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:29:24,725 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 15:31:12,032 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 15:31:12,290 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 15:31:12,300 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:31:12,300 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 15:31:12,310 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 15:31:12,310 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 15:31:12,320 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 15:31:12,330 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 16:22:48,975 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 16:22:49,353 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 16:22:49,359 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 16:22:49,383 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 16:22:49,398 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 16:22:49,413 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 16:22:49,416 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 16:22:49,424 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 17:14:11,922 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 17:14:12,238 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 17:14:12,238 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:14:12,248 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 17:14:12,258 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 17:14:12,268 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 17:14:12,268 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:14:12,278 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 17:15:42,646 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 17:15:42,952 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 17:15:42,962 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:15:42,962 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 17:15:42,987 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 17:15:42,993 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 17:15:42,997 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:15:43,006 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 17:18:21,328 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 17:18:21,645 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 17:18:21,649 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:18:21,654 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 17:18:21,654 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 17:18:21,664 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 17:18:21,674 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:18:21,695 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 17:18:36,800 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 17:18:37,092 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 17:18:37,092 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:18:37,102 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 17:18:37,112 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 17:18:37,112 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 17:18:37,122 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:18:37,122 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 17:19:04,003 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 17:19:04,258 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 17:19:04,258 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:19:04,268 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 17:19:04,278 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 17:19:04,288 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 17:19:04,288 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:19:04,309 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 17:19:27,296 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 17:19:27,588 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 17:19:27,588 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:19:27,598 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 17:19:27,608 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 17:19:27,618 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 17:19:27,618 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:19:27,634 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 17:19:47,368 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 17:19:47,664 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 17:19:47,674 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:19:47,674 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 17:19:47,694 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 17:19:47,694 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 17:19:47,704 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:19:47,716 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 17:36:36,012 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 17:36:36,306 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 17:36:36,306 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:36:36,316 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 17:36:36,326 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 17:36:36,326 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 17:36:36,336 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:36:36,336 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>
+2015-04-01 17:36:58,066 INFO [com.db.base.JDBCConnection] - <数据库连接字符串: jdbc:mysql://localhost:3306/nvmp>
+2015-04-01 17:36:58,350 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_client' and table_name='data_native_source' and column_name='centerip'] true>
+2015-04-01 17:36:58,350 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:36:58,360 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuname', select * from information_schema.columns where table_schema='jms_client' and table_name='data_self_source' and column_name='uuid'] true>
+2015-04-01 17:36:58,360 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_version' and column_name='centerip'] true>
+2015-04-01 17:36:58,370 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='data_source' and column_name='centerip'] true>
+2015-04-01 17:36:58,370 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='data_operate_record' and column_name='centername'] true>
+2015-04-01 17:36:58,380 INFO [com.db.service.GetExistInfo] - <[select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centername', select * from information_schema.columns where table_schema='jms_server' and table_name='sync_data_version' and column_name='centerip'] true>

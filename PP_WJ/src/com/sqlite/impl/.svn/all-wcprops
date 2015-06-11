@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl
+END
+CanmelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/CanmelImpl.java
+END
+CenterInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/CenterInfoImpl.java
+END
+PlanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/PlanImpl.java
+END
+VideoDeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/VideoDeviceImpl.java
+END
+BaseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/BaseDaoImpl.java
+END
+CenterNetWorkImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/CenterNetWorkImpl.java
+END
+VideoServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/VideoServerImpl.java
+END
+DeviceStatusImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/DeviceStatusImpl.java
+END
+PojoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/PojoImpl.java
+END
+AlrmPointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/AlrmPointImpl.java
+END
+OutPointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/OutPointImpl.java
+END
+CommandDeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/CommandDeviceImpl.java
+END
+CenterRouteImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/CenterRouteImpl.java
+END
+CenterInfoSyncImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/impl/CenterInfoSyncImpl.java
+END

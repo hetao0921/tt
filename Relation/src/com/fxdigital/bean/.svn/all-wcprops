@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/bean
+END
+SoftInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/bean/SoftInfo.java
+END
+ServerLogBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/bean/ServerLogBean.java
+END
+UserLogBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/bean/UserLogBean.java
+END
+DeviceModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/bean/DeviceModel.java
+END
+Quality.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/bean/Quality.java
+END
+Device.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/bean/Device.java
+END
+DevInfoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/bean/DevInfoBean.java
+END
+Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/bean/Index.java
+END
+TableData.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/bean/TableData.java
+END

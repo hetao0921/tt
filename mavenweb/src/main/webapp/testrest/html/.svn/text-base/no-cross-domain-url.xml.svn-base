@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<url type="POST" name="添加中心关系" >/fxrest/v01/centerrelation</url>
+    <url type="POST" name="添加动态分组" >/fxrest/v01/resourcegroup</url>
+
+   <url type="DELETE" name="删除中心关系" >/fxrest/v01/centerrelation/relationid/{0}</url>
+    <url type="DELETE" name="删除动态分组" >/fxrest/v01/resourcegroup/groupid/{0}</url>
+
+    <url type="GET" name="根据relationid 查找中心关系" >/fxrest/v01/centerrelation/relatedcenterid/{0}/relationtype/{1}</url>
+    <url type="GET" name="根据 centerId relationType查找中心关系" >/fxrest/v01/centerrelation/centerid/{0}/relationtype/{1}</url>
+    <url type="GET" name="获取级联关系" >/fxrest/v01/centernetwork</url>
+
+    <url type="GET" name="根据中心Id查找组信息" >/fxrest/v01/resourcegroup/centerid/{0}/grouptype/{1}</url>
+    <url type="GET" name="根据组Id查找组信息" >/fxrest/v01/resourcegroup/groupid/{0}</url>
+    <url type="GET" name="根据资源Id和组类型查找分组信息" >/fxrest/v01/resourcegroup/resourceid/{0}/grouptype/{1}</url>
+
+    <url type="GET" name="根据用户Id和组类型查找组信息" >/fxrest/v01/resourcegroup/userid/{0}/grouptype/{1}</url>
+
+    <url type="GET" name="根据资源类型和中心ID获取资源" >/fxrest/v01/resource/centerid/{0}/resourcetype/{1}</url>
+
+</root>

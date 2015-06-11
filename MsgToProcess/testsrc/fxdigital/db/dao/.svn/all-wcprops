@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/testsrc/fxdigital/db/dao
+END
+LocalCenterDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/testsrc/fxdigital/db/dao/LocalCenterDaoTest.java
+END
+LocalMqInfoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/testsrc/fxdigital/db/dao/LocalMqInfoDaoTest.java
+END
+SyncServersDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/testsrc/fxdigital/db/dao/SyncServersDaoTest.java
+END

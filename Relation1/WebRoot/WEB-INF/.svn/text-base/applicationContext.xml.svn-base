@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd   
+       http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd   
+       http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd">
+	
+	<!-- 使用annotation 自动注册bean,并保证@Required,@Autowired的属性被注入 -->
+	<context:component-scan base-package="*" />
+	   
+	
+	<!-- 对模型视图名称的解析，即在模型视图名称添加前后缀 -->
+	<bean
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver"
+		p:prefix="/views/" p:suffix=".jsp" />
+
+	<bean id="multipartResolver"
+		class="org.springframework.web.multipart.commons.CommonsMultipartResolver"
+		p:defaultEncoding="utf-8" />
+		
+ 	<bean class="fxdigital.util.ConfigUtil">
+		<property name="ignoreResourceNotFound" value="true" /> 
+		<property name="locations">
+			<list>
+				<value>WEB-INF/args.properties</value>
+			</list>
+		</property>
+	</bean>
+	
+
+	
+	
+	<!-- 数据源配置,使用应用内的C3P0数据库连接池 --><!--  -->
+<!-- 	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close" depends-on="loadProperties" >
+	  <property name="driverClass">
+	   <value>#{loadProperties.datasource.driverClassName}</value>
+	  </property>
+	  <property name="jdbcUrl">
+	   <value>#{loadProperties.datasource.url}</value>
+	  </property>
+	  <property name="user">
+	   <value>#{loadProperties.datasource.username}</value>
+	  </property>
+	  <property name="password">
+	   <value>#{loadProperties.datasource.password}</value>
+	  </property>
+	  <property name="acquireIncrement">
+	   <value>#{loadProperties.datasource.acquireIncrement}</value>
+	  </property>
+	  <property name="initialPoolSize">
+	   <value>#{loadProperties.datasource.initialPoolSize}</value>
+	  </property>
+	  <property name="minPoolSize">
+	   <value>#{loadProperties.datasource.minPoolSize}</value>
+	  </property>
+	  <property name="maxPoolSize">
+	   <value>#{loadProperties.datasource.maxPoolSize}</value>
+	  </property>
+	  <property name="maxIdleTime">
+	   <value>#{loadProperties.datasource.maxIdleTime}</value>
+	  </property>
+	  <property name="idleConnectionTestPeriod">
+	   <value>#{loadProperties.datasource.idleConnectionTestPeriod}</value>
+	  </property>
+	  <property name="maxStatements">
+	   <value>#{loadProperties.datasource.maxStatements}</value>
+	  </property>
+	  <property name="numHelperThreads">
+	   <value>#{loadProperties.datasource.numHelperThreads}</value>
+	  </property>
+	 </bean>  -->
+	 
+ 	 <bean id="dataSource" class="org.springframework.jndi.JndiObjectFactoryBean" depends-on="loadProperties"> 
+              <property name="jndiName"><value>#{loadProperties.jndiName}</value></property> 
+       </bean> 
+	  <import resource="hibernate.xml" /> 
+</beans>

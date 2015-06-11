@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PPServer/!svn/ver/2018/2P_V2.5/mavenweb/src/main/java/com/fxdigital/hibernate/bean
+END
+NvmpCenterrelationmembertab.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/2018/2P_V2.5/mavenweb/src/main/java/com/fxdigital/hibernate/bean/NvmpCenterrelationmembertab.java
+END
+EqualityInfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/1866/2P_V2.5/mavenweb/src/main/java/com/fxdigital/hibernate/bean/EqualityInfotab.java
+END
+NvmpCenterinfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1866/2P_V2.5/mavenweb/src/main/java/com/fxdigital/hibernate/bean/NvmpCenterinfotab.java
+END
+UserInfoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1840/2P_V2.5/mavenweb/src/main/java/com/fxdigital/hibernate/bean/UserInfoBean.java
+END
+EqualitymapingInfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1866/2P_V2.5/mavenweb/src/main/java/com/fxdigital/hibernate/bean/EqualitymapingInfotab.java
+END
+NvmpCenterrelationtab.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1975/2P_V2.5/mavenweb/src/main/java/com/fxdigital/hibernate/bean/NvmpCenterrelationtab.java
+END
+NvmpCenterinfosynctab.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1866/2P_V2.5/mavenweb/src/main/java/com/fxdigital/hibernate/bean/NvmpCenterinfosynctab.java
+END

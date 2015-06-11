@@ -1,0 +1,97 @@
+8
+
+dir
+2268
+https://192.168.1.200/svn/PPServer/2P_V2.5/mavenweb
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-02-28T08:44:46.018648Z
+2184
+lizehua
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+.classpath
+file
+
+
+
+
+2015-04-09T08:34:52.082000Z
+bb3dd1b21a8f8d36285e0a8a7089d000
+2015-01-26T08:08:11.800000Z
+1959
+lizehua
+
+.myhibernatedata
+file
+
+
+
+
+2015-04-09T08:34:52.062000Z
+17763915ad58b7e98fa95bf9195c5729
+2015-01-29T08:17:20.433000Z
+2018
+lizehua
+
+.project
+file
+
+
+
+
+2015-04-09T08:34:52.112000Z
+34fb3021003f41ecf8db0062398c1141
+2015-01-26T08:08:11.800000Z
+1959
+lizehua
+
+.settings
+dir
+
+hibernate.reveng.xml
+file
+
+
+
+
+2015-04-09T08:34:52.122000Z
+08478437f3115d97f66401469c8d939c
+2015-01-27T09:19:48.812000Z
+1973
+lizehua
+
+log
+dir
+
+pom.xml
+file
+
+
+
+
+2015-04-09T08:34:55.220000Z
+c78c704e02fcef405b0ade6b09b1f192
+2015-01-26T08:08:11.800000Z
+1959
+lizehua
+
+src
+dir
+

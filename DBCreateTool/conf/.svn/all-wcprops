@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/PPServer/!svn/ver/2247/2P_V2.5/dbsync/DBComperorTool/conf
+END
+c3p0.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/PPServer/!svn/ver/2247/2P_V2.5/dbsync/DBComperorTool/conf/c3p0.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/PPServer/!svn/ver/2247/2P_V2.5/dbsync/DBComperorTool/conf/log4j.properties
+END

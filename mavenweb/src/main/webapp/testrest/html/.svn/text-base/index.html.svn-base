@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+
+<!--    <script src="../lib/bootstrap.js"></script>
+    <script src="../lib/bootstrap.css"></script>-->
+</head>
+<body >
+
+
+
+
+<div align="center" ng-controller="myCtrl" ng-app="" >
+
+  <fieldset style="width: 1010px" >
+        <legend>选择rest：</legend>
+       <div style="width: 800px"   >
+         <!--     <label>输入IP：</label><input id="ip" name="ip" type="text" size="20px" /> -->
+            选择REST:<select name="selectUrl" id="selectUrl">
+        </select>
+            <button ng-click="send()">send</button>
+        </div>
+    </fieldset>
+    <br>
+
+    <fieldset style="width: 1010px" >
+        <legend>输入json：</legend>
+        <div style="width: 800px"   >
+           <textarea name="json" id="json"  placeholder="输入参数" rows="10" cols="100" > </textarea>
+
+        </div>
+    </fieldset>
+    <br>
+
+
+</div>
+
+<script>
+    function myCtrl($scope,$http) {
+        $scope.send=function(){
+
+            //var ip=$("#ip").val();
+      /*       if(ip==""){
+                alert("ip为空")
+                return;
+            } */
+            var json=$("#json").val();
+            var url=$("#selectUrl").val();
+            var strs= new Array();
+            strs=url.split("||");
+
+
+            var type=strs[1];
+            url=strs[0];
+            alert("type:"+type);
+            if(type=="GET"||type=="DELETE"){
+                var args=new Array();
+                args=  json.split("||");
+
+                    for( i=0; i<args.length; i++){
+                        url=url.replace(new RegExp("\\{"+i+"\\}","g"), $.trim(args[i]));
+                    }
+
+                alert(url);
+/*                $http.header("Access-Control-Allow-Origin", "*");
+                $http.header('Access-Control-Allow-Methods', 'OPTIONS,GET,POST,PUT,DELETE');
+                $http.header("Access-Control-Allow-Headers", "Content-Type, Authorization, X-Requested-With");*/
+                $http({method : type, url :url})
+                        .success(function(response, status, headers, config){
+//do anything what you want;
+                            alert("status:"+status);
+                        })
+                        .error(function(response, status, headers, config){
+//do  anything what you want;
+                            alert("status:"+status);
+                        });
+
+
+                /* $.ajax({
+                 type:type,
+                 url:url,
+                 dataType:"jsonp",
+                 contentType: "application/json; charset=utf-8",
+                 jsonp: 'jsoncallback', //默认callback,
+                 success:function(data,textStatus){
+                 alert(textStatus);
+                 },
+                 error:function(XMLHttpRequest, textStatus, errorThrown){
+                 alert("调用出错" + textStatus);
+                 }
+                 });*/
+            }else{
+               /* $.ajax({
+                    type:type,
+                    url:url,
+                    dataType:"jsonp",
+                    data : {'param':json},
+                    jsonp: 'jsoncallback', //默认callback,
+                    contentType: "application/json; charset=utf-8",
+                    success:function(data,textStatus){
+                        alert(textStatus);
+                    },
+                    error:function(XMLHttpRequest, textStatus, errorThrown){
+                        alert("调用出错" + textStatus);
+                    }
+                });*/
+
+                $http({method : type, url :url,data:json})
+                        .success(function(response, status, headers, config){
+//do anything what you want;
+                            alert("status:"+status);
+                            
+                        })
+                        .error(function(response, status, headers, config){
+//do  anything what you want;
+                            alert("status:"+status);
+                        });
+            }
+        };
+    }
+</script>
+<script src="../lib/jquery.js"></script>
+<script src="../jquery/form.js"></script>
+<script src="../jquery/init.js"></script>
+<script src="../lib/angular.min.js"></script>
+</body>
+
+</html>

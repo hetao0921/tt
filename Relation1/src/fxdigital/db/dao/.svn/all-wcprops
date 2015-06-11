@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1575/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/dao
+END
+ApplyStatusDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1640/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/dao/ApplyStatusDao.java
+END
+LocalRegisterCentersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1640/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/dao/LocalRegisterCentersDao.java
+END
+SupApplyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1640/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/dao/SupApplyDao.java
+END
+SubApplyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1640/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/dao/SubApplyDao.java
+END
+AutoTimeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1640/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/dao/AutoTimeDao.java
+END
+SyncServersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1640/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/dao/SyncServersDao.java
+END
+LocalCenterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1758/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/src/fxdigital/db/dao/LocalCenterDao.java
+END

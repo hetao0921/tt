@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/PPServer/!svn/ver/2184/2P_V2.5/mavenweb
+END
+hibernate.reveng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/PPServer/!svn/ver/1973/2P_V2.5/mavenweb/hibernate.reveng.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/PPServer/!svn/ver/1959/2P_V2.5/mavenweb/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/PPServer/!svn/ver/1959/2P_V2.5/mavenweb/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/PPServer/!svn/ver/1959/2P_V2.5/mavenweb/pom.xml
+END
+.myhibernatedata
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/PPServer/!svn/ver/2018/2P_V2.5/mavenweb/.myhibernatedata
+END

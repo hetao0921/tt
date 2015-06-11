@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/db
+END
+HibernateSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/PPServer/!svn/ver/1577/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/db/HibernateSessionFactory.java
+END
+ConvertMapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/db/ConvertMapUtil.java
+END
+ReadDBConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/1534/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/db/ReadDBConfig.java
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/1723/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/db/hibernate.cfg.xml
+END
+Hibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/1577/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/MsgToProcess/src/com/hibernate/db/Hibernate.java
+END

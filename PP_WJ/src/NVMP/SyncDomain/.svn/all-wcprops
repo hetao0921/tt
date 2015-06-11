@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/SyncDomain
+END
+JdbcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/SyncDomain/JdbcImpl.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/SyncDomain/Client.java
+END
+DBConn.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/SyncDomain/DBConn.java
+END
+JdbcToXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/SyncDomain/JdbcToXml.java
+END
+SyncDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/SyncDomain/SyncDomain.java
+END
+ClientDBSynchronizationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/SyncDomain/ClientDBSynchronizationHandler.java
+END
+ISyncEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/SyncDomain/ISyncEvent.java
+END
+SyncBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/SyncDomain/SyncBusiness.java
+END

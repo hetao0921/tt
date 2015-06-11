@@ -1,0 +1,106 @@
+8
+
+dir
+1637
+https://192.168.1.200/svn/PPServer/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/WebRoot/WEB-INF
+https://192.168.1.200/svn/PPServer
+
+
+
+2014-11-20T09:40:24.637000Z
+1606
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+applicationContext.xml
+file
+
+
+
+
+2014-11-20T09:40:17.584000Z
+f8cc2042ba723dec6477222b40c670b9
+2014-11-20T09:40:24.6371000Z
+1606
+hetao
+
+args.properties
+file
+
+
+
+
+2014-11-19T07:08:17.795000Z
+9c466aa3152fbdfc9580bbdcce6ae3b9
+2014-11-18T01:42:11.528000Z
+1547
+lizehua
+
+c3p0.properties
+file
+
+
+
+
+2014-11-20T09:36:49.987000Z
+5a0633096c63da28018e6d8ae08cc5fb
+2014-11-20T07:46:47.782000Z
+1598
+lizehua
+
+classes
+dir
+
+hibernate.xml
+file
+1640
+
+
+
+2014-11-24T04:53:24.125000Z
+b797e9abc21813c2d47fd58932f00b08
+2014-11-24T05:45:48.0591000Z
+1640
+hetao
+
+lib
+dir
+
+log4j.properties
+file
+
+
+
+
+2014-11-19T07:08:17.795000Z
+bdd33b6d6d09bb88c1f9784697558a4f
+2014-11-18T01:42:11.528000Z
+1547
+lizehua
+
+web.xml
+file
+
+
+
+
+2014-11-19T07:08:17.810000Z
+b0fa690ccf2afb7634947d84d35a8fc8
+2014-11-19T02:33:15.022000Z
+1573
+lizehua
+

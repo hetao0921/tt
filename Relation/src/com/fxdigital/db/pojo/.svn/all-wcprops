@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/pojo
+END
+CenterVerinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/pojo/CenterVerinfo.java
+END
+SoftPacketInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/pojo/SoftPacketInfo.java
+END
+UpLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/pojo/UpLink.java
+END
+SendVerCheckpojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/pojo/SendVerCheckpojo.java
+END
+UpRecordinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/pojo/UpRecordinfo.java
+END
+SendUpResultInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/pojo/SendUpResultInfo.java
+END
+MenuInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/pojo/MenuInfo.java
+END
+DevInfoPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/pojo/DevInfoPojo.java
+END
+WsdlPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/pojo/WsdlPojo.java
+END
+UserLogPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/pojo/UserLogPojo.java
+END
+MenuSyncInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/PPServer/!svn/ver/1773/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/com/fxdigital/db/pojo/MenuSyncInfo.java
+END

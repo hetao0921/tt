@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy
+END
+AppServiceInitDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/AppServiceInitDomain.java
+END
+SyncDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/SyncDomain.java
+END
+VideoContrlDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/VideoContrlDomain.java
+END
+VideoContrlDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/VideoContrlDomainProxy.java
+END
+TimeCorrectionDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/TimeCorrectionDomainProxy.java
+END
+IRunTimeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/IRunTimeInfo.java
+END
+StateServerDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/StateServerDomain.java
+END
+SystemMessageDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/SystemMessageDomainProxy.java
+END
+MatrixDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/MatrixDomainProxy.java
+END
+SystemMessageDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/SystemMessageDomain.java
+END
+SyncDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/SyncDomainProxy.java
+END
+StateManageDomain.txt
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/StateManageDomain.txt
+END
+StateManageDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/StateManageDomain.java
+END
+AwareDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/AwareDomain.java
+END
+apptestDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/apptestDomain.java
+END
+VideoServerDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/VideoServerDomainProxy.java
+END
+IRunTimeInfoProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/IRunTimeInfoProxy.java
+END
+MatrixDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/MatrixDomain.java
+END
+AppServiceInitDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/AppServiceInitDomainProxy.java
+END
+AwareDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/AwareDomainProxy.java
+END
+CommandDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/CommandDomain.java
+END
+ProxyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/ProxyList.java
+END
+FXStoreDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/FXStoreDomainProxy.java
+END
+StateServerDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/StateServerDomainProxy.java
+END
+CommandDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/CommandDomainProxy.java
+END
+StateManageDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/StateManageDomainProxy.java
+END
+apptestDomainProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/apptestDomainProxy.java
+END
+VideoServerDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/VideoServerDomain.java
+END
+TimeCorrectionDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/TimeCorrectionDomain.java
+END
+FXStoreDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/NVMP/Proxy/FXStoreDomain.java
+END

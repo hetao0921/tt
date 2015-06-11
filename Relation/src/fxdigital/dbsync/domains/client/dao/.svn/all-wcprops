@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/fxdigital/dbsync/domains/client/dao
+END
+DataNativeRecordSourceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/fxdigital/dbsync/domains/client/dao/DataNativeRecordSourceDao.java
+END
+DataOperateRecordDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/fxdigital/dbsync/domains/client/dao/DataOperateRecordDao.java
+END
+DataOperateDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/fxdigital/dbsync/domains/client/dao/DataOperateDao.java
+END
+DataNativeSourceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/fxdigital/dbsync/domains/client/dao/DataNativeSourceDao.java
+END
+SyncDataInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/fxdigital/dbsync/domains/client/dao/SyncDataInfoDao.java
+END
+DataSelfSourceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/PPServer/!svn/ver/1765/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/FXWebSync/src/fxdigital/dbsync/domains/client/dao/DataSelfSourceDao.java
+END

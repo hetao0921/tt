@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PPServer/!svn/ver/2138/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/dao
+END
+GateResourceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/2138/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/dao/GateResourceDao.java
+END
+SetDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1866/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/dao/SetDao.java
+END
+BaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/2327/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/dao/BaseDao.java
+END
+HibernateDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/2022/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/dao/HibernateDao.java
+END
+DualDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1866/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/dao/DualDao.java
+END
+GateResGroupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/2138/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/dao/GateResGroupDao.java
+END

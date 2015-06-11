@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao
+END
+CenterRouteDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/CenterRouteDao.java
+END
+VideoServerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/VideoServerDao.java
+END
+OutPointDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/OutPointDao.java
+END
+PojoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/PojoDao.java
+END
+BaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/BaseDao.java
+END
+CenterNetWorkDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/CenterNetWorkDao.java
+END
+CenterInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/CenterInfoDao.java
+END
+PlanDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/PlanDao.java
+END
+CommandDeviceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/CommandDeviceDao.java
+END
+VideoDeviceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/VideoDeviceDao.java
+END
+CenterInfoSyncDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/CenterInfoSyncDao.java
+END
+CanmelDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/CanmelDao.java
+END
+VideoDevChDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/VideoDevChDao.java
+END
+AlrmPointDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/AlrmPointDao.java
+END
+DeviceStatusDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/com/sqlite/dao/DeviceStatusDao.java
+END

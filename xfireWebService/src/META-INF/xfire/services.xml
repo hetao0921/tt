@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<beans xmlns="http://xfire.codehaus.org/config/1.0">  
+        <service>  
+            <!-- webserviceq名称，调用时需要指定这个 -->  
+            <name>readerService</name>  
+            <!-- 这个一般是自己公司的网址，意义不大 -->  
+            <namespace>http://test/HelloService</namespace>  
+            <!-- 接口类 -->  
+            <serviceClass>com.xfire.webservice.IReaderService</serviceClass>  
+            <!-- 实现类 -->  
+            <implementationClass>com.xfire.webservice.impl.ReaderService</implementationClass>  
+        </service>  
+    </beans>  

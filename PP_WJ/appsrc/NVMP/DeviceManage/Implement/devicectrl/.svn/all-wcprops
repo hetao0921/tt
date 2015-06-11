@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl
+END
+OnvifDeviceCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl/OnvifDeviceCtrl.java
+END
+ResolutionMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl/ResolutionMap.java
+END
+HttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl/HttpRequest.java
+END
+URLCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl/URLCtrl.java
+END
+ICtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl/ICtrl.java
+END
+NVObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl/NVObject.java
+END
+DeviceCtrlManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl/DeviceCtrlManager.java
+END
+ResolutionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl/ResolutionData.java
+END
+OnvifObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl/OnvifObject.java
+END
+NVDeviceCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl/NVDeviceCtrl.java
+END
+RTSPClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl/RTSPClient.java
+END
+ExecutorServiceSingleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/appsrc/NVMP/DeviceManage/Implement/devicectrl/ExecutorServiceSingleton.java
+END

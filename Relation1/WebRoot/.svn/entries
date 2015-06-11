@@ -1,0 +1,40 @@
+8
+
+dir
+1637
+https://192.168.1.200/svn/PPServer/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/dbsync/Relation/WebRoot
+https://192.168.1.200/svn/PPServer
+
+
+
+2014-11-20T09:40:24.637000Z
+1606
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+META-INF
+dir
+
+WEB-INF
+dir
+
+js
+dir
+
+views
+dir
+

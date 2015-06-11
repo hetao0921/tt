@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange
+END
+ExchangeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/ExchangeClient.java
+END
+IConnectRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/IConnectRule.java
+END
+Encoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/Encoding.java
+END
+ExServerClinet.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/ExServerClinet.java
+END
+ExServerClinetEx.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/ExServerClinetEx.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/Test.java
+END
+ExchangeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/ExchangeProtocol.java
+END
+DuplicateCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/DuplicateCheck.java
+END
+IExchangeServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/IExchangeServer.java
+END
+PacketRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/PacketRecord.java
+END
+ExchangeServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/ExchangeServer.java
+END
+SessionIdGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/SessionIdGen.java
+END
+ExchangeChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/wj2210/!svn/ver/1245/03%E6%BA%90%E7%A0%81/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Center_hibernate/src/corenet/exchange/ExchangeChannel.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1680/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix
+END
+HardwareInitInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix/HardwareInitInfo.java
+END
+RtspMatrixCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix/RtspMatrixCtrl.java
+END
+SplitArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix/SplitArea.java
+END
+eNetDataTranMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix/eNetDataTranMode.java
+END
+eMaxtrixCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix/eMaxtrixCategory.java
+END
+IpMatrixCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/1680/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix/IpMatrixCtrl.java
+END
+eDecMaxtrixChannelStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix/eDecMaxtrixChannelStatus.java
+END
+IMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix/IMatrix.java
+END
+DisplayChannelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix/DisplayChannelInfo.java
+END
+RtspCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix/RtspCtrl.java
+END
+VedioSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix/VedioSource.java
+END
+RtspResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1515/2PV2.0_Hibernate/PP%E8%BD%A6%E8%BD%BD/PP_CZ/src/com/fxdigital/ipmatrix/RtspResult.java
+END

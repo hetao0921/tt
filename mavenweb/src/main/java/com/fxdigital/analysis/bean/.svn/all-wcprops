@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PPServer/!svn/ver/2145/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/bean
+END
+ResGpMemAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/1873/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/bean/ResGpMemAttribute.java
+END
+CenterRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/2018/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/bean/CenterRelation.java
+END
+Resources.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1887/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/bean/Resources.java
+END
+Notice.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/2145/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/bean/Notice.java
+END
+Equality.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1911/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/bean/Equality.java
+END
+ResourceGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1873/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/bean/ResourceGroup.java
+END
+ResourcesAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1887/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/bean/ResourcesAttribute.java
+END
+ResourceGroupMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1873/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/bean/ResourceGroupMember.java
+END
+RelatedCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/2018/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/bean/RelatedCenter.java
+END
+Center.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1903/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/bean/Center.java
+END

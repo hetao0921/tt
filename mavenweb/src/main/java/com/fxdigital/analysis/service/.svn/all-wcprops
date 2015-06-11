@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PPServer/!svn/ver/2145/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service
+END
+AnalysisCenterRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/2145/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service/AnalysisCenterRelation.java
+END
+SolidResService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/2139/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service/SolidResService.java
+END
+SyncEquality.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/2327/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service/SyncEquality.java
+END
+CreateSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/2327/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service/CreateSql.java
+END
+DynamicService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/2327/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service/DynamicService.java
+END
+DualService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/1866/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service/DualService.java
+END
+CenterRelationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/2327/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service/CenterRelationService.java
+END
+Analysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/1896/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service/Analysis.java
+END
+UserInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1840/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service/UserInfoService.java
+END
+SetService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/2327/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service/SetService.java
+END
+AnalysisEqualtiy.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1911/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service/AnalysisEqualtiy.java
+END
+AnalysisGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/2145/2P_V2.5/mavenweb/src/main/java/com/fxdigital/analysis/service/AnalysisGroup.java
+END

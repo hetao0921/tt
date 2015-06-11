@@ -1,0 +1,52 @@
+8
+
+dir
+2268
+https://192.168.1.200/svn/PPServer/2P_V2.5/mavenweb/src/main/webapp/WEB-INF
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-02-28T08:44:46.018648Z
+2184
+lizehua
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+fxdigital-servlet.xml
+file
+
+
+
+
+2015-04-09T08:34:54.826000Z
+d93a317e1411cdf6913b71b5c2df0b30
+2015-01-19T01:31:45.749000Z
+1873
+lizehua
+
+web.xml
+file
+
+
+
+
+2015-04-09T08:34:54.829000Z
+aea012cdd5bd88520a9fdc3b6855aa69
+2015-02-28T08:44:46.018648Z
+2184
+lizehua
+

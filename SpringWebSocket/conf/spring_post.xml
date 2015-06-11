@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans-4.0.xsd 
+        http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context-4.0.xsd
+        http://www.springframework.org/schema/tx 
+        http://www.springframework.org/schema/tx/spring-tx-4.0.xsd"
+	default-autowire="byName">
+	
+ 	<context:component-scan base-package="fxdigital.db,fxdigital.postserver,fxdigital.util" />
+	<bean id="xmlPropertiesPersister" class="fxdigital.util.XmlPropertiesPersister"/> 
+
+	<bean class="fxdigital.util.ConfigUtil">
+		<property name="ignoreResourceNotFound" value="true" /> 
+		<property name="propertiesPersister" ref="xmlPropertiesPersister"/>
+		<property name="locations">
+			<list>
+<!-- 				<value>conf/c3p0.properties</value> -->
+				<value>file:D:\\fxconf\\AppService\\AppService.conf</value>
+				<value>file:/etc/fxconf/AppService/AppService.conf</value>
+			</list>
+		</property>
+	</bean>
+	
+<!-- 	<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+	  	<property name="dataSource" ref="dataSource"/>
+	</bean>
+	 
+	 <bean id="txManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+	 	<property name="dataSource">
+	 		<ref bean="dataSource"/>
+	 	</property>
+	 </bean>
+	 
+	 <tx:annotation-driven transaction-manager="txManager" proxy-target-class="true" />
+	 
+	 数据源配置,使用应用内的C3P0数据库连接池
+	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close" >
+	  <property name="driverClass">
+	   <value>${datasource.driverClassName}</value>
+	  </property>
+	  <property name="jdbcUrl">
+	   <value>jdbc:mysql://#{readDBIP.dbIP}:3306/nvmp?useUnicode=true&amp;characterEncoding=GBK</value>
+	   <value>${datasource.nvmp.url}</value>
+	  </property>
+	  <property name="user">
+	   <value>${datasource.username}</value>
+	  </property>
+	  <property name="password">
+	   <value>${datasource.password}</value>
+	  </property>
+	  <property name="acquireIncrement">
+	   <value>${c3p0.acquireIncrement}</value>
+	  </property>
+	  <property name="initialPoolSize">
+	   <value>${c3p0.initialPoolSize}</value>
+	  </property>
+	  <property name="minPoolSize">
+	   <value>${c3p0.minPoolSize}</value>
+	  </property>
+	  <property name="maxPoolSize">
+	   <value>${c3p0.maxPoolSize}</value>
+	  </property>
+	  <property name="maxIdleTime">
+	   <value>${c3p0.maxIdleTime}</value>
+	  </property>
+	  <property name="idleConnectionTestPeriod">
+	   <value>${c3p0.idleConnectionTestPeriod}</value>
+	  </property>
+	  <property name="maxStatements">
+	   <value>${c3p0.maxStatements}</value>
+	  </property>
+	  <property name="numHelperThreads">
+	   <value>${c3p0.numHelperThreads}</value>
+	  </property>
+	 </bean>
+	 <import resource="hibernate.xml" />  -->
+</beans>

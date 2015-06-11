@@ -1,0 +1,30 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<project name="MsgToProcess" default="jar" basedir=".">
+	<target name="clean">
+		<delete dir="build" />
+	</target>
+	
+	<path id="lib">       
+	  <fileset dir="lib">
+	      <include name="*.jar"/>
+	  </fileset>    
+	</path>
+	
+	<target name="compile" depends="clean">
+		<mkdir dir="build/classes" />
+		<javac srcdir="src" destdir="build/classes" encoding="utf-8">
+		   <classpath refid="lib"></classpath> 
+			</javac>
+	</target>
+
+	<target name="run" depends="compile">
+		<java classname="fxdigital.postoffice.exchange.ExchangeMsg" classpath="msgprocess.jar"/>
+	</target>
+	<target name="jar" depends="run">
+		<jar destfile="msgprocess.jar" basedir="build/classes">
+			<manifest>
+				<attribute name="Main-class" value="ExchangeMsg" />
+			</manifest>
+		</jar>
+	</target>
+</project>
