@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/service
+END
+ProInitMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/service/ProInitMsg.java
+END
+LoadMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PPServer/!svn/ver/2028/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/service/LoadMessage.java
+END
+AutoServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/PPServer/!svn/ver/1992/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/service/AutoServer.java
+END
+MsgServerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/PPServer/!svn/ver/2135/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/service/MsgServerService.java
+END
+UpMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/service/UpMessage.java
+END

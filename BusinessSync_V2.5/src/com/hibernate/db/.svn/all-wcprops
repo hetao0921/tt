@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/hibernate/db
+END
+HibernateJmsServerSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/hibernate/db/HibernateJmsServerSessionFactory.java
+END
+HibernateNVMPSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/hibernate/db/HibernateNVMPSessionFactory.java
+END
+ConvertMapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/hibernate/db/ConvertMapUtil.java
+END
+FxObjectHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/hibernate/db/FxObjectHashMap.java
+END
+StudentOperate.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/hibernate/db/StudentOperate.java
+END
+ConnDo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/hibernate/db/ConnDo.java
+END
+ReadDBConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/hibernate/db/ReadDBConfig.java
+END
+FxHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/hibernate/db/FxHashMap.java
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/PPServer/!svn/ver/1997/2P_V2.5/dbsync/BusinessSync/src/com/hibernate/db/hibernate.cfg.xml
+END
+Hibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/hibernate/db/Hibernate.java
+END

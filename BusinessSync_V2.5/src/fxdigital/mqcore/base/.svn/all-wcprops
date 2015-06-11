@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/mqcore/base
+END
+BaseReciver.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/mqcore/base/BaseReciver.java
+END
+MqConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/mqcore/base/MqConnectionFactory.java
+END
+MqConnectionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/mqcore/base/MqConnectionInfo.java
+END
+BaseConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/mqcore/base/BaseConnection.java
+END
+IReciveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/mqcore/base/IReciveHandler.java
+END
+BaseSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/mqcore/base/BaseSender.java
+END
+BaseConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/mqcore/base/BaseConnectionFactory.java
+END

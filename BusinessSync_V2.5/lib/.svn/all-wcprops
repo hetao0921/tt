@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/commons-logging.jar
+END
+slf4j-api-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/slf4j-api-1.7.5.jar
+END
+oscarJDBC.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/oscarJDBC.jar
+END
+spring-expression-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-expression-4.0.0.M3.jar
+END
+activemq-core-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/activemq-core-5.5.1.jar
+END
+jms.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/jms.jar
+END
+spring-core-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-core-4.0.0.M3.jar
+END
+aopalliance.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/aopalliance.jar
+END
+com.springsource.org.aspectj.tools-1.6.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/com.springsource.org.aspectj.tools-1.6.6.RELEASE.jar
+END
+hibernate-jpa-2.0-api-1.0.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar
+END
+oscarHibernate4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/oscarHibernate4.jar
+END
+c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/c3p0-0.9.1.2.jar
+END
+jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+END
+javassist-3.15.0-GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/javassist-3.15.0-GA.jar
+END
+spring-orm-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-orm-4.0.0.M3.jar
+END
+hibernate-entitymanager-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/hibernate-entitymanager-4.1.0.Final.jar
+END
+spring-webmvc-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-webmvc-4.0.0.M3.jar
+END
+fastjson-1.1.33.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/fastjson-1.1.33.jar
+END
+jboss-logging-3.1.0.CR2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/jboss-logging-3.1.0.CR2.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/commons-collections-3.2.1.jar
+END
+hibernate-commons-annotations-4.0.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/hibernate-commons-annotations-4.0.1.Final.jar
+END
+com.springsource.org.aopalliance-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/com.springsource.org.aopalliance-1.0.0.jar
+END
+spring-tx-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-tx-4.0.0.M3.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/antlr-2.7.7.jar
+END
+commons-lang-2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/commons-lang-2.3.jar
+END
+mysql-connector-java-5.1.24-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/mysql-connector-java-5.1.24-bin.jar
+END
+hibernate-c3p0-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/hibernate-c3p0-4.1.0.Final.jar
+END
+spring-aop-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-aop-4.0.0.M3.jar
+END
+spring-web-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-web-4.0.0.M3.jar
+END
+spring-context-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-context-4.0.0.M3.jar
+END
+jdom-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/jdom-1.0.jar
+END
+commons-pool.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/commons-pool.jar
+END
+Dm7JdbcDriver16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/Dm7JdbcDriver16.jar
+END
+spring-test-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-test-4.0.0.M3.jar
+END
+spring-jdbc-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-jdbc-4.0.0.M3.jar
+END
+spring-beans-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-beans-4.0.0.M3.jar
+END
+hibernate-envers-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/hibernate-envers-4.1.0.Final.jar
+END
+spring-context-support-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-context-support-4.0.0.M3.jar
+END
+slf4j-log4j12-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/slf4j-log4j12-1.7.5.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/dom4j-1.6.1.jar
+END
+hibernate-core-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/hibernate-core-4.1.0.Final.jar
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/log4j-1.2.14.jar
+END
+geronimo-j2ee-management_1.1_spec-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar
+END
+DmDialect-for-hibernate4.0-jdk1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/DmDialect-for-hibernate4.0-jdk1.6.jar
+END
+spring-jms-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/lib/spring-jms-4.0.0.M3.jar
+END

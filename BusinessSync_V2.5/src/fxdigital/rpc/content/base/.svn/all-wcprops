@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/rpc/content/base
+END
+RegisterContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/rpc/content/base/RegisterContent.java
+END
+RelationContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/rpc/content/base/RelationContent.java
+END
+DeregisterContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/rpc/content/base/DeregisterContent.java
+END
+NetworkContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/rpc/content/base/NetworkContent.java
+END

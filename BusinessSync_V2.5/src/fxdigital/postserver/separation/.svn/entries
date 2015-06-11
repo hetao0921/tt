@@ -1,0 +1,67 @@
+8
+
+dir
+1830
+https://192.168.1.200/svn/PPServer/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/separation
+https://192.168.1.200/svn/PPServer
+
+
+
+2014-11-18T06:00:56.755000Z
+1551
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+AbstractSeparater.java
+file
+
+
+
+
+2015-01-12T06:05:03.100000Z
+799a9030ee4e570e7c86dede31d11153
+2014-11-18T06:00:56.755000Z
+1551
+hetao
+
+ISeparater.java
+file
+
+
+
+
+2015-01-12T06:05:03.054000Z
+3dba55e8ae1d2de0bf812517b10a1434
+2014-11-18T06:00:56.755000Z
+1551
+hetao
+
+MailSeparation.java
+file
+
+
+
+
+2015-01-12T06:05:03.054000Z
+4ad13e69170f3d95d640742959f49212
+2014-11-18T06:00:56.755000Z
+1551
+hetao
+
+separaters
+dir
+

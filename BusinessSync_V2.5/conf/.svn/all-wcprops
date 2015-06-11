@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/conf
+END
+c3p0.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/conf/c3p0.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/conf/log4j.properties
+END
+spring_post.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PPServer/!svn/ver/1864/2P_V2.5/dbsync/BusinessSync/conf/spring_post.xml
+END
+SyncDataSet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/conf/SyncDataSet.xml
+END

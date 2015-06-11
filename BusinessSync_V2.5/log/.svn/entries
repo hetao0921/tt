@@ -1,0 +1,52 @@
+8
+
+dir
+1830
+https://192.168.1.200/svn/PPServer/2P_V2.5/dbsync/BusinessSync/log
+https://192.168.1.200/svn/PPServer
+
+
+
+2014-11-18T06:00:56.755000Z
+1551
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+BusinessSync.log.1
+file
+
+
+
+delete
+2015-01-12T06:04:53.973000Z
+bc28290dddac8e3974a8486fd9680af4
+2014-11-18T06:00:56.755000Z
+1551
+hetao
+
+BusinessSync.log.2
+file
+
+
+
+delete
+2015-01-12T06:04:54.519000Z
+8277824c858d18de471cb6fbd74f5be8
+2014-11-18T06:00:56.755000Z
+1551
+hetao
+

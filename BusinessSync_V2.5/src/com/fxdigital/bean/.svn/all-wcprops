@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/fxdigital/bean
+END
+SyncSupapply.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/fxdigital/bean/SyncSupapply.java
+END
+SyncSubapply.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/fxdigital/bean/SyncSubapply.java
+END
+SyncServerinfosync.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/fxdigital/bean/SyncServerinfosync.java
+END
+SyncNetworkinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/fxdigital/bean/SyncNetworkinfo.java
+END
+NvmpCenterinfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/fxdigital/bean/NvmpCenterinfotab.java
+END
+SyncRegistercenterinfossync.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/fxdigital/bean/SyncRegistercenterinfossync.java
+END
+SyncLocalregistercenterinfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/fxdigital/bean/SyncLocalregistercenterinfos.java
+END
+NvmpDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/fxdigital/bean/NvmpDevice.java
+END
+CenterMqserverinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/com/fxdigital/bean/CenterMqserverinfo.java
+END

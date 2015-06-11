@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/separation
+END
+AbstractSeparater.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/separation/AbstractSeparater.java
+END
+ISeparater.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/separation/ISeparater.java
+END
+MailSeparation.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/separation/MailSeparation.java
+END

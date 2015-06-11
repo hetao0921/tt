@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/db/dao
+END
+SyncMqDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/db/dao/SyncMqDao.java
+END
+NetworkDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/db/dao/NetworkDao.java
+END
+RegisterCentersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/db/dao/RegisterCentersDao.java
+END
+LocalRegisterCentersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/db/dao/LocalRegisterCentersDao.java
+END
+SupApplyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/db/dao/SupApplyDao.java
+END
+SyncUpnetworkinfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/2008/2P_V2.5/dbsync/BusinessSync/src/fxdigital/db/dao/SyncUpnetworkinfoDao.java
+END
+SubApplyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/db/dao/SubApplyDao.java
+END
+JMSSendDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/1910/2P_V2.5/dbsync/BusinessSync/src/fxdigital/db/dao/JMSSendDao.java
+END
+LocalCenterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/db/dao/LocalCenterDao.java
+END
+SyncServersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/db/dao/SyncServersDao.java
+END
+DeviceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/db/dao/DeviceDao.java
+END

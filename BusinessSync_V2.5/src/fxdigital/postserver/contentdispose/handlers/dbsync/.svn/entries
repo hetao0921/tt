@@ -1,0 +1,43 @@
+8
+
+dir
+1830
+https://192.168.1.200/svn/PPServer/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync
+https://192.168.1.200/svn/PPServer
+
+
+
+2014-12-02T06:53:47.772000Z
+1688
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+autoserver
+dir
+
+dao
+dir
+
+db
+dir
+
+pojo
+dir
+
+service
+dir
+

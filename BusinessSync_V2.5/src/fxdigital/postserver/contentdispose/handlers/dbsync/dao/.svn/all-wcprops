@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/dao
+END
+DataSourceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/PPServer/!svn/ver/2134/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/dao/DataSourceDao.java
+END
+DataVersionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/dao/DataVersionDao.java
+END
+SyncDataVersionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/dao/SyncDataVersionDao.java
+END
+DataOperateRecordDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/dao/DataOperateRecordDao.java
+END
+DataIncrementVersionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/PPServer/!svn/ver/1877/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/dao/DataIncrementVersionDao.java
+END
+SyncDataInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/dao/SyncDataInfoDao.java
+END
+SyncDataSetDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/dao/SyncDataSetDao.java
+END
+DualDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/PPServer/!svn/ver/1994/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/dao/DualDao.java
+END

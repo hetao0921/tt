@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:jms="http://www.springframework.org/schema/jms"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans-4.0.xsd 
+        http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context-4.0.xsd
+        http://www.springframework.org/schema/tx 
+        http://www.springframework.org/schema/tx/spring-tx-4.0.xsd
+        http://www.springframework.org/schema/jms 
+        http://www.springframework.org/schema/jms/spring-jms-4.0.xsd"
+	default-autowire="byName">
+	
+<!-- 	<context:component-scan base-package="*" />-->
+	<context:component-scan base-package="fxdigital.db,fxdigital.postserver,fxdigital.util" />
+	<bean id="xmlPropertiesPersister" class="fxdigital.util.XmlPropertiesPersister"/> 
+
+	<bean class="fxdigital.util.ConfigUtil">
+		<property name="ignoreResourceNotFound" value="true" /> 
+		<property name="propertiesPersister" ref="xmlPropertiesPersister"/>
+		<property name="locations">
+			<list>
+<!-- 				<value>conf/c3p0.properties</value> -->
+				<value>file:D:\\fxconf\\AppService\\AppService.conf</value>
+				<value>file:/etc/fxconf/AppService/AppService.conf</value>
+			</list>
+		</property>
+	</bean>
+	
+<!-- 	<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+	  	<property name="dataSource" ref="dataSource"/>
+	</bean>
+	 
+	 <bean id="txManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+	 	<property name="dataSource">
+	 		<ref bean="dataSource"/>
+	 	</property>
+	 </bean>
+	 
+	 <tx:annotation-driven transaction-manager="txManager" proxy-target-class="true" />
+	 
+	 数据源配置,使用应用内的C3P0数据库连接池
+	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close" >
+	  <property name="driverClass">
+	   <value>${datasource.driverClassName}</value>
+	  </property>
+	  <property name="jdbcUrl">
+	   <value>jdbc:mysql://#{readDBIP.dbIP}:3306/nvmp?useUnicode=true&amp;characterEncoding=GBK</value>
+	   <value>${datasource.nvmp.url}</value>
+	  </property>
+	  <property name="user">
+	   <value>${datasource.username}</value>
+	  </property>
+	  <property name="password">
+	   <value>${datasource.password}</value>
+	  </property>
+	  <property name="acquireIncrement">
+	   <value>${c3p0.acquireIncrement}</value>
+	  </property>
+	  <property name="initialPoolSize">
+	   <value>${c3p0.initialPoolSize}</value>
+	  </property>
+	  <property name="minPoolSize">
+	   <value>${c3p0.minPoolSize}</value>
+	  </property>
+	  <property name="maxPoolSize">
+	   <value>${c3p0.maxPoolSize}</value>
+	  </property>
+	  <property name="maxIdleTime">
+	   <value>${c3p0.maxIdleTime}</value>
+	  </property>
+	  <property name="idleConnectionTestPeriod">
+	   <value>${c3p0.idleConnectionTestPeriod}</value>
+	  </property>
+	  <property name="maxStatements">
+	   <value>${c3p0.maxStatements}</value>
+	  </property>
+	  <property name="numHelperThreads">
+	   <value>${c3p0.numHelperThreads}</value>
+	  </property>
+	 </bean>
+	 <import resource="hibernate.xml" />  -->
+	 
+	<!-- Spring提供的JMS工具类，它可以进行消息发送、接收等 -->
+	<bean id="jmsTemplate" class="org.springframework.jms.core.JmsTemplate">
+		<!-- 这个connectionFactory对应的是我们定义的Spring提供的那个ConnectionFactory对象 -->
+		<property name="connectionFactory" ref="connectionFactory" />
+	</bean>
+
+	<!-- 真正可以产生Connection的ConnectionFactory，由对应的 JMS服务厂商提供 -->
+	<bean id="targetConnectionFactory" class="org.apache.activemq.ActiveMQConnectionFactory">
+		<property name="brokerURL" value="#{dualService.brokerURL}" />
+	</bean>
+
+	<!-- Spring用于管理真正的ConnectionFactory的ConnectionFactory -->
+	<bean id="connectionFactory"
+		class="org.springframework.jms.connection.SingleConnectionFactory">
+		<!-- 目标ConnectionFactory对应真实的可以产生JMS Connection的ConnectionFactory -->
+		<property name="targetConnectionFactory" ref="targetConnectionFactory" />
+	</bean>
+	
+	
+		
+		<!-- Spring提供的JMS工具类，它可以进行消息发送、接收等 -->
+	<bean id="localJmsTemplate" class="org.springframework.jms.core.JmsTemplate">
+		<!-- 这个connectionFactory对应的是我们定义的Spring提供的那个ConnectionFactory对象 -->
+		<property name="connectionFactory" ref="localConnectionFactory" />
+	</bean>
+
+	<!-- 真正可以产生Connection的ConnectionFactory，由对应的 JMS服务厂商提供 -->
+	<bean id="localTargetConnectionFactory" class="org.apache.activemq.ActiveMQConnectionFactory">
+		<property name="brokerURL" value="#{dualService.localBrokerURL}" />
+	</bean>
+
+	<!-- Spring用于管理真正的ConnectionFactory的ConnectionFactory -->
+	<bean id="localConnectionFactory"
+		class="org.springframework.jms.connection.SingleConnectionFactory">
+		<!-- 目标ConnectionFactory对应真实的可以产生JMS Connection的ConnectionFactory -->
+		<property name="targetConnectionFactory" ref="localTargetConnectionFactory" />
+	</bean>
+
+	<!--这个是队列目的地 -->
+	<bean id="targetName" class="org.apache.activemq.command.ActiveMQQueue">
+		<constructor-arg>
+			<value>nvmp.clientQueue</value>
+		</constructor-arg>
+	</bean>
+
+	<!--这个是队列目的地 -->
+	<bean id="receiveQueue" class="org.apache.activemq.command.ActiveMQQueue">
+		<constructor-arg>
+			<value>nvmp.serverQueue</value>
+		</constructor-arg>
+	</bean>
+
+
+<!-- 消息监听器 -->
+	<bean id="receiverListener" class="fxdigital.postserver.contentdispose.handlers.dbsync.autoserver.ReceiverListener" />
+ 
+	 <bean id="localReceiverListener" class="fxdigital.postserver.contentdispose.handlers.dbsync.autoserver.LocalReceiverListener" />
+	 	
+</beans>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/pojo
+END
+DataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/pojo/DataSource.java
+END
+MsgType.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/PPServer/!svn/ver/1880/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/pojo/MsgType.java
+END
+SyncDataVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/pojo/SyncDataVersion.java
+END
+DataVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/pojo/DataVersion.java
+END
+MessageBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/pojo/MessageBean.java
+END
+SyncDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/pojo/SyncDataSet.java
+END
+MessageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/PPServer/!svn/ver/2030/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/pojo/MessageInfo.java
+END
+DataOperateRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/PPServer/!svn/ver/1828/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/pojo/DataOperateRecord.java
+END

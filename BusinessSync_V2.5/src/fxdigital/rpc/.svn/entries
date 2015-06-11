@@ -1,0 +1,85 @@
+8
+
+dir
+1830
+https://192.168.1.200/svn/PPServer/2P_V2.5/dbsync/BusinessSync/src/fxdigital/rpc
+https://192.168.1.200/svn/PPServer
+
+
+
+2014-11-18T06:00:56.755000Z
+1551
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+AbstractContent.java
+file
+
+
+
+
+2015-01-12T06:05:02.398000Z
+25b9c7146fdeb79ee28e86ad201f3476
+2014-11-18T06:00:56.755000Z
+1551
+hetao
+
+IContent.java
+file
+
+
+
+
+2015-01-12T06:05:02.274000Z
+bd0885e6802afb1400953a3cf2a8878d
+2014-11-18T06:00:56.755000Z
+1551
+hetao
+
+Mail.java
+file
+
+
+
+
+2015-01-12T06:05:02.274000Z
+78a3e2ec935a41a6e6b927299929c770
+2014-11-18T06:00:56.755000Z
+1551
+hetao
+
+ModeAndType.java
+file
+
+
+
+
+2015-01-12T06:05:02.274000Z
+362452a75d007d68ff50d558ca076e44
+2014-11-18T06:00:56.755000Z
+1551
+hetao
+
+content
+dir
+
+contenttype
+dir
+
+sendmode
+dir
+

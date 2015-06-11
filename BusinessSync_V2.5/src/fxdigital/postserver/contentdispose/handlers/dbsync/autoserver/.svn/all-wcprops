@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/PPServer/!svn/ver/1836/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/autoserver
+END
+JMSSendService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/PPServer/!svn/ver/1921/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/autoserver/JMSSendService.java
+END
+DualService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/PPServer/!svn/ver/2010/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/autoserver/DualService.java
+END
+ReceiverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/PPServer/!svn/ver/2134/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/autoserver/ReceiverListener.java
+END
+LocalReceiverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/PPServer/!svn/ver/2134/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/autoserver/LocalReceiverListener.java
+END
+Msg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/PPServer/!svn/ver/1836/2P_V2.5/dbsync/BusinessSync/src/fxdigital/postserver/contentdispose/handlers/dbsync/autoserver/Msg.java
+END

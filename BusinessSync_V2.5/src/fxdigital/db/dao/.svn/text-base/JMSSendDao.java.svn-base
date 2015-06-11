@@ -1,0 +1,86 @@
+package fxdigital.db.dao;
+ 
+import javax.jms.BytesMessage;
+import javax.jms.Destination;
+import javax.jms.JMSException;
+import javax.jms.Message;
+import javax.jms.Session;
+
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jms.core.JmsTemplate;
+import org.springframework.jms.core.MessageCreator;
+import org.springframework.stereotype.Repository;
+
+import com.fxdigital.mqcore.util.BaseHeader;
+import com.fxdigital.mqcore.util.ByteArrayUtil;
+import com.fxdigital.mqcore.util.Encoding;
+import com.fxdigital.mqcore.util.Protocol;
+
+import fxdigital.postserver.contentdispose.handlers.dbsync.autoserver.Msg;
+ 
+@Repository
+public class JMSSendDao  { 
+	private Log logger = LogFactory.getLog(JMSSendDao.class);
+    @Autowired
+    private JmsTemplate jmsTemplate;   
+    @Autowired
+    private JmsTemplate localJmsTemplate;  
+    
+    public void sendMessage(Destination destination, final Msg m,final byte[] data,final String receiveId) {
+        //System.out.println("---------------生产者发送消息-----------------");
+        logger.info("---------------生产者发送消息-----------------");
+        jmsTemplate.send(destination, new MessageCreator() {
+            public Message createMessage(Session session) throws JMSException {
+        		BytesMessage bmg = session.createBytesMessage();
+        		byte[] body =Encoding.StringToByte(m.Serilize());
+        		
+        		BaseHeader Header = new BaseHeader();
+        		Header.setType(Protocol.RpcMessage);
+        		Header.setPriority((byte) 4);
+        		Header.setBodyLength(body == null ? 0 : body.length);
+        		
+        		//下面就是把 包头 包体 数据， 合并成为一个byte[];
+        		byte[] array = ByteArrayUtil.Sum(Header.getData(),body,data);    		
+        		 bmg.setStringProperty("receiveId", receiveId);
+        	        bmg.setIntProperty("Length", array.length);
+        			bmg.writeBytes(array);
+
+    
+        		return bmg;
+        	}
+        });
+        
+    }
+    
+    
+    public void sendLocalMessage(Destination destination, final Msg m,final byte[] data,final String receiveId) {
+        //System.out.println("---------------生产者发送消息-----------------");
+        logger.info("---------------生产者发送消息-----------------");
+        localJmsTemplate.send(destination, new MessageCreator() {
+            public Message createMessage(Session session) throws JMSException {
+        		BytesMessage bmg = session.createBytesMessage();
+        		
+        		byte[] body =Encoding.StringToByte(m.Serilize());
+        		
+        		BaseHeader Header = new BaseHeader();
+        		Header.setType(Protocol.RpcMessage);
+        		Header.setPriority((byte) 4);
+        		Header.setBodyLength(body == null ? 0 : body.length);
+        		
+        		//下面就是把 包头 包体 数据， 合并成为一个byte[];
+        		byte[] array = ByteArrayUtil.Sum(Header.getData(),body,data);    		
+        		 bmg.setStringProperty("receiveId", receiveId);
+        	        bmg.setIntProperty("Length", array.length);
+        			bmg.writeBytes(array);
+
+    
+        		return bmg;
+        	}
+        });
+        
+    }
+ 
+}
+
